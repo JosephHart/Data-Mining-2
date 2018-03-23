@@ -1,0 +1,5000 @@
+Age,Sex,Weight,Height,IQ,Alcohol,Cigarettes,Active,Health
+32,Female,101,67,110,0,0,Inactive,251
+47,Female,138,67,84,2,0,Active,193
+25,Male,166,73,106,2,5,Inactive,167
+75,Male,184,73,99,2,0,Inactive,93
+72,Female,105,65,99,2,0,Active,150
+59,Female,133,62,107,0,0,Inactive,120
+31,Female,162,65,95,1,0,Inactive,167
+72,Male,167,70,94,1,0,Inactive,90
+53,Female,152,66,99,0,0,Active,181
+25,Male,177,71,91,1,0,Very Active,242
+55,Female,124,68,106,0,0,Active,217
+76,Female,142,64,92,0,29,Active,124
+30,Female,147,65,101,1,30,Inactive,139
+66,Female,121,65,106,0,0,Inactive,139
+20,Male,165,74,94,2,0,Very Active,264
+35,Female,126,63,103,2,0,Very Active,294
+69,Male,150,72,94,1,0,Inactive,96
+47,Female,128,61,103,1,0,Inactive,109
+70,Male,181,74,98,2,0,Inactive,89
+52,Female,125,65,97,1,0,Active,187
+63,Female,141,64,91,0,0,Active,183
+49,Male,181,71,89,2,29,Inactive,81
+20,Male,148,75,102,0,0,Active,286
+42,Female,136,59,103,2,0,Inactive,109
+74,Male,170,77,111,0,0,Active,117
+56,Female,123,63,113,1,0,Inactive,150
+59,Male,175,77,107,2,0,Active,137
+24,Female,136,63,98,1,0,Active,279
+23,Female,100,64,94,0,17,Inactive,210
+29,Male,161,74,103,3,33,Active,127
+79,Male,155,75,102,1,0,Active,107
+18,Male,175,72,93,1,25,Inactive,141
+59,Male,168,72,102,1,0,Inactive,117
+61,Female,106,64,98,1,0,Inactive,123
+23,Male,194,64,99,2,0,Active,171
+66,Female,122,68,99,4,0,Very Active,194
+69,Female,133,65,110,0,0,Inactive,88
+46,Female,144,64,98,2,30,Inactive,115
+69,Female,105,71,102,3,0,Active,178
+19,Female,136,64,98,0,0,Inactive,236
+56,Female,115,66,96,1,0,Inactive,104
+65,Male,174,70,104,2,0,Inactive,102
+33,Female,137,63,112,1,0,Inactive,135
+57,Male,128,77,99,0,39,Inactive,90
+41,Female,134,64,98,1,0,Inactive,152
+36,Male,148,72,91,0,0,Active,214
+44,Male,162,72,92,1,0,Active,157
+31,Female,114,66,108,1,17,Very Active,263
+56,Male,156,67,98,3,0,Inactive,87
+27,Female,112,66,97,1,0,Inactive,212
+42,Female,141,68,103,0,0,Active,221
+24,Male,190,73,101,1,0,Active,226
+61,Female,118,69,92,1,11,Inactive,88
+50,Female,116,65,98,1,0,Very Active,252
+36,Male,133,77,102,1,0,Inactive,161
+38,Female,106,68,100,1,36,Inactive,87
+76,Male,165,73,102,1,0,Very Active,128
+28,Female,141,62,93,2,0,Inactive,208
+37,Female,128,64,95,1,0,Very Active,295
+49,Female,110,60,98,1,15,Active,160
+43,Male,189,77,112,1,0,Inactive,130
+71,Male,141,73,106,1,0,Inactive,85
+42,Female,126,64,91,0,33,Very Active,186
+79,Female,124,67,94,1,0,Active,139
+30,Male,173,70,102,3,0,Inactive,150
+34,Female,104,66,95,0,0,Very Active,354
+43,Female,138,64,101,1,0,Inactive,175
+25,Male,209,69,100,0,0,Inactive,143
+44,Female,140,69,89,1,0,Inactive,180
+65,Female,125,69,96,1,30,Active,121
+24,Male,182,74,93,1,0,Inactive,156
+24,Female,92,68,97,3,0,Active,318
+35,Female,124,71,92,0,0,Active,306
+65,Female,141,64,103,1,0,Active,154
+75,Male,164,72,94,1,0,Inactive,79
+25,Female,127,69,112,1,0,Active,350
+50,Female,117,65,103,0,0,Active,202
+22,Female,124,70,99,2,0,Active,365
+44,Male,155,70,110,1,0,Inactive,128
+33,Female,94,63,104,2,10,Very Active,283
+45,Male,171,71,107,1,0,Active,165
+56,Female,136,65,108,1,0,Active,174
+35,Female,124,64,92,0,0,Inactive,178
+74,Female,105,67,111,1,37,Very Active,139
+54,Female,135,63,99,0,11,Active,157
+41,Female,118,64,109,0,0,Inactive,131
+65,Male,144,71,94,1,0,Very Active,146
+23,Male,176,73,94,0,0,Inactive,173
+39,Female,118,63,90,0,0,Very Active,301
+55,Male,188,66,102,1,17,Very Active,122
+77,Female,116,67,95,1,0,Inactive,82
+53,Male,178,77,102,0,0,Inactive,108
+40,Female,143,63,84,2,0,Active,202
+39,Female,136,66,104,3,15,Inactive,98
+76,Female,109,69,104,0,0,Inactive,87
+71,Female,144,65,100,1,0,Very Active,186
+28,Female,138,70,95,0,0,Inactive,251
+44,Female,133,64,94,0,0,Inactive,120
+79,Male,167,74,98,2,0,Inactive,92
+58,Male,177,72,105,1,0,Active,128
+52,Female,147,66,91,0,0,Inactive,132
+50,Male,169,77,102,0,0,Very Active,186
+68,Female,132,71,107,2,16,Active,132
+27,Female,153,65,90,2,0,Active,283
+24,Female,104,65,104,3,21,Active,205
+74,Female,125,64,101,1,0,Active,164
+78,Male,186,73,102,3,0,Active,105
+72,Male,184,72,96,0,0,Inactive,83
+64,Female,136,73,103,3,0,Active,182
+62,Female,119,65,103,1,12,Very Active,188
+78,Female,136,62,102,0,0,Inactive,97
+51,Female,133,68,100,2,0,Active,186
+75,Male,140,73,105,1,0,Active,123
+37,Female,102,64,101,0,18,Very Active,248
+62,Female,118,63,94,0,0,Inactive,121
+78,Female,111,67,102,0,0,Inactive,126
+35,Female,101,71,94,0,0,Inactive,163
+69,Female,113,68,105,0,0,Inactive,93
+77,Female,122,72,104,0,28,Active,132
+54,Female,151,63,111,1,0,Active,169
+44,Female,140,61,107,2,0,Very Active,242
+78,Male,163,74,98,2,0,Inactive,94
+80,Female,137,65,108,0,0,Inactive,78
+37,Female,126,67,96,0,0,Active,247
+47,Female,155,63,99,3,0,Inactive,99
+40,Female,131,62,97,1,0,Very Active,273
+79,Female,120,59,101,0,0,Inactive,77
+67,Female,117,69,114,2,0,Inactive,91
+50,Female,103,64,115,0,0,Very Active,266
+22,Male,170,71,87,3,31,Very Active,147
+65,Female,109,61,93,0,0,Inactive,140
+27,Female,111,68,104,1,0,Active,349
+69,Female,141,68,110,0,0,Inactive,133
+33,Male,139,72,103,2,0,Inactive,150
+55,Female,122,67,101,0,26,Active,140
+32,Female,142,66,104,1,0,Active,281
+76,Male,163,70,101,0,0,Inactive,101
+23,Male,160,71,100,0,22,Inactive,119
+55,Male,148,69,97,1,0,Inactive,111
+29,Male,174,74,104,1,0,Inactive,145
+34,Male,187,69,109,1,29,Active,116
+18,Female,115,65,93,0,0,Inactive,215
+64,Female,131,61,84,2,21,Active,123
+72,Female,125,62,105,1,0,Inactive,124
+42,Female,125,67,95,0,0,Active,260
+76,Female,126,61,108,0,20,Inactive,67
+41,Female,133,69,107,2,0,Very Active,278
+24,Male,185,76,95,1,0,Active,218
+32,Female,127,64,97,2,0,Inactive,208
+72,Male,177,71,111,0,0,Inactive,103
+72,Female,136,65,89,0,0,Active,148
+54,Female,116,65,104,2,0,Inactive,103
+25,Female,145,66,89,1,19,Active,231
+61,Male,158,73,106,1,0,Inactive,105
+56,Female,125,67,99,2,0,Active,176
+67,Male,168,68,104,0,0,Inactive,86
+67,Male,158,73,107,1,33,Very Active,104
+69,Male,165,72,105,3,0,Inactive,97
+44,Female,127,62,105,0,0,Active,208
+67,Female,119,66,100,0,0,Active,162
+25,Male,174,70,100,2,0,Inactive,138
+80,Male,189,70,89,2,0,Active,104
+70,Female,112,60,103,0,0,Inactive,109
+22,Male,166,70,99,1,0,Very Active,261
+22,Male,164,72,98,2,0,Active,211
+57,Female,141,66,97,0,0,Inactive,100
+20,Female,127,62,96,1,0,Very Active,398
+77,Female,122,67,103,0,3,Active,161
+26,Female,118,67,82,1,0,Very Active,387
+74,Female,140,64,98,2,6,Active,130
+79,Male,158,74,86,0,0,Inactive,101
+54,Female,98,64,92,1,37,Inactive,91
+64,Male,185,72,105,1,0,Inactive,107
+62,Male,180,75,101,0,7,Inactive,109
+19,Female,114,67,102,2,0,Inactive,294
+54,Female,119,63,102,3,0,Active,173
+76,Female,121,67,111,3,0,Active,139
+34,Male,177,75,98,1,0,Active,200
+54,Male,149,69,105,4,0,Very Active,141
+70,Female,121,60,94,2,2,Inactive,100
+63,Male,176,73,105,2,0,Inactive,96
+35,Female,104,65,111,2,0,Active,249
+46,Female,119,65,110,1,4,Very Active,251
+44,Female,128,66,112,0,0,Active,247
+22,Female,107,65,93,2,0,Inactive,274
+32,Female,112,66,95,0,0,Active,319
+51,Male,184,76,95,3,0,Inactive,105
+37,Female,118,64,109,0,0,Inactive,140
+19,Female,142,64,93,1,0,Inactive,220
+49,Male,187,73,107,1,0,Inactive,129
+43,Female,119,66,91,1,0,Very Active,280
+43,Male,165,70,101,3,0,Inactive,114
+69,Female,138,61,101,3,0,Inactive,99
+41,Female,138,66,104,1,0,Active,214
+45,Male,174,73,103,2,0,Active,145
+71,Female,85,68,92,0,17,Inactive,99
+50,Female,125,72,108,2,12,Active,193
+56,Female,114,68,103,1,0,Very Active,239
+80,Male,153,77,94,1,0,Inactive,98
+56,Female,112,71,106,2,0,Inactive,132
+47,Male,179,68,108,0,0,Inactive,108
+55,Male,182,73,102,2,0,Active,126
+70,Male,188,72,95,0,0,Active,115
+34,Male,142,67,99,0,0,Very Active,231
+40,Female,107,65,101,2,0,Inactive,129
+67,Male,185,73,97,1,33,Active,93
+29,Female,151,68,102,0,0,Inactive,154
+64,Male,192,70,92,2,0,Inactive,100
+43,Female,116,64,97,2,16,Inactive,121
+59,Female,145,64,97,1,0,Active,186
+79,Male,166,73,95,3,0,Active,106
+59,Male,175,71,99,0,6,Inactive,89
+26,Male,155,70,93,1,0,Active,230
+31,Male,180,71,95,0,27,Inactive,108
+73,Female,120,71,101,0,0,Inactive,89
+76,Female,137,67,111,1,0,Active,141
+68,Male,188,75,94,0,10,Active,108
+50,Female,117,68,96,3,0,Inactive,108
+54,Male,184,71,98,0,0,Inactive,113
+75,Male,190,72,103,2,38,Inactive,68
+27,Male,146,75,102,4,0,Active,196
+37,Male,161,74,98,2,0,Very Active,198
+21,Male,155,66,95,1,0,Active,220
+59,Male,163,71,98,0,0,Inactive,122
+25,Male,159,77,106,2,0,Active,212
+57,Female,125,62,107,0,0,Active,175
+60,Female,134,62,99,0,0,Active,166
+44,Female,105,72,95,2,29,Inactive,132
+35,Male,180,74,100,0,0,Very Active,224
+37,Male,167,68,95,1,0,Very Active,196
+21,Female,122,66,109,0,6,Inactive,257
+73,Female,125,66,96,0,0,Active,150
+40,Female,151,61,102,0,0,Inactive,117
+39,Female,120,69,100,3,0,Very Active,287
+78,Male,168,67,101,2,0,Active,98
+18,Male,163,70,100,0,0,Inactive,242
+74,Male,158,74,106,0,0,Active,117
+46,Male,165,70,98,2,0,Active,154
+66,Female,119,66,96,2,0,Active,157
+25,Male,187,74,107,0,0,Very Active,265
+57,Male,154,75,107,1,0,Inactive,125
+56,Female,137,70,103,2,0,Inactive,126
+32,Male,178,71,99,0,0,Inactive,176
+34,Female,129,72,101,0,0,Inactive,233
+42,Female,111,60,97,1,0,Inactive,152
+59,Male,168,72,105,0,0,Inactive,122
+19,Female,118,66,99,1,0,Very Active,450
+49,Female,86,64,100,0,0,Inactive,188
+43,Female,132,66,109,2,0,Inactive,117
+42,Female,136,67,99,0,0,Inactive,190
+71,Male,164,70,100,0,0,Inactive,106
+33,Female,156,64,87,1,17,Active,203
+57,Female,135,66,96,1,0,Inactive,124
+65,Female,128,62,101,0,8,Inactive,83
+58,Female,130,66,102,0,0,Inactive,152
+20,Female,120,67,102,2,25,Active,236
+79,Male,158,79,90,0,0,Inactive,83
+76,Female,108,63,108,0,0,Inactive,105
+78,Female,111,67,98,1,0,Very Active,185
+66,Male,176,73,104,1,0,Active,118
+65,Male,174,70,99,0,0,Inactive,100
+33,Female,155,70,101,2,7,Inactive,121
+50,Female,126,64,99,1,0,Inactive,136
+57,Male,196,68,103,1,19,Inactive,91
+77,Female,131,63,97,0,0,Very Active,180
+37,Female,121,68,107,1,1,Inactive,205
+79,Female,155,68,96,2,0,Inactive,113
+79,Male,151,69,90,0,0,Inactive,79
+71,Male,172,73,106,4,0,Inactive,82
+68,Male,155,74,102,1,19,Active,99
+33,Female,128,64,108,1,0,Inactive,140
+19,Female,133,68,94,0,0,Very Active,459
+75,Female,145,64,97,0,0,Active,160
+28,Female,157,68,96,1,0,Inactive,223
+26,Female,111,67,107,3,33,Active,170
+36,Female,125,62,105,3,0,Active,247
+66,Female,119,68,102,2,0,Active,182
+59,Male,190,75,99,0,0,Very Active,157
+32,Male,180,69,94,1,0,Inactive,160
+51,Male,176,70,104,1,0,Very Active,162
+48,Female,119,62,99,4,0,Active,206
+33,Female,122,60,95,0,2,Active,272
+56,Female,107,66,99,1,0,Inactive,159
+40,Female,141,68,98,0,0,Inactive,163
+73,Male,183,69,97,2,0,Inactive,74
+53,Male,165,73,106,0,0,Very Active,174
+56,Female,144,63,99,1,0,Inactive,120
+77,Female,137,70,94,1,20,Very Active,152
+31,Female,117,66,109,0,40,Very Active,200
+56,Female,103,69,103,3,0,Inactive,155
+27,Male,151,71,102,1,25,Inactive,104
+51,Male,198,71,90,3,2,Active,119
+35,Female,130,61,102,1,0,Active,260
+75,Female,144,63,91,1,0,Active,137
+64,Male,179,74,99,1,15,Active,113
+78,Male,155,76,96,3,0,Very Active,119
+21,Male,202,73,103,0,0,Active,252
+23,Male,170,70,97,2,33,Inactive,113
+74,Male,173,70,104,1,2,Inactive,95
+72,Female,118,69,99,2,0,Inactive,128
+25,Female,110,66,101,1,0,Very Active,402
+42,Male,181,72,97,0,0,Active,165
+53,Male,134,70,102,1,0,Active,157
+56,Male,167,69,100,1,0,Very Active,154
+67,Female,144,68,93,0,17,Active,151
+34,Female,137,69,96,0,0,Active,295
+36,Female,150,71,104,0,0,Inactive,141
+61,Female,126,62,104,1,0,Active,163
+55,Female,99,70,100,1,0,Active,225
+31,Male,185,71,103,1,15,Active,158
+58,Male,163,75,88,1,0,Active,134
+66,Female,98,70,94,1,0,Inactive,122
+70,Male,162,69,111,1,0,Active,123
+77,Female,118,63,97,0,0,Inactive,123
+75,Female,132,67,114,4,0,Active,154
+19,Female,103,71,98,1,0,Inactive,339
+23,Female,133,66,93,0,20,Inactive,124
+28,Male,175,70,104,0,30,Inactive,96
+71,Female,133,69,102,1,0,Inactive,86
+42,Male,163,71,109,0,2,Inactive,120
+48,Female,97,68,94,0,0,Inactive,159
+21,Male,161,80,106,0,26,Inactive,155
+33,Female,113,66,94,3,18,Inactive,159
+42,Male,179,71,107,0,0,Inactive,134
+28,Female,134,67,99,0,21,Very Active,257
+28,Male,168,68,97,0,0,Inactive,168
+19,Female,134,67,107,3,13,Active,237
+28,Male,187,79,97,1,0,Very Active,245
+34,Female,123,67,89,1,0,Inactive,181
+43,Female,110,67,100,2,0,Very Active,280
+48,Female,134,66,98,1,4,Inactive,106
+44,Female,126,64,105,1,0,Active,207
+33,Female,135,70,107,1,0,Active,294
+58,Female,121,65,86,0,0,Active,179
+80,Female,137,73,104,1,0,Inactive,100
+35,Male,167,70,100,3,0,Very Active,183
+44,Male,168,70,109,1,0,Inactive,139
+35,Male,142,69,91,2,0,Very Active,203
+63,Female,101,64,100,1,0,Inactive,146
+52,Female,123,68,104,0,0,Inactive,141
+79,Female,117,64,105,2,35,Inactive,72
+72,Female,94,66,96,1,0,Inactive,112
+34,Female,126,66,91,1,0,Inactive,142
+61,Female,96,65,101,2,0,Active,198
+54,Female,96,65,108,0,0,Inactive,114
+73,Male,170,74,109,0,0,Inactive,105
+20,Male,151,68,99,2,0,Inactive,196
+77,Male,185,73,101,3,0,Very Active,115
+31,Male,173,71,95,0,0,Inactive,163
+35,Female,135,69,98,0,0,Active,291
+20,Male,153,71,94,1,19,Very Active,202
+45,Female,131,72,111,0,0,Active,223
+22,Male,137,75,101,1,0,Inactive,209
+41,Female,122,63,103,0,0,Inactive,128
+52,Female,146,66,84,0,5,Very Active,223
+44,Female,117,62,108,2,36,Very Active,171
+29,Female,118,65,100,0,0,Inactive,247
+37,Male,167,75,106,0,0,Very Active,225
+61,Female,110,65,99,0,0,Inactive,126
+41,Female,121,69,108,1,29,Active,178
+75,Female,105,66,91,0,0,Very Active,196
+32,Male,145,68,95,1,0,Inactive,155
+58,Male,198,73,104,1,35,Inactive,73
+32,Female,102,71,100,1,0,Very Active,373
+74,Female,123,70,94,1,0,Very Active,192
+24,Female,119,67,108,1,0,Active,358
+59,Male,175,74,96,2,0,Inactive,101
+79,Male,182,73,92,2,36,Inactive,68
+19,Female,144,70,106,0,0,Very Active,454
+43,Female,131,65,102,0,12,Inactive,104
+56,Female,121,61,102,0,0,Very Active,228
+42,Male,207,71,106,2,6,Active,130
+19,Female,125,64,91,1,0,Inactive,236
+58,Female,117,69,100,3,0,Very Active,221
+73,Female,124,66,102,0,12,Inactive,114
+77,Female,107,62,100,1,0,Active,162
+20,Female,124,63,100,1,0,Inactive,227
+57,Female,156,65,100,0,0,Active,169
+53,Male,173,74,104,0,0,Very Active,173
+56,Male,170,76,111,1,0,Inactive,99
+22,Male,180,75,100,1,29,Inactive,103
+46,Female,144,68,100,1,0,Active,229
+35,Female,109,65,94,0,39,Inactive,109
+41,Female,112,65,105,4,0,Inactive,118
+71,Male,151,70,89,1,0,Inactive,93
+40,Male,178,74,109,2,19,Inactive,100
+72,Female,126,66,100,2,0,Very Active,187
+50,Male,184,69,106,0,0,Inactive,117
+20,Male,157,73,100,0,0,Very Active,319
+73,Female,141,65,113,1,0,Active,142
+49,Female,133,65,97,1,8,Inactive,123
+22,Male,169,70,106,0,0,Inactive,216
+51,Female,137,68,98,0,0,Active,195
+74,Male,144,71,104,1,25,Active,97
+78,Male,169,72,98,1,0,Inactive,95
+79,Female,117,68,98,1,0,Inactive,121
+65,Male,180,72,100,0,0,Active,134
+24,Female,121,60,101,2,0,Very Active,349
+67,Female,124,68,94,0,0,Inactive,140
+75,Female,125,59,101,1,0,Active,156
+75,Male,179,71,105,2,0,Inactive,93
+75,Male,156,72,107,0,0,Active,125
+34,Female,136,70,109,0,31,Inactive,118
+80,Male,153,71,101,0,20,Inactive,66
+24,Female,133,63,104,0,0,Active,294
+80,Male,166,73,101,1,0,Inactive,76
+54,Female,105,65,109,1,0,Very Active,245
+45,Female,128,64,100,2,0,Inactive,113
+30,Female,161,65,111,1,0,Very Active,306
+72,Female,129,71,112,1,0,Active,174
+54,Male,174,70,97,0,0,Inactive,101
+70,Female,134,67,104,0,0,Active,176
+51,Male,162,70,96,1,0,Very Active,166
+40,Female,139,64,101,0,0,Very Active,282
+36,Male,196,71,96,2,0,Inactive,112
+19,Female,144,65,107,3,0,Active,286
+67,Female,104,64,94,0,0,Inactive,118
+24,Female,93,63,96,1,0,Inactive,188
+18,Female,128,64,110,0,0,Inactive,200
+57,Female,130,71,101,0,17,Active,152
+75,Male,185,72,93,2,9,Inactive,85
+24,Male,154,72,107,0,5,Very Active,261
+19,Female,112,67,94,0,0,Inactive,328
+69,Female,111,69,94,1,0,Very Active,206
+44,Male,175,78,97,3,0,Active,144
+67,Male,161,78,104,2,0,Inactive,85
+47,Female,130,61,102,0,0,Inactive,112
+18,Female,129,68,102,4,30,Very Active,238
+59,Female,135,63,96,0,0,Very Active,217
+64,Female,121,69,111,0,0,Inactive,98
+23,Female,126,67,104,0,0,Inactive,281
+67,Female,150,68,100,1,0,Very Active,196
+23,Male,175,72,96,0,0,Inactive,214
+58,Male,141,72,100,3,0,Active,123
+61,Male,157,74,101,2,0,Inactive,112
+47,Female,128,63,101,1,0,Very Active,251
+33,Male,192,74,107,2,0,Inactive,137
+73,Female,158,62,97,0,0,Active,137
+33,Male,173,74,115,1,0,Active,203
+39,Male,157,70,105,0,0,Active,179
+78,Male,118,80,99,2,0,Very Active,131
+35,Female,125,72,102,2,0,Inactive,179
+35,Female,116,64,106,2,0,Active,272
+25,Male,156,74,103,1,0,Very Active,265
+35,Male,160,75,109,1,0,Very Active,220
+38,Female,134,67,97,2,0,Inactive,127
+66,Female,130,67,93,1,0,Inactive,136
+30,Male,181,71,103,0,0,Very Active,235
+76,Female,126,60,99,0,9,Inactive,91
+41,Female,155,67,89,0,0,Inactive,184
+40,Female,121,63,98,1,0,Inactive,158
+50,Female,145,69,84,1,9,Inactive,97
+38,Male,176,68,95,2,16,Inactive,101
+53,Female,123,66,101,1,12,Active,161
+69,Female,127,65,91,1,0,Inactive,87
+34,Female,135,71,107,0,0,Inactive,189
+77,Female,127,63,88,0,0,Inactive,101
+44,Male,161,75,92,3,0,Inactive,118
+24,Female,143,63,108,0,0,Very Active,365
+61,Female,112,67,94,5,0,Active,181
+58,Male,167,78,101,0,0,Very Active,168
+52,Male,189,73,105,1,0,Inactive,99
+40,Male,185,68,95,0,33,Inactive,89
+60,Female,153,64,102,1,0,Active,181
+40,Male,191,75,101,0,0,Inactive,125
+69,Male,177,72,102,0,0,Active,118
+31,Male,199,77,95,0,0,Inactive,183
+64,Female,129,61,99,0,0,Active,158
+64,Female,127,65,89,1,0,Inactive,138
+69,Female,148,67,100,1,0,Active,149
+64,Female,137,66,106,0,0,Active,186
+78,Female,127,64,99,1,0,Inactive,79
+69,Female,131,68,106,1,37,Inactive,63
+33,Female,136,62,99,0,2,Inactive,167
+56,Male,187,74,95,0,0,Inactive,100
+51,Female,132,66,98,0,0,Active,194
+70,Female,97,65,99,0,23,Very Active,165
+44,Female,127,65,93,2,0,Inactive,145
+70,Male,178,71,91,0,0,Inactive,84
+57,Female,129,66,104,1,0,Inactive,100
+70,Female,97,65,101,0,0,Very Active,209
+33,Female,119,72,96,3,0,Inactive,218
+72,Male,174,74,100,1,0,Very Active,132
+67,Female,120,66,92,1,0,Active,158
+43,Male,154,70,101,1,0,Inactive,116
+72,Female,115,68,99,0,0,Inactive,89
+25,Female,141,68,101,0,0,Very Active,388
+45,Female,119,69,107,1,0,Inactive,186
+31,Male,153,74,99,1,8,Very Active,208
+40,Female,131,67,111,4,0,Active,234
+67,Male,154,79,103,2,0,Inactive,108
+27,Female,124,64,103,0,0,Inactive,207
+66,Female,126,65,101,1,7,Very Active,188
+32,Male,169,73,107,0,15,Inactive,144
+45,Female,139,72,96,3,0,Inactive,115
+58,Female,143,65,94,0,3,Very Active,212
+77,Female,148,69,99,0,0,Active,142
+76,Female,156,71,95,1,0,Active,160
+41,Male,170,76,102,1,0,Active,183
+75,Male,164,74,109,0,0,Active,125
+63,Female,146,68,89,1,0,Inactive,115
+68,Female,101,63,101,3,0,Inactive,109
+20,Male,149,72,103,2,33,Active,135
+64,Female,137,70,106,3,0,Inactive,134
+69,Female,139,66,97,2,0,Inactive,126
+49,Male,166,73,104,0,0,Inactive,127
+44,Female,124,66,98,2,0,Active,235
+78,Female,103,67,103,1,0,Very Active,187
+51,Female,120,66,91,1,40,Very Active,160
+38,Male,143,67,100,1,19,Inactive,120
+38,Female,165,70,102,0,0,Very Active,292
+19,Female,115,67,104,1,0,Active,410
+24,Female,144,68,98,1,0,Inactive,251
+51,Female,104,66,98,0,40,Very Active,167
+26,Female,107,72,105,0,0,Active,346
+47,Female,102,70,101,0,0,Very Active,292
+33,Female,109,70,101,0,0,Very Active,370
+60,Female,125,67,101,1,0,Inactive,147
+80,Female,150,63,103,1,0,Inactive,111
+55,Male,172,69,104,1,0,Inactive,118
+76,Female,135,63,108,1,0,Active,137
+24,Female,150,66,97,1,0,Active,279
+71,Male,183,72,99,0,0,Inactive,94
+51,Female,125,68,96,1,14,Inactive,140
+34,Male,170,68,99,2,0,Inactive,147
+70,Male,157,72,97,0,0,Inactive,88
+68,Male,163,73,102,2,0,Active,123
+70,Female,128,65,95,1,0,Inactive,86
+69,Female,130,66,106,0,0,Inactive,111
+24,Male,171,74,97,2,0,Active,222
+62,Female,143,66,99,1,0,Active,184
+41,Female,88,66,99,1,0,Inactive,140
+30,Female,141,66,107,0,0,Inactive,190
+77,Male,164,68,92,0,0,Inactive,78
+55,Male,171,70,101,1,0,Very Active,156
+25,Male,187,69,109,2,0,Active,198
+33,Male,147,76,95,1,0,Inactive,146
+27,Female,141,65,93,0,0,Inactive,198
+73,Female,124,64,92,1,0,Active,166
+51,Male,195,67,95,2,0,Inactive,89
+28,Female,113,64,94,1,0,Inactive,202
+52,Female,103,63,98,2,0,Active,189
+29,Female,128,69,104,2,0,Very Active,347
+57,Male,178,68,97,3,0,Active,125
+68,Female,140,63,99,1,0,Inactive,105
+72,Male,178,74,101,1,0,Inactive,101
+29,Female,122,64,92,2,0,Inactive,148
+76,Female,145,64,105,1,0,Inactive,117
+30,Female,118,68,94,1,0,Active,280
+39,Female,118,63,102,0,0,Inactive,167
+19,Female,157,64,87,2,0,Inactive,160
+74,Female,141,65,115,0,0,Active,144
+68,Female,130,69,106,1,0,Inactive,112
+57,Female,133,60,97,1,0,Inactive,118
+27,Female,124,61,100,0,0,Active,278
+57,Female,109,68,103,1,0,Very Active,238
+39,Female,129,65,91,1,0,Active,224
+31,Female,115,65,114,1,24,Active,184
+32,Female,112,63,97,2,0,Active,287
+56,Female,89,65,101,3,0,Active,208
+23,Female,124,61,100,1,0,Active,330
+49,Male,179,71,87,1,3,Active,136
+73,Male,188,74,92,3,0,Inactive,82
+70,Male,179,73,92,1,1,Very Active,132
+63,Male,165,69,114,2,21,Very Active,112
+65,Female,115,65,94,2,26,Very Active,158
+47,Female,144,63,94,0,9,Very Active,221
+76,Male,178,74,108,0,0,Inactive,81
+24,Female,145,64,98,1,23,Inactive,162
+64,Female,111,68,110,1,0,Active,169
+67,Female,141,67,89,1,0,Active,154
+36,Female,135,63,106,0,0,Inactive,200
+44,Female,124,65,95,1,38,Very Active,172
+21,Female,135,69,108,0,0,Inactive,293
+29,Female,96,70,85,0,0,Inactive,187
+21,Male,164,71,106,0,34,Active,154
+72,Male,159,72,96,0,0,Active,128
+73,Female,128,70,108,0,19,Inactive,91
+56,Female,122,68,100,1,0,Very Active,235
+64,Male,168,74,105,1,0,Inactive,112
+68,Female,103,65,93,1,0,Inactive,92
+38,Female,100,61,91,0,0,Active,246
+52,Female,148,65,101,1,0,Active,178
+37,Male,185,70,110,1,24,Inactive,109
+48,Female,108,66,98,1,0,Active,237
+48,Male,167,75,95,1,0,Active,151
+77,Male,175,71,102,1,0,Inactive,76
+29,Female,144,64,94,0,0,Active,298
+35,Female,128,63,98,1,0,Inactive,168
+78,Female,136,74,109,2,0,Inactive,101
+40,Female,112,66,101,0,0,Inactive,138
+80,Female,123,69,101,2,0,Inactive,98
+65,Male,155,71,97,1,0,Very Active,143
+21,Female,137,66,96,1,0,Very Active,399
+30,Female,118,63,104,0,20,Inactive,141
+76,Male,177,76,93,0,0,Active,123
+23,Female,160,66,97,2,4,Active,246
+40,Female,142,61,96,1,0,Active,232
+32,Male,192,70,101,1,0,Inactive,126
+73,Female,143,69,102,0,37,Active,122
+53,Female,155,65,103,0,27,Active,132
+79,Female,136,65,107,1,0,Very Active,174
+74,Female,138,66,104,1,0,Very Active,183
+60,Male,169,80,99,0,0,Inactive,102
+35,Female,132,67,104,0,0,Active,287
+49,Female,138,68,98,0,0,Active,200
+48,Female,131,68,97,2,0,Very Active,250
+32,Male,191,74,103,0,0,Active,195
+56,Female,117,64,101,0,0,Very Active,237
+49,Female,111,69,103,2,0,Inactive,115
+37,Female,132,68,97,1,0,Very Active,305
+80,Female,144,69,98,0,0,Active,158
+18,Male,172,73,103,0,0,Inactive,197
+67,Male,172,78,107,1,12,Active,117
+67,Female,133,67,104,2,0,Inactive,109
+34,Female,99,63,96,1,0,Active,261
+80,Female,129,68,100,1,0,Very Active,177
+23,Male,174,70,97,1,0,Active,212
+40,Female,132,64,96,0,0,Very Active,287
+58,Male,176,75,101,0,18,Inactive,102
+30,Female,139,61,99,1,0,Inactive,137
+34,Female,133,69,93,0,25,Inactive,153
+53,Female,110,66,94,0,0,Active,226
+49,Male,155,73,106,4,0,Inactive,105
+39,Female,131,71,96,1,0,Inactive,135
+75,Male,201,75,107,1,0,Inactive,77
+39,Female,133,64,94,0,0,Inactive,194
+55,Male,173,73,104,4,0,Inactive,107
+76,Male,166,76,98,0,0,Inactive,104
+45,Female,140,61,85,1,0,Inactive,109
+72,Female,125,62,114,1,20,Active,120
+38,Female,120,68,100,1,22,Inactive,100
+33,Female,122,63,100,2,0,Active,273
+28,Male,162,72,95,0,0,Inactive,200
+54,Male,142,74,98,2,0,Inactive,112
+40,Female,133,63,97,3,0,Very Active,259
+21,Female,129,68,110,3,30,Active,183
+36,Female,143,68,102,0,0,Inactive,208
+54,Female,144,64,105,0,25,Active,154
+34,Female,114,68,104,1,0,Active,263
+54,Male,164,69,99,0,0,Active,153
+38,Male,178,75,103,1,0,Very Active,202
+24,Female,132,63,102,2,0,Very Active,350
+40,Female,96,68,101,1,0,Inactive,212
+42,Female,153,73,98,3,30,Active,143
+35,Female,121,74,92,0,0,Inactive,198
+32,Male,161,68,111,3,0,Inactive,131
+26,Male,184,69,100,3,1,Inactive,151
+35,Female,105,63,106,0,0,Inactive,224
+38,Male,147,69,103,1,0,Inactive,126
+44,Female,149,62,92,2,0,Inactive,159
+61,Female,132,68,104,0,0,Inactive,148
+56,Female,122,69,111,3,0,Active,200
+25,Female,128,70,106,1,1,Inactive,216
+72,Male,157,67,104,3,0,Active,101
+40,Female,140,63,96,3,0,Active,226
+38,Female,122,64,111,1,0,Inactive,131
+33,Female,131,71,94,3,20,Inactive,104
+72,Female,119,67,107,1,0,Inactive,108
+55,Female,146,61,111,0,0,Inactive,97
+19,Male,162,74,107,0,0,Inactive,226
+46,Male,168,70,94,0,29,Inactive,91
+77,Male,144,75,98,0,0,Active,126
+54,Female,135,64,101,1,0,Active,202
+46,Female,137,75,102,2,28,Active,147
+46,Male,168,76,91,3,0,Inactive,127
+74,Male,154,67,109,0,0,Active,112
+33,Female,103,64,96,1,0,Inactive,190
+53,Female,121,66,108,2,16,Very Active,195
+20,Female,141,66,98,2,0,Very Active,385
+49,Male,215,70,102,1,0,Very Active,155
+18,Female,134,62,95,0,0,Inactive,235
+50,Female,102,61,98,0,0,Active,202
+37,Male,164,74,98,0,0,Inactive,155
+72,Male,184,72,85,0,31,Very Active,102
+73,Female,151,64,104,1,0,Very Active,178
+67,Male,186,74,97,2,0,Active,121
+28,Male,197,76,111,1,0,Active,214
+36,Female,133,64,104,2,0,Very Active,286
+49,Female,128,61,110,0,0,Active,191
+72,Female,107,66,102,0,0,Active,179
+29,Female,161,68,110,0,0,Active,262
+38,Female,130,64,103,0,0,Very Active,298
+60,Female,106,69,96,0,0,Active,212
+55,Male,162,73,100,2,0,Very Active,154
+58,Male,168,68,100,1,0,Active,126
+67,Male,136,77,108,1,0,Active,126
+50,Male,175,75,95,0,0,Inactive,139
+76,Male,166,73,105,0,0,Active,112
+47,Male,164,73,105,1,0,Active,151
+32,Female,119,61,104,1,0,Inactive,212
+18,Male,163,74,96,1,0,Inactive,210
+71,Male,156,70,95,0,0,Inactive,86
+77,Male,184,73,100,1,29,Very Active,97
+74,Female,115,68,89,3,0,Very Active,185
+52,Male,169,76,96,1,39,Very Active,112
+63,Female,114,69,91,4,0,Inactive,114
+23,Female,108,62,93,1,0,Inactive,268
+41,Male,168,70,91,2,0,Inactive,123
+68,Female,129,64,103,1,0,Inactive,130
+30,Male,158,70,105,0,20,Inactive,138
+45,Female,138,67,97,1,36,Very Active,172
+76,Male,172,70,110,3,0,Inactive,80
+76,Female,146,65,97,0,0,Active,140
+68,Female,139,65,106,0,0,Inactive,88
+30,Female,166,65,104,1,0,Inactive,168
+23,Female,170,63,93,1,0,Very Active,327
+43,Male,139,74,102,1,0,Active,170
+60,Female,120,66,95,0,0,Inactive,151
+80,Female,133,65,100,1,26,Active,123
+40,Male,169,72,101,2,0,Very Active,183
+63,Male,154,74,97,2,0,Inactive,99
+72,Female,129,68,106,2,0,Inactive,105
+34,Male,161,78,96,0,0,Inactive,171
+68,Female,130,59,102,0,37,Active,107
+77,Female,121,64,96,0,0,Active,143
+76,Female,124,68,98,1,0,Inactive,83
+65,Female,152,70,100,2,0,Very Active,198
+68,Male,151,70,101,2,0,Inactive,92
+26,Female,134,63,92,1,0,Inactive,193
+70,Female,143,64,104,2,0,Inactive,122
+39,Female,128,67,101,3,39,Active,154
+74,Female,130,65,100,0,0,Inactive,125
+22,Female,150,65,104,2,0,Active,314
+71,Male,177,77,99,0,0,Inactive,109
+30,Female,112,63,97,1,0,Inactive,154
+34,Female,135,66,97,2,0,Inactive,134
+37,Female,112,66,103,0,0,Inactive,218
+36,Female,122,67,100,0,38,Active,172
+25,Female,116,63,109,0,0,Active,351
+63,Male,158,74,107,0,0,Active,144
+59,Female,149,67,92,0,0,Active,194
+55,Male,136,71,96,0,0,Inactive,122
+47,Female,120,67,97,3,0,Inactive,139
+54,Female,126,69,100,0,0,Active,220
+71,Female,109,71,103,1,0,Active,159
+49,Male,169,70,103,1,0,Very Active,168
+28,Female,145,64,110,3,14,Very Active,247
+54,Female,117,65,96,1,0,Inactive,159
+37,Female,112,60,109,1,0,Active,230
+77,Female,139,65,99,0,0,Inactive,80
+21,Female,143,71,104,4,20,Inactive,145
+35,Male,136,76,100,0,0,Active,213
+39,Female,116,65,101,0,4,Very Active,289
+20,Male,169,69,107,0,0,Inactive,200
+19,Female,123,66,93,0,0,Inactive,309
+53,Male,164,75,98,0,0,Active,163
+51,Female,125,68,86,2,0,Very Active,243
+22,Male,167,73,105,2,0,Active,211
+70,Female,129,65,90,0,0,Inactive,87
+39,Male,158,72,98,2,0,Inactive,146
+70,Female,127,58,93,1,0,Active,162
+67,Male,167,73,106,0,0,Inactive,90
+59,Male,186,70,97,1,0,Inactive,100
+18,Female,122,68,90,2,0,Inactive,197
+73,Male,160,67,102,2,0,Inactive,75
+42,Female,144,67,99,1,0,Inactive,120
+20,Female,136,66,108,0,0,Inactive,286
+37,Female,143,65,85,2,37,Active,138
+33,Female,130,64,105,0,0,Inactive,217
+44,Female,150,68,107,1,0,Active,233
+62,Male,171,77,103,0,0,Active,134
+61,Female,148,68,109,1,0,Inactive,140
+39,Female,109,68,108,0,10,Active,244
+69,Male,179,72,101,2,0,Inactive,99
+19,Female,139,66,105,1,0,Inactive,184
+52,Female,145,67,99,1,0,Inactive,130
+70,Female,121,64,98,0,12,Inactive,97
+32,Female,124,70,103,2,0,Inactive,149
+54,Female,135,62,90,2,0,Very Active,218
+64,Female,164,65,98,1,0,Active,150
+44,Female,120,70,96,0,0,Very Active,294
+69,Female,120,68,102,1,0,Inactive,134
+65,Female,98,62,100,2,0,Active,161
+68,Male,145,69,94,1,0,Inactive,107
+51,Female,121,62,97,1,0,Inactive,160
+43,Male,172,67,94,0,0,Very Active,186
+35,Female,136,64,88,1,0,Inactive,199
+66,Female,139,68,87,0,0,Active,161
+73,Female,122,65,94,1,0,Inactive,105
+65,Female,115,66,94,1,0,Active,164
+80,Female,128,60,108,2,0,Inactive,110
+63,Female,139,66,109,2,35,Active,129
+32,Male,176,77,97,1,0,Very Active,229
+39,Male,157,75,99,1,0,Inactive,160
+60,Male,176,71,108,0,0,Active,130
+44,Female,114,68,105,1,0,Active,253
+38,Female,112,74,98,1,0,Active,257
+50,Male,155,73,103,1,0,Active,148
+55,Female,140,64,107,3,0,Inactive,118
+64,Female,145,66,104,1,8,Inactive,103
+39,Female,108,69,98,2,0,Inactive,204
+31,Male,152,71,94,0,0,Active,230
+45,Male,175,73,83,0,2,Inactive,114
+57,Female,136,63,93,1,0,Active,168
+55,Male,161,74,94,1,0,Very Active,163
+24,Female,110,63,101,0,0,Inactive,184
+64,Female,112,64,99,0,0,Inactive,144
+24,Female,142,68,101,2,0,Inactive,161
+39,Male,153,67,103,0,0,Active,175
+22,Female,156,64,102,0,39,Inactive,114
+52,Male,157,72,95,2,0,Very Active,160
+67,Female,107,67,106,0,0,Active,167
+76,Female,127,63,109,0,0,Inactive,122
+68,Female,141,70,101,1,0,Very Active,199
+64,Male,172,74,100,1,0,Inactive,89
+40,Female,114,62,96,2,0,Inactive,123
+35,Male,172,71,104,0,0,Inactive,136
+24,Male,161,73,106,3,0,Active,192
+74,Male,177,74,100,1,0,Inactive,79
+19,Female,125,66,89,0,0,Inactive,255
+75,Female,146,68,110,1,0,Active,141
+50,Female,150,66,117,0,26,Inactive,120
+24,Male,139,67,100,3,0,Inactive,138
+39,Female,137,69,102,0,0,Inactive,203
+26,Male,167,73,94,1,0,Inactive,192
+79,Female,130,66,98,0,0,Very Active,180
+57,Male,155,69,97,1,0,Inactive,95
+25,Male,171,72,96,0,0,Very Active,270
+71,Male,153,71,104,1,0,Inactive,104
+53,Male,152,75,97,0,0,Active,167
+73,Male,176,74,100,0,0,Inactive,105
+56,Male,165,77,94,1,0,Active,138
+64,Female,116,65,112,2,0,Inactive,137
+76,Female,140,61,100,2,0,Inactive,75
+47,Male,172,67,99,2,0,Active,134
+78,Female,110,67,93,1,0,Inactive,82
+80,Female,83,63,102,1,0,Inactive,83
+38,Male,183,75,99,1,0,Active,170
+29,Female,105,65,106,0,31,Inactive,155
+73,Male,151,72,102,2,0,Inactive,89
+23,Female,126,66,115,1,0,Active,353
+61,Male,177,71,106,1,0,Very Active,145
+51,Female,122,66,102,1,0,Inactive,138
+58,Female,94,66,96,2,0,Active,207
+62,Female,110,68,109,0,0,Active,203
+45,Female,147,60,96,2,18,Inactive,125
+73,Male,154,72,100,1,0,Inactive,102
+18,Male,155,76,108,0,27,Active,188
+72,Male,185,72,98,1,0,Inactive,89
+26,Female,123,66,100,0,38,Very Active,215
+40,Female,149,67,86,0,0,Active,221
+57,Female,143,63,105,2,0,Active,162
+57,Female,136,65,102,0,0,Inactive,126
+23,Female,146,63,100,1,0,Inactive,157
+59,Female,112,64,97,1,0,Inactive,125
+35,Male,148,70,82,2,37,Inactive,89
+26,Male,149,76,101,2,5,Very Active,228
+64,Female,114,67,109,0,0,Inactive,122
+56,Male,190,74,108,0,0,Very Active,162
+66,Female,125,71,90,0,0,Very Active,216
+49,Male,188,71,99,0,0,Very Active,173
+23,Male,159,77,104,1,0,Inactive,174
+51,Female,114,63,95,2,0,Very Active,239
+18,Male,184,75,106,0,0,Very Active,317
+73,Male,174,71,90,2,0,Very Active,123
+65,Female,144,73,105,1,0,Very Active,209
+20,Female,133,68,98,0,0,Inactive,298
+56,Female,127,71,106,1,14,Inactive,134
+79,Female,132,67,106,2,18,Active,132
+18,Female,150,61,106,2,0,Very Active,358
+35,Male,185,75,110,0,0,Very Active,224
+35,Male,157,71,104,1,0,Inactive,148
+38,Female,136,66,100,1,0,Inactive,161
+46,Female,133,66,100,1,0,Very Active,259
+75,Female,136,66,95,0,0,Inactive,83
+29,Male,148,74,98,2,0,Active,196
+19,Female,111,64,103,2,0,Inactive,285
+34,Female,131,68,99,2,0,Inactive,207
+79,Female,129,65,97,1,0,Inactive,98
+49,Female,126,65,95,1,0,Inactive,167
+32,Female,135,63,103,1,0,Active,276
+74,Female,107,67,90,1,0,Inactive,129
+19,Male,173,69,98,0,0,Inactive,225
+19,Female,144,63,108,1,0,Active,301
+22,Male,149,71,101,1,0,Inactive,192
+66,Male,167,72,110,1,0,Active,119
+44,Female,132,67,96,1,0,Very Active,270
+59,Female,115,66,100,0,0,Active,206
+60,Female,132,64,103,1,0,Very Active,213
+50,Female,123,70,99,1,0,Inactive,144
+56,Male,173,67,95,0,0,Inactive,108
+70,Male,154,71,109,2,0,Inactive,101
+31,Female,132,69,101,0,30,Inactive,149
+46,Female,139,64,103,1,0,Inactive,167
+33,Male,180,73,111,0,0,Inactive,159
+74,Male,169,74,100,0,0,Active,115
+45,Female,84,66,103,1,0,Inactive,132
+75,Male,168,71,90,1,25,Active,86
+44,Male,180,72,114,1,0,Inactive,138
+62,Female,157,67,102,1,0,Inactive,113
+80,Female,140,68,98,1,28,Very Active,137
+25,Female,128,63,102,2,0,Inactive,155
+57,Male,171,69,101,2,0,Active,122
+31,Female,154,63,104,1,0,Active,232
+21,Male,163,75,89,3,0,Active,206
+67,Female,120,64,102,0,0,Active,183
+19,Female,116,62,95,0,0,Very Active,448
+36,Female,112,67,90,1,0,Very Active,324
+65,Female,135,67,97,2,0,Very Active,200
+59,Male,146,72,98,1,0,Active,133
+18,Female,107,66,104,1,29,Inactive,121
+23,Female,119,67,97,0,0,Inactive,288
+59,Female,120,67,96,2,0,Inactive,122
+73,Female,119,63,84,0,0,Inactive,85
+25,Female,123,64,104,0,28,Active,216
+25,Female,136,67,96,0,0,Inactive,259
+50,Female,134,64,107,0,0,Very Active,247
+61,Male,182,76,99,0,0,Very Active,156
+35,Male,202,76,100,0,0,Active,185
+78,Female,127,64,100,2,0,Inactive,77
+78,Male,169,78,95,0,0,Inactive,82
+27,Female,155,67,95,1,0,Inactive,225
+48,Male,171,72,100,0,0,Active,155
+71,Female,113,66,100,2,0,Inactive,107
+30,Female,136,58,96,1,0,Active,232
+79,Female,118,64,97,1,0,Active,158
+74,Female,125,63,105,0,0,Very Active,187
+38,Male,179,78,103,4,0,Active,147
+24,Female,134,72,103,0,0,Active,332
+71,Male,139,69,102,3,31,Active,82
+31,Female,109,65,100,0,0,Active,326
+38,Male,181,74,94,2,0,Active,173
+25,Male,185,76,97,2,0,Inactive,144
+72,Female,105,64,93,2,36,Very Active,138
+25,Female,144,64,107,0,0,Active,322
+67,Female,144,67,101,0,0,Active,156
+36,Female,137,69,96,0,33,Active,179
+56,Male,163,75,107,4,0,Very Active,141
+72,Female,126,69,107,1,0,Active,151
+32,Female,121,67,110,2,0,Active,255
+62,Male,170,70,107,0,0,Active,127
+75,Female,112,69,103,2,0,Active,167
+69,Male,208,72,104,0,0,Active,113
+72,Female,121,64,103,2,0,Very Active,186
+43,Female,97,64,107,1,0,Inactive,162
+26,Female,107,72,95,2,24,Inactive,175
+34,Female,112,65,103,4,8,Active,233
+33,Female,159,67,93,2,0,Inactive,162
+30,Female,119,66,117,2,0,Inactive,226
+75,Male,176,70,95,0,0,Very Active,130
+42,Male,163,74,98,1,0,Inactive,120
+63,Female,129,61,105,0,0,Active,183
+56,Female,135,67,99,0,0,Inactive,156
+46,Male,148,72,105,0,0,Inactive,151
+46,Female,136,64,97,1,0,Inactive,168
+66,Male,188,69,88,0,0,Active,128
+46,Female,120,68,104,1,0,Inactive,121
+27,Female,113,66,101,0,0,Inactive,177
+18,Male,152,71,94,1,36,Active,139
+37,Female,138,71,103,3,0,Active,257
+20,Male,142,73,100,1,0,Very Active,304
+67,Female,139,60,100,1,0,Inactive,125
+40,Male,169,68,93,0,0,Inactive,122
+39,Female,129,64,97,3,0,Inactive,149
+60,Female,147,70,105,0,0,Inactive,123
+48,Female,120,62,103,1,0,Inactive,167
+66,Male,144,71,101,1,0,Active,133
+80,Male,172,73,100,0,0,Inactive,97
+55,Male,168,74,97,1,8,Inactive,113
+66,Female,126,68,99,2,0,Inactive,90
+79,Male,160,73,101,2,0,Active,111
+73,Female,138,67,102,2,0,Active,142
+24,Female,127,62,97,1,0,Inactive,203
+66,Female,117,67,94,0,0,Active,190
+51,Female,125,64,96,2,0,Inactive,157
+53,Female,90,63,114,0,0,Inactive,116
+44,Female,112,67,100,1,0,Inactive,189
+76,Female,140,66,100,0,0,Active,142
+24,Female,118,68,105,0,0,Inactive,238
+62,Female,140,64,103,0,0,Active,163
+25,Female,139,65,92,0,10,Inactive,138
+43,Male,186,71,104,2,0,Inactive,117
+24,Male,159,72,98,1,0,Inactive,161
+25,Female,132,63,93,1,0,Active,278
+19,Female,105,66,104,0,0,Inactive,278
+50,Male,197,75,106,0,0,Active,161
+68,Female,142,64,104,0,0,Inactive,130
+52,Male,140,71,103,0,34,Active,104
+44,Male,180,79,98,2,22,Very Active,138
+45,Female,141,67,98,0,0,Inactive,179
+70,Male,184,71,97,1,0,Active,120
+29,Male,195,74,97,0,0,Inactive,167
+68,Female,108,64,103,0,19,Inactive,76
+72,Female,122,64,94,1,0,Very Active,190
+27,Female,118,68,90,1,20,Inactive,120
+28,Female,151,69,103,2,0,Active,258
+69,Female,100,70,100,0,0,Inactive,120
+19,Male,180,76,101,0,0,Inactive,244
+62,Female,131,68,98,2,0,Inactive,93
+79,Male,185,82,86,0,0,Inactive,102
+56,Female,109,69,107,2,0,Very Active,237
+79,Male,172,75,95,0,3,Active,106
+78,Female,125,65,104,1,0,Active,139
+20,Male,172,71,102,0,0,Active,273
+48,Female,117,70,95,0,0,Active,216
+31,Male,149,70,100,0,0,Inactive,153
+76,Female,109,66,115,1,0,Very Active,188
+49,Male,152,72,109,0,0,Inactive,115
+63,Female,115,67,107,1,0,Very Active,217
+55,Female,107,69,96,4,0,Active,203
+34,Female,128,70,100,0,0,Active,306
+59,Female,120,67,105,2,36,Inactive,85
+23,Female,137,69,96,0,20,Inactive,158
+20,Male,166,67,99,1,0,Active,240
+27,Female,148,63,104,1,0,Inactive,145
+41,Female,112,67,98,1,0,Inactive,132
+29,Female,103,65,96,0,0,Active,347
+72,Female,134,66,93,1,0,Active,167
+73,Female,126,66,101,1,0,Inactive,126
+35,Female,142,69,92,2,9,Inactive,116
+34,Male,174,76,97,2,0,Active,174
+24,Male,163,72,101,2,15,Active,159
+80,Female,150,65,104,0,0,Inactive,114
+44,Female,139,70,101,0,22,Active,186
+20,Male,186,74,89,1,0,Inactive,188
+69,Female,135,63,96,0,0,Inactive,129
+66,Female,124,67,108,1,0,Active,160
+45,Female,138,64,109,0,0,Active,233
+53,Female,143,65,87,1,0,Very Active,228
+19,Male,166,74,105,2,0,Active,248
+59,Male,150,76,100,0,0,Inactive,129
+61,Male,150,76,99,0,0,Active,151
+71,Female,136,61,95,3,0,Active,136
+47,Female,133,64,102,2,0,Inactive,163
+68,Female,124,68,109,1,0,Inactive,90
+21,Female,119,69,98,1,5,Active,351
+54,Male,168,72,97,0,0,Inactive,130
+67,Male,170,69,102,1,0,Very Active,135
+54,Male,162,72,97,2,8,Inactive,98
+70,Female,135,60,104,0,0,Very Active,187
+67,Female,133,62,99,1,0,Active,150
+56,Female,135,64,104,2,0,Inactive,144
+29,Male,119,77,102,0,0,Active,278
+79,Female,116,66,90,3,0,Inactive,96
+26,Female,101,61,101,0,0,Inactive,266
+51,Female,129,63,94,1,0,Inactive,158
+57,Female,95,63,99,1,0,Very Active,237
+19,Female,140,67,96,2,0,Inactive,223
+40,Female,120,65,102,0,0,Active,233
+35,Female,138,62,112,1,0,Inactive,161
+78,Female,148,64,103,1,0,Active,152
+77,Female,139,68,104,5,37,Very Active,124
+54,Female,115,61,94,1,0,Active,206
+21,Female,146,66,94,0,0,Very Active,404
+21,Male,149,65,96,0,0,Active,262
+36,Female,109,62,107,4,0,Active,250
+51,Male,165,68,108,0,0,Inactive,131
+75,Female,119,65,95,3,0,Inactive,79
+71,Male,181,74,112,1,0,Active,122
+58,Female,139,69,117,5,0,Inactive,113
+53,Female,147,68,113,3,0,Inactive,98
+36,Male,180,71,102,1,0,Inactive,123
+73,Male,189,69,105,0,0,Inactive,89
+27,Female,112,63,100,1,0,Active,287
+45,Female,126,64,101,0,0,Inactive,120
+43,Male,181,72,100,1,0,Active,168
+62,Male,151,66,102,1,0,Inactive,89
+37,Male,171,73,99,0,0,Inactive,168
+49,Male,146,77,95,1,0,Inactive,142
+66,Female,124,70,91,1,0,Inactive,93
+70,Female,122,66,105,1,0,Active,153
+52,Female,113,66,106,0,0,Inactive,114
+45,Female,130,68,106,1,0,Inactive,150
+59,Female,153,68,98,0,0,Active,195
+42,Female,130,69,100,2,30,Active,168
+42,Male,153,70,94,0,0,Very Active,203
+38,Female,107,67,101,1,0,Very Active,317
+31,Female,141,70,101,2,0,Active,290
+34,Female,109,65,103,1,0,Active,259
+18,Male,180,70,101,2,0,Active,212
+74,Male,159,80,113,2,3,Inactive,78
+63,Female,127,64,98,1,0,Active,161
+34,Male,143,72,108,2,0,Inactive,130
+64,Female,140,66,101,0,0,Very Active,208
+22,Female,130,67,97,1,0,Inactive,271
+60,Female,124,67,99,2,0,Active,192
+49,Female,145,71,103,1,0,Inactive,112
+72,Female,136,61,111,4,0,Active,132
+27,Male,180,73,100,1,24,Active,152
+72,Male,180,73,98,0,0,Inactive,94
+61,Female,154,67,98,1,0,Inactive,92
+64,Male,167,72,102,0,0,Very Active,150
+54,Female,131,62,97,1,0,Inactive,100
+57,Female,137,63,100,1,0,Inactive,120
+41,Female,139,60,103,0,20,Active,159
+23,Male,158,71,95,2,0,Very Active,245
+48,Female,152,64,103,1,0,Inactive,158
+62,Female,132,67,99,0,0,Very Active,218
+41,Male,167,73,99,1,2,Inactive,130
+58,Male,194,70,107,1,0,Inactive,111
+48,Female,98,64,96,0,0,Inactive,154
+79,Female,142,65,105,0,4,Active,131
+58,Male,147,71,91,2,0,Active,127
+61,Female,133,62,102,1,0,Inactive,137
+78,Female,113,60,104,0,0,Inactive,120
+52,Male,160,73,114,0,0,Inactive,137
+46,Female,144,71,107,1,0,Inactive,176
+70,Female,152,65,106,0,10,Active,133
+25,Female,111,59,103,1,18,Very Active,267
+67,Male,174,69,103,2,0,Inactive,99
+22,Female,128,66,99,0,0,Active,328
+22,Male,177,76,92,1,0,Very Active,273
+28,Male,180,68,102,1,0,Inactive,135
+49,Female,127,59,108,2,40,Inactive,101
+34,Female,130,65,101,1,0,Active,243
+55,Female,133,61,94,0,0,Inactive,150
+71,Male,186,74,115,5,0,Very Active,113
+24,Female,120,63,103,0,0,Very Active,398
+38,Male,167,71,97,0,0,Active,196
+39,Female,103,69,108,2,0,Active,275
+22,Female,84,68,99,2,0,Inactive,310
+25,Female,133,69,92,2,0,Very Active,370
+49,Female,130,63,107,1,0,Very Active,243
+55,Male,179,75,107,1,0,Inactive,98
+39,Female,141,67,93,1,0,Inactive,159
+69,Female,147,66,110,1,14,Inactive,74
+49,Male,190,71,99,0,23,Active,112
+52,Female,130,66,96,0,0,Very Active,247
+46,Male,144,72,99,0,11,Very Active,170
+64,Female,113,69,94,2,0,Very Active,213
+47,Female,114,67,101,3,0,Inactive,169
+71,Female,130,69,99,1,0,Inactive,130
+29,Female,142,64,93,1,0,Active,289
+51,Female,119,66,102,3,10,Inactive,116
+41,Female,153,69,95,0,0,Active,220
+72,Female,120,63,102,1,0,Active,168
+56,Male,183,70,104,3,0,Inactive,95
+19,Male,168,73,99,3,0,Active,226
+24,Female,140,67,90,1,0,Inactive,209
+34,Female,154,70,104,1,26,Active,166
+56,Male,194,70,94,1,0,Active,125
+36,Male,172,72,103,1,26,Active,134
+43,Female,120,66,102,1,0,Active,217
+23,Male,170,71,96,2,0,Inactive,183
+56,Male,178,72,105,3,30,Inactive,82
+38,Female,142,67,103,1,0,Active,257
+23,Male,167,72,103,1,0,Inactive,181
+49,Male,174,71,102,1,0,Active,142
+31,Female,134,66,102,0,0,Inactive,228
+40,Female,147,63,104,0,0,Active,242
+63,Female,139,64,107,0,0,Inactive,92
+54,Male,186,74,84,0,0,Active,141
+78,Female,147,72,101,0,0,Inactive,123
+31,Female,111,67,98,0,0,Very Active,372
+67,Male,181,73,90,0,0,Inactive,99
+48,Male,176,72,107,1,6,Inactive,98
+79,Male,174,71,99,0,0,Active,107
+68,Female,129,66,105,1,37,Active,125
+78,Female,150,65,111,0,0,Inactive,117
+55,Female,102,69,100,0,0,Inactive,114
+39,Female,115,66,95,1,0,Inactive,134
+39,Female,115,63,90,1,0,Active,261
+69,Female,144,62,103,0,0,Inactive,84
+20,Female,129,67,98,2,0,Inactive,181
+21,Male,153,73,95,2,0,Inactive,163
+48,Female,119,64,110,0,0,Active,205
+57,Female,125,65,93,0,0,Inactive,129
+25,Female,97,66,109,1,0,Very Active,422
+33,Female,111,66,101,0,0,Active,314
+47,Male,170,78,87,1,13,Active,143
+48,Male,150,72,106,1,0,Active,152
+26,Male,168,72,101,1,0,Inactive,189
+61,Female,149,64,106,4,0,Inactive,85
+36,Female,131,64,96,3,0,Inactive,186
+52,Male,179,68,96,0,0,Very Active,164
+72,Female,94,61,96,0,0,Very Active,201
+19,Female,127,66,105,1,18,Inactive,134
+68,Male,168,69,109,1,0,Very Active,134
+21,Female,152,64,99,3,0,Very Active,339
+76,Female,144,65,95,2,0,Very Active,173
+18,Male,170,67,108,2,0,Inactive,190
+57,Female,139,62,97,0,0,Inactive,97
+42,Female,133,62,91,0,0,Inactive,181
+41,Female,142,64,98,0,0,Inactive,153
+18,Male,151,70,103,0,0,Inactive,252
+44,Male,196,70,107,4,17,Inactive,95
+70,Female,129,71,100,0,0,Inactive,136
+44,Male,156,74,109,0,0,Active,172
+25,Female,133,66,99,0,40,Inactive,116
+25,Female,131,60,100,2,0,Inactive,147
+23,Female,110,66,100,1,0,Active,374
+27,Female,123,61,102,1,0,Inactive,191
+69,Male,173,68,97,1,0,Very Active,131
+48,Female,109,64,100,1,0,Active,233
+42,Male,172,75,89,0,0,Very Active,205
+73,Male,177,72,95,1,0,Inactive,79
+55,Female,118,69,106,2,0,Active,183
+39,Female,130,65,94,0,3,Inactive,126
+50,Female,117,68,91,2,0,Very Active,251
+37,Female,128,72,99,1,0,Active,284
+39,Female,110,65,96,4,0,Inactive,153
+48,Female,146,70,105,2,0,Inactive,137
+54,Male,160,75,108,2,0,Inactive,122
+47,Male,161,70,99,0,0,Very Active,185
+52,Female,132,65,92,3,0,Inactive,125
+33,Female,149,67,103,0,0,Inactive,178
+32,Male,180,75,101,0,27,Inactive,98
+76,Female,118,61,96,0,0,Inactive,102
+35,Female,126,69,91,1,0,Inactive,144
+25,Female,115,64,87,0,0,Inactive,224
+38,Male,185,73,104,1,0,Active,181
+62,Female,162,62,99,1,0,Inactive,107
+56,Female,111,62,106,1,0,Inactive,128
+73,Female,134,67,94,1,0,Very Active,188
+67,Female,140,66,100,0,0,Active,179
+41,Female,157,60,110,0,8,Inactive,151
+73,Female,115,64,108,0,0,Inactive,108
+65,Female,115,68,101,1,0,Active,166
+79,Female,135,66,97,0,0,Inactive,79
+36,Female,148,69,96,2,0,Inactive,162
+70,Female,110,60,94,2,10,Active,133
+69,Female,123,71,97,3,0,Inactive,109
+47,Female,104,67,94,2,0,Active,208
+64,Male,170,71,105,1,0,Inactive,109
+69,Male,148,77,97,3,0,Inactive,91
+78,Male,183,73,90,0,40,Active,84
+63,Male,167,76,105,1,0,Inactive,115
+78,Female,114,64,102,1,0,Inactive,121
+77,Female,128,64,100,3,0,Active,133
+20,Male,149,75,93,3,0,Inactive,198
+78,Female,122,62,104,1,16,Inactive,85
+21,Female,101,65,108,1,4,Inactive,183
+34,Female,129,69,102,0,0,Inactive,189
+47,Female,116,68,100,1,0,Very Active,270
+18,Male,156,74,98,0,0,Active,289
+33,Female,141,63,92,1,0,Active,267
+77,Male,163,70,91,0,0,Active,120
+61,Male,183,73,94,0,0,Inactive,94
+30,Male,161,67,99,2,0,Inactive,142
+49,Male,178,71,105,0,23,Very Active,134
+18,Female,128,64,97,3,4,Active,320
+60,Male,187,78,105,1,0,Inactive,93
+56,Male,160,65,108,2,33,Active,97
+48,Female,105,65,104,1,0,Very Active,267
+75,Male,148,67,94,1,0,Active,108
+56,Female,125,62,100,0,7,Very Active,210
+22,Female,174,66,108,0,0,Inactive,160
+46,Male,197,72,109,0,0,Active,151
+26,Female,147,65,107,1,0,Very Active,343
+55,Male,156,70,95,0,0,Inactive,129
+33,Female,111,68,104,1,26,Inactive,103
+78,Male,180,69,108,1,21,Inactive,69
+72,Male,170,68,108,0,0,Active,123
+80,Female,137,66,93,1,0,Inactive,115
+70,Female,109,66,94,0,0,Inactive,91
+59,Female,129,61,105,0,0,Active,192
+45,Female,127,65,98,1,0,Inactive,147
+50,Male,192,76,107,2,0,Inactive,111
+22,Female,129,67,104,0,0,Inactive,284
+41,Female,108,63,106,0,0,Very Active,299
+42,Female,132,69,103,1,6,Inactive,115
+21,Female,112,69,98,1,0,Active,354
+39,Female,120,65,106,4,0,Inactive,119
+39,Male,171,73,108,1,40,Inactive,76
+64,Female,106,63,106,2,0,Inactive,92
+77,Female,125,67,105,1,0,Active,162
+46,Female,97,68,102,1,0,Very Active,287
+27,Female,132,75,99,0,0,Inactive,276
+44,Female,101,62,112,2,0,Inactive,150
+43,Female,135,67,89,0,4,Very Active,264
+43,Female,109,64,103,1,0,Inactive,126
+72,Male,172,75,106,0,36,Active,85
+38,Female,135,63,99,1,0,Inactive,125
+36,Female,126,65,98,0,0,Active,281
+60,Female,122,62,108,1,0,Inactive,119
+66,Female,138,65,97,2,0,Inactive,108
+38,Female,119,66,116,1,27,Active,186
+46,Male,196,70,97,0,0,Active,162
+72,Male,190,68,99,1,0,Inactive,95
+23,Female,111,72,92,2,27,Active,203
+33,Female,108,62,88,0,0,Inactive,190
+71,Female,143,64,107,1,0,Inactive,103
+24,Female,104,64,96,1,0,Inactive,182
+71,Female,120,64,85,1,0,Active,150
+53,Male,152,76,96,0,0,Active,168
+35,Male,154,76,102,2,31,Active,119
+23,Female,101,63,103,1,0,Inactive,187
+26,Female,137,62,98,4,0,Active,271
+68,Female,117,64,92,2,0,Very Active,195
+29,Male,182,73,84,1,0,Inactive,175
+65,Male,180,70,97,1,2,Active,114
+62,Male,141,72,106,0,0,Inactive,111
+28,Female,135,67,104,0,0,Inactive,163
+63,Male,194,66,99,0,35,Inactive,70
+42,Female,126,63,91,2,37,Very Active,171
+78,Male,181,73,101,1,0,Inactive,94
+27,Male,169,70,112,1,0,Inactive,181
+58,Male,167,73,104,0,0,Very Active,162
+61,Female,126,65,114,0,0,Very Active,220
+60,Female,133,61,105,1,0,Inactive,92
+61,Male,158,70,104,0,17,Inactive,79
+27,Female,92,66,109,1,0,Inactive,228
+66,Male,164,74,102,1,0,Very Active,143
+36,Female,124,61,94,0,0,Active,236
+55,Male,185,71,99,0,23,Inactive,77
+50,Female,114,65,106,1,0,Inactive,169
+52,Female,112,68,96,3,0,Active,213
+39,Male,174,68,99,1,0,Inactive,144
+56,Female,136,66,102,3,0,Active,167
+24,Male,175,66,98,2,0,Very Active,216
+67,Male,151,68,89,1,0,Active,128
+78,Female,119,68,94,0,0,Very Active,187
+25,Male,166,72,99,0,0,Active,232
+30,Female,149,69,106,1,0,Active,259
+33,Female,121,68,93,1,0,Active,262
+52,Male,165,66,95,0,0,Very Active,165
+42,Male,155,67,100,1,0,Inactive,142
+65,Female,102,65,99,1,0,Active,191
+75,Female,152,69,101,1,15,Active,140
+29,Female,112,61,95,0,24,Active,216
+20,Female,113,68,101,1,0,Inactive,255
+77,Male,147,67,102,0,0,Very Active,130
+52,Female,133,68,99,3,0,Active,205
+78,Male,190,69,101,0,0,Very Active,123
+54,Male,207,69,93,3,0,Very Active,135
+71,Male,171,69,100,0,0,Very Active,135
+46,Male,155,70,89,1,0,Inactive,111
+27,Female,132,67,104,0,0,Very Active,378
+31,Female,116,63,103,0,2,Inactive,149
+45,Male,166,63,112,2,0,Active,146
+51,Female,113,69,98,0,0,Active,236
+55,Female,122,64,105,0,0,Inactive,105
+77,Male,150,69,92,1,0,Active,107
+43,Female,106,67,97,2,34,Inactive,82
+52,Female,115,66,91,0,0,Inactive,142
+59,Female,123,66,118,0,0,Inactive,101
+31,Female,155,63,104,1,0,Very Active,298
+29,Male,175,72,88,0,39,Inactive,109
+19,Male,187,71,102,1,0,Active,244
+67,Female,152,66,92,1,0,Active,171
+74,Female,144,65,100,1,0,Inactive,120
+34,Male,151,76,94,0,30,Inactive,109
+61,Male,161,77,94,1,0,Inactive,107
+25,Female,107,69,89,1,0,Active,327
+54,Male,165,75,109,1,0,Inactive,127
+66,Female,116,66,97,1,0,Active,185
+75,Female,125,64,105,1,0,Active,142
+28,Male,169,75,99,0,0,Active,244
+40,Female,147,65,100,1,0,Inactive,181
+29,Female,120,59,96,0,0,Active,301
+73,Male,177,72,102,3,0,Active,101
+39,Male,166,67,105,2,23,Active,125
+34,Female,123,66,95,3,0,Inactive,201
+62,Female,113,67,112,0,0,Active,176
+42,Female,108,67,101,1,0,Active,230
+78,Female,118,65,101,2,0,Active,138
+76,Female,139,63,113,0,0,Active,139
+37,Female,148,65,106,0,0,Very Active,292
+30,Female,122,63,100,1,0,Very Active,336
+42,Male,172,74,97,0,0,Inactive,140
+39,Male,160,67,92,1,1,Active,159
+79,Male,164,71,100,0,0,Active,108
+55,Male,160,70,98,1,0,Very Active,159
+80,Female,105,63,107,1,0,Inactive,99
+62,Female,148,63,93,1,0,Inactive,111
+28,Female,111,63,107,2,17,Very Active,262
+56,Female,100,74,108,1,0,Active,226
+19,Female,113,62,122,1,0,Active,336
+22,Female,111,66,97,1,8,Active,281
+34,Female,120,64,101,0,0,Inactive,220
+61,Female,111,71,103,0,0,Active,209
+77,Female,129,69,97,2,0,Inactive,80
+39,Male,143,75,90,5,0,Inactive,130
+50,Female,135,65,115,4,21,Inactive,79
+42,Male,176,69,106,0,0,Inactive,132
+24,Female,133,70,95,0,0,Very Active,418
+74,Female,116,69,92,1,0,Very Active,193
+55,Male,146,72,90,1,0,Inactive,114
+64,Female,121,66,98,0,0,Inactive,144
+25,Female,95,63,108,1,0,Inactive,274
+57,Female,129,63,97,4,0,Active,182
+52,Female,109,64,106,1,0,Inactive,138
+42,Female,111,68,97,1,0,Very Active,296
+71,Female,104,65,92,2,0,Active,173
+24,Male,155,72,107,0,0,Active,267
+48,Female,103,64,92,0,0,Active,244
+42,Male,169,75,93,4,0,Inactive,101
+52,Male,159,70,100,2,0,Inactive,121
+24,Female,98,65,93,1,0,Active,331
+73,Female,124,60,99,0,0,Inactive,123
+53,Male,161,73,102,0,0,Inactive,135
+50,Female,155,72,95,1,0,Active,192
+54,Female,105,63,109,0,0,Inactive,165
+29,Male,163,78,94,1,0,Inactive,193
+59,Female,140,70,101,2,0,Inactive,96
+27,Female,130,65,100,1,0,Very Active,356
+56,Female,114,65,99,0,0,Inactive,107
+50,Female,105,65,108,1,14,Active,192
+69,Male,164,74,93,1,0,Inactive,85
+43,Female,120,67,107,4,0,Inactive,143
+34,Female,128,68,94,1,0,Inactive,144
+29,Female,128,63,102,1,36,Inactive,134
+40,Male,133,69,93,0,0,Very Active,218
+79,Female,117,67,103,1,0,Very Active,181
+59,Male,169,72,102,0,0,Inactive,110
+71,Female,121,64,90,3,0,Inactive,102
+78,Male,169,75,95,1,0,Inactive,78
+40,Female,123,73,93,4,0,Inactive,125
+58,Female,146,62,94,1,0,Active,161
+30,Male,151,74,117,2,0,Inactive,139
+54,Male,145,74,102,0,0,Inactive,124
+19,Female,122,69,105,1,0,Inactive,205
+40,Male,158,69,91,1,0,Inactive,134
+37,Male,182,72,84,2,22,Inactive,109
+76,Female,127,65,95,2,0,Inactive,79
+77,Female,117,70,93,1,0,Inactive,125
+19,Male,146,67,105,2,0,Inactive,181
+59,Female,131,61,103,0,0,Inactive,96
+23,Female,138,60,103,1,8,Active,234
+38,Male,168,68,101,0,0,Inactive,157
+64,Male,158,73,97,0,15,Active,110
+18,Female,133,70,94,4,0,Inactive,266
+20,Female,116,61,93,1,0,Inactive,228
+72,Female,129,61,101,1,0,Inactive,122
+77,Female,127,64,102,0,0,Inactive,81
+43,Male,159,68,103,1,0,Very Active,183
+50,Female,162,69,102,2,0,Inactive,128
+55,Male,165,76,109,0,0,Inactive,133
+42,Male,149,70,95,0,0,Inactive,126
+64,Female,159,66,95,0,1,Inactive,110
+63,Female,136,62,94,0,0,Very Active,205
+38,Female,133,63,97,2,0,Inactive,183
+69,Female,113,68,100,1,0,Inactive,136
+31,Female,116,68,90,2,0,Active,266
+62,Female,128,66,102,0,0,Inactive,97
+25,Female,110,64,108,1,0,Inactive,218
+55,Female,102,70,102,1,0,Very Active,251
+28,Female,137,66,88,1,0,Inactive,230
+66,Male,163,74,99,0,0,Active,127
+64,Female,123,75,94,2,37,Active,133
+19,Male,186,75,99,1,29,Active,146
+22,Male,186,74,90,0,35,Inactive,124
+35,Female,116,71,102,2,26,Active,172
+52,Female,126,67,101,1,0,Inactive,163
+23,Male,164,73,101,1,0,Inactive,165
+31,Female,129,64,97,0,4,Active,245
+49,Male,147,72,103,1,0,Inactive,137
+57,Female,123,62,110,0,0,Active,201
+35,Female,116,64,100,0,0,Inactive,146
+36,Female,134,66,96,0,0,Active,243
+68,Female,145,67,100,0,0,Inactive,88
+74,Female,127,67,108,2,0,Inactive,123
+65,Female,114,68,98,0,0,Very Active,219
+74,Female,122,64,94,0,0,Very Active,190
+78,Male,161,77,94,0,0,Inactive,103
+28,Male,165,72,92,0,0,Active,238
+29,Female,133,63,100,0,0,Inactive,190
+22,Male,168,74,97,0,30,Inactive,122
+34,Female,123,67,100,1,0,Very Active,326
+69,Male,164,68,111,1,0,Active,112
+59,Female,156,68,102,0,0,Very Active,218
+70,Male,176,69,90,2,0,Very Active,125
+59,Female,143,71,96,2,0,Inactive,96
+37,Male,169,75,93,0,0,Inactive,172
+29,Female,124,70,100,0,0,Inactive,256
+67,Male,171,72,99,1,0,Inactive,96
+57,Female,149,60,98,1,0,Very Active,204
+76,Female,137,70,105,0,0,Very Active,188
+60,Female,105,68,102,2,0,Active,175
+34,Female,116,63,101,1,0,Active,248
+33,Female,148,70,97,0,0,Inactive,184
+79,Female,146,64,106,2,0,Inactive,93
+74,Male,199,71,100,0,0,Inactive,98
+68,Female,111,68,90,0,0,Inactive,118
+65,Male,192,73,94,0,0,Active,133
+66,Female,152,65,104,0,0,Inactive,110
+59,Female,119,72,102,1,28,Inactive,95
+73,Male,187,66,102,4,0,Active,92
+71,Female,127,64,92,1,0,Very Active,190
+59,Female,121,69,100,0,0,Inactive,130
+67,Female,112,69,107,1,0,Inactive,94
+78,Male,166,72,109,0,0,Inactive,90
+68,Female,129,65,99,0,0,Inactive,89
+61,Female,113,71,95,0,0,Inactive,104
+55,Female,154,66,102,0,19,Inactive,101
+64,Female,119,62,103,0,10,Inactive,125
+28,Female,117,67,105,1,0,Active,290
+77,Female,128,68,91,1,0,Active,142
+43,Male,157,72,99,0,0,Inactive,124
+42,Female,153,65,97,1,0,Active,230
+53,Male,168,71,104,1,0,Very Active,162
+59,Male,190,72,98,0,0,Inactive,94
+46,Female,124,66,104,1,0,Very Active,265
+75,Female,119,63,98,0,0,Inactive,104
+55,Female,135,70,112,0,0,Inactive,161
+53,Male,154,75,102,2,21,Very Active,128
+71,Female,126,62,103,0,0,Inactive,85
+66,Female,146,66,99,2,0,Active,150
+19,Female,136,65,99,2,23,Active,204
+30,Female,114,64,99,2,0,Inactive,224
+28,Female,138,71,95,1,0,Very Active,366
+43,Female,124,69,95,1,0,Inactive,190
+80,Female,119,66,99,0,0,Inactive,101
+24,Male,166,71,92,1,0,Inactive,156
+46,Female,138,65,98,2,0,Inactive,110
+41,Male,150,68,103,2,0,Inactive,139
+20,Female,149,64,97,2,0,Active,323
+49,Female,117,63,93,1,0,Active,223
+32,Female,163,65,96,1,0,Inactive,196
+45,Female,139,68,98,2,11,Inactive,99
+54,Male,162,72,96,2,0,Active,143
+38,Female,129,63,90,3,26,Active,151
+49,Female,115,65,102,1,0,Inactive,143
+43,Female,133,71,93,2,0,Inactive,183
+62,Female,131,61,107,3,0,Inactive,108
+37,Female,133,61,115,3,26,Active,149
+56,Male,161,79,92,1,0,Inactive,128
+22,Female,142,67,106,0,0,Inactive,181
+20,Female,118,63,94,2,0,Very Active,401
+25,Male,189,73,97,2,0,Active,207
+39,Male,189,76,111,0,0,Active,194
+38,Female,105,62,104,2,0,Inactive,131
+35,Male,162,72,106,1,0,Very Active,213
+25,Female,120,69,90,0,0,Active,328
+58,Female,120,65,98,0,0,Very Active,231
+71,Male,168,77,113,1,0,Inactive,84
+62,Male,164,74,98,0,0,Inactive,108
+65,Male,174,68,94,2,0,Active,121
+68,Male,194,69,94,0,0,Inactive,83
+21,Female,120,63,96,2,0,Very Active,389
+29,Female,135,65,107,2,14,Active,202
+45,Female,107,68,104,1,0,Active,253
+40,Male,196,68,100,0,0,Inactive,115
+19,Male,167,77,103,1,0,Active,257
+31,Male,175,72,104,0,0,Inactive,164
+39,Female,137,72,102,2,0,Active,260
+21,Male,187,76,101,1,0,Very Active,272
+21,Male,166,69,90,0,0,Inactive,220
+27,Female,150,65,95,0,38,Active,156
+26,Male,167,68,92,2,0,Inactive,135
+74,Female,152,71,103,2,0,Inactive,101
+75,Female,131,66,93,2,27,Inactive,79
+45,Female,125,68,105,0,0,Very Active,281
+76,Female,128,64,100,0,0,Inactive,122
+41,Female,143,61,94,1,0,Active,229
+23,Male,168,67,92,0,0,Active,243
+66,Female,136,69,97,0,0,Active,163
+32,Female,110,66,102,0,0,Inactive,201
+73,Male,153,75,94,2,3,Inactive,78
+39,Male,153,72,91,0,0,Inactive,134
+80,Female,120,75,105,2,0,Inactive,81
+20,Male,163,72,100,2,7,Inactive,140
+52,Female,125,62,97,3,0,Active,173
+44,Female,111,69,101,2,0,Active,248
+24,Female,123,65,110,3,0,Inactive,159
+78,Female,142,63,105,0,0,Inactive,116
+65,Female,139,70,99,1,0,Inactive,92
+64,Male,175,72,101,1,0,Active,120
+25,Female,131,66,104,1,0,Inactive,208
+59,Male,161,73,99,2,0,Inactive,91
+60,Female,129,66,113,3,0,Inactive,115
+29,Male,167,71,85,0,0,Inactive,172
+63,Female,120,60,100,3,0,Inactive,87
+25,Male,173,72,105,1,0,Inactive,152
+78,Female,137,64,90,1,0,Inactive,97
+61,Female,156,63,110,1,0,Very Active,199
+60,Female,135,75,95,1,0,Very Active,228
+37,Female,138,67,106,0,0,Inactive,171
+63,Female,129,68,96,0,0,Inactive,121
+23,Female,102,66,102,2,0,Inactive,276
+26,Male,162,70,90,0,0,Inactive,203
+21,Male,184,73,98,1,0,Inactive,162
+72,Male,175,68,108,0,0,Very Active,132
+27,Male,180,74,106,0,0,Inactive,200
+33,Female,127,66,94,1,0,Active,252
+43,Female,106,62,105,1,11,Inactive,106
+59,Female,85,65,115,0,0,Very Active,246
+58,Female,109,65,84,0,0,Inactive,105
+52,Male,140,72,99,1,35,Active,100
+47,Male,158,71,99,2,0,Inactive,104
+46,Male,133,70,94,2,0,Inactive,109
+62,Female,147,67,108,3,0,Inactive,110
+36,Male,165,66,104,1,0,Active,180
+43,Female,111,63,110,3,0,Inactive,175
+35,Female,98,66,107,2,0,Active,292
+30,Female,110,66,104,1,0,Inactive,201
+48,Male,161,69,104,1,0,Active,158
+70,Female,113,65,98,1,0,Inactive,88
+53,Female,137,70,101,0,0,Inactive,165
+49,Female,117,69,104,1,0,Active,205
+62,Male,189,72,111,2,16,Inactive,81
+33,Female,141,69,92,1,0,Inactive,215
+32,Female,148,64,101,0,0,Inactive,174
+18,Male,179,71,93,1,0,Active,234
+27,Female,106,63,102,0,38,Very Active,215
+24,Female,130,69,96,1,0,Very Active,398
+64,Female,114,69,110,1,2,Inactive,118
+19,Female,125,63,95,2,17,Active,225
+73,Male,163,76,101,0,4,Very Active,134
+33,Female,138,63,95,1,2,Very Active,293
+54,Female,138,67,94,0,0,Inactive,132
+22,Female,117,66,106,0,0,Active,342
+64,Female,134,63,100,0,0,Inactive,137
+77,Male,152,70,107,2,0,Inactive,84
+75,Female,141,66,96,1,0,Inactive,100
+34,Female,132,65,96,1,33,Inactive,132
+54,Female,126,68,99,1,0,Very Active,239
+63,Female,130,65,94,1,0,Very Active,208
+61,Female,137,61,110,0,0,Inactive,115
+68,Female,124,64,96,0,26,Very Active,156
+67,Male,171,71,98,4,0,Inactive,94
+50,Female,151,64,97,0,0,Inactive,105
+79,Female,130,66,100,0,0,Inactive,100
+72,Male,152,72,109,0,0,Inactive,86
+74,Female,98,69,96,0,0,Inactive,90
+33,Female,122,63,106,0,0,Active,293
+55,Male,159,69,97,0,37,Active,104
+74,Female,120,68,102,1,0,Inactive,127
+55,Female,131,66,79,1,0,Very Active,230
+29,Male,176,70,98,0,0,Inactive,147
+74,Female,143,64,96,1,0,Inactive,119
+42,Female,123,67,101,2,0,Very Active,276
+30,Male,152,76,99,2,0,Inactive,159
+35,Female,151,60,101,2,0,Inactive,117
+49,Female,121,67,105,2,0,Very Active,250
+73,Female,125,67,112,1,0,Active,169
+68,Male,177,70,100,2,0,Inactive,89
+50,Male,189,78,98,1,0,Active,158
+45,Female,121,65,95,0,17,Active,170
+54,Female,98,62,103,1,11,Active,188
+32,Female,147,64,95,1,0,Active,270
+59,Female,134,66,100,1,0,Active,169
+48,Female,143,66,96,1,0,Inactive,137
+47,Female,150,66,94,1,0,Very Active,246
+42,Male,181,78,104,3,0,Active,147
+18,Female,131,63,96,0,0,Very Active,437
+45,Female,131,66,97,1,0,Inactive,117
+78,Female,138,64,106,1,0,Active,154
+58,Female,102,64,96,1,0,Active,206
+52,Male,191,75,101,1,0,Active,150
+34,Male,191,70,98,0,0,Very Active,212
+77,Female,111,68,98,0,38,Active,106
+80,Male,184,70,103,0,0,Inactive,75
+50,Female,122,66,98,3,11,Very Active,208
+79,Male,156,72,93,0,6,Inactive,85
+65,Female,110,66,106,1,12,Inactive,83
+65,Male,173,75,99,1,0,Inactive,99
+21,Female,119,63,97,1,0,Very Active,408
+46,Female,115,65,100,0,0,Inactive,123
+22,Female,123,64,106,1,0,Very Active,399
+34,Male,172,74,93,0,0,Inactive,178
+23,Male,195,77,99,1,0,Very Active,259
+36,Female,120,67,111,1,0,Inactive,211
+65,Female,93,71,101,1,40,Inactive,67
+25,Female,127,68,103,2,0,Active,290
+74,Male,182,72,99,2,27,Very Active,97
+46,Female,130,70,95,3,13,Very Active,215
+19,Female,118,65,113,2,0,Active,375
+54,Male,174,73,113,0,0,Inactive,117
+69,Female,119,64,96,0,0,Inactive,134
+41,Female,117,64,109,0,0,Inactive,164
+52,Female,138,65,92,1,0,Active,182
+80,Female,113,59,101,1,0,Inactive,114
+73,Female,142,67,104,0,0,Active,147
+50,Female,127,68,97,2,0,Inactive,136
+30,Female,133,59,102,2,0,Inactive,197
+37,Female,105,70,108,0,29,Very Active,222
+48,Female,133,66,101,4,38,Inactive,87
+27,Male,175,68,102,1,0,Active,208
+72,Male,168,73,99,1,0,Inactive,81
+77,Female,117,67,105,2,31,Very Active,138
+28,Female,121,58,94,2,0,Active,279
+63,Male,172,69,101,1,0,Active,130
+53,Male,160,69,107,1,0,Inactive,112
+56,Female,136,68,87,1,0,Inactive,153
+38,Male,167,75,97,0,0,Inactive,136
+75,Female,147,64,99,1,0,Very Active,176
+78,Female,127,61,90,1,0,Active,154
+40,Male,185,70,95,2,0,Inactive,134
+69,Female,121,65,100,3,20,Inactive,87
+37,Female,162,69,108,0,0,Inactive,197
+50,Male,188,71,101,1,0,Active,150
+19,Male,155,71,101,0,0,Inactive,222
+19,Male,176,74,93,1,25,Active,156
+78,Male,205,76,106,3,0,Inactive,87
+29,Female,132,62,94,3,0,Very Active,304
+30,Female,144,63,106,1,0,Very Active,313
+33,Male,163,75,86,1,0,Active,192
+51,Female,89,67,100,0,0,Inactive,154
+36,Male,187,74,102,0,0,Very Active,217
+61,Male,169,70,104,1,0,Inactive,112
+23,Female,130,70,104,2,37,Active,169
+61,Female,116,66,104,0,0,Active,201
+78,Female,138,64,91,3,0,Inactive,93
+25,Female,104,66,94,0,0,Very Active,431
+57,Female,142,67,103,1,29,Active,127
+50,Male,175,72,103,3,0,Active,128
+67,Female,123,63,101,0,0,Inactive,113
+42,Female,105,67,98,0,19,Inactive,155
+25,Male,192,75,98,3,0,Active,180
+50,Female,114,65,106,1,0,Inactive,113
+79,Female,110,65,100,1,0,Active,161
+63,Male,167,73,98,1,0,Inactive,101
+22,Male,176,73,98,1,0,Active,223
+59,Female,141,70,101,2,0,Inactive,120
+68,Female,138,70,97,0,0,Active,159
+48,Male,165,71,109,0,21,Very Active,141
+78,Female,123,67,90,1,9,Inactive,74
+71,Female,113,66,91,1,0,Very Active,197
+72,Female,130,66,94,2,0,Active,165
+61,Female,127,71,104,2,6,Inactive,113
+69,Male,151,74,99,1,14,Inactive,75
+77,Female,126,69,105,1,0,Inactive,102
+47,Female,108,63,103,2,0,Inactive,143
+61,Female,110,70,102,1,0,Very Active,228
+51,Male,144,71,101,6,0,Inactive,84
+31,Male,154,74,93,2,0,Inactive,136
+59,Female,118,64,99,1,0,Very Active,222
+41,Male,160,75,101,1,0,Inactive,154
+54,Male,167,72,105,0,26,Inactive,97
+70,Female,112,71,95,1,0,Active,183
+44,Female,134,65,100,0,0,Inactive,181
+76,Male,149,71,105,1,0,Inactive,99
+76,Female,170,63,109,1,4,Inactive,71
+58,Female,148,61,104,0,0,Inactive,116
+74,Female,99,63,97,2,0,Inactive,126
+44,Male,188,67,97,0,0,Inactive,136
+66,Female,140,63,98,0,36,Inactive,95
+75,Female,135,64,95,0,0,Inactive,102
+25,Male,171,69,111,0,0,Inactive,159
+72,Female,128,69,91,0,0,Inactive,132
+45,Male,189,78,110,1,0,Very Active,184
+33,Male,160,73,94,2,0,Very Active,209
+70,Female,129,69,88,0,0,Active,180
+40,Female,102,65,93,0,0,Active,246
+29,Female,138,66,103,1,0,Inactive,150
+31,Male,175,73,92,0,23,Inactive,104
+64,Male,162,65,99,0,0,Inactive,110
+64,Male,180,75,106,2,0,Inactive,106
+38,Male,183,69,98,0,0,Inactive,123
+27,Male,161,71,103,2,0,Inactive,157
+40,Female,133,66,99,0,0,Inactive,195
+65,Male,167,75,89,1,14,Inactive,87
+67,Female,101,60,109,2,0,Inactive,110
+40,Female,106,70,97,1,0,Very Active,315
+41,Female,139,65,102,1,0,Inactive,151
+75,Female,104,64,107,2,25,Inactive,66
+24,Female,126,66,93,1,0,Very Active,389
+64,Female,92,65,99,1,0,Active,197
+27,Female,141,70,100,2,0,Inactive,234
+45,Female,141,72,104,2,0,Inactive,176
+58,Male,152,68,102,2,14,Inactive,97
+47,Female,121,69,90,0,0,Very Active,277
+24,Female,102,64,97,0,0,Inactive,193
+25,Male,163,73,103,0,0,Active,258
+68,Female,110,61,104,2,0,Active,151
+73,Male,162,76,106,2,0,Inactive,89
+80,Female,147,68,93,1,0,Inactive,77
+74,Female,101,65,94,2,0,Inactive,84
+50,Male,158,76,98,2,27,Active,106
+38,Female,160,61,97,0,40,Inactive,74
+75,Male,193,69,101,2,0,Active,108
+37,Male,159,71,101,0,11,Inactive,128
+70,Male,156,75,96,2,0,Inactive,92
+21,Male,163,75,97,0,0,Very Active,314
+61,Female,103,69,106,0,0,Inactive,131
+28,Male,156,67,99,1,0,Active,213
+78,Male,173,74,98,1,0,Inactive,77
+80,Female,117,68,101,1,38,Active,102
+72,Female,148,59,109,1,0,Very Active,173
+32,Female,146,69,101,0,0,Inactive,187
+21,Male,140,76,102,2,0,Active,239
+69,Female,111,72,109,1,0,Active,186
+54,Female,129,62,93,2,0,Active,172
+36,Female,113,67,89,1,0,Inactive,180
+55,Male,155,67,97,0,0,Very Active,164
+76,Male,189,76,94,0,0,Inactive,101
+34,Male,178,71,98,1,20,Inactive,109
+41,Male,200,74,90,1,0,Very Active,184
+22,Male,172,73,114,2,0,Inactive,190
+78,Male,160,71,95,3,0,Inactive,89
+72,Female,127,65,108,3,0,Active,141
+42,Female,162,71,102,4,0,Active,193
+74,Female,116,72,108,1,0,Inactive,87
+59,Male,165,74,102,0,29,Active,101
+18,Female,122,66,94,2,0,Active,336
+38,Female,160,66,87,1,10,Active,211
+36,Female,103,62,94,1,0,Active,281
+66,Male,150,71,108,1,0,Inactive,88
+20,Female,155,71,101,0,6,Active,294
+19,Female,96,58,104,0,11,Inactive,240
+51,Male,170,73,97,0,0,Inactive,136
+46,Female,129,74,92,0,23,Inactive,117
+47,Female,134,66,102,3,0,Active,214
+30,Female,143,64,110,0,0,Active,293
+37,Female,156,63,109,2,0,Inactive,146
+69,Female,137,59,97,2,0,Inactive,79
+30,Female,134,72,101,2,0,Very Active,345
+60,Female,117,61,103,2,0,Inactive,116
+57,Female,132,65,94,1,0,Active,173
+20,Female,137,66,105,3,0,Inactive,208
+32,Female,128,62,97,0,0,Inactive,180
+48,Male,182,66,99,2,0,Very Active,152
+63,Female,111,66,96,2,13,Inactive,123
+43,Male,146,68,99,2,35,Inactive,92
+62,Female,120,67,102,0,0,Active,173
+68,Female,137,68,95,0,0,Inactive,113
+61,Female,152,68,84,0,0,Inactive,119
+59,Male,176,70,93,1,0,Very Active,147
+58,Female,105,71,105,1,0,Very Active,241
+56,Female,122,67,102,0,0,Inactive,107
+52,Female,138,71,96,3,0,Inactive,155
+20,Female,112,66,105,1,0,Inactive,299
+28,Female,120,68,105,0,0,Inactive,173
+48,Female,112,67,97,2,0,Active,230
+53,Male,171,69,105,0,0,Active,141
+25,Female,103,70,98,2,0,Active,320
+70,Male,176,70,100,1,19,Very Active,110
+25,Male,151,74,97,1,0,Inactive,207
+41,Female,117,65,100,0,0,Very Active,298
+43,Female,136,62,99,0,17,Very Active,212
+72,Female,129,64,91,2,0,Active,163
+64,Female,141,67,100,0,0,Inactive,93
+34,Female,133,68,101,0,10,Active,218
+52,Male,176,74,102,0,0,Inactive,107
+30,Female,124,67,99,1,0,Inactive,156
+45,Female,143,63,102,1,0,Inactive,111
+38,Female,124,61,101,2,0,Active,214
+24,Male,161,68,105,0,0,Active,227
+66,Female,127,72,97,0,0,Inactive,144
+26,Male,170,73,103,3,0,Inactive,165
+42,Female,141,67,95,1,0,Active,212
+41,Female,115,68,94,1,0,Inactive,198
+66,Female,131,66,102,1,0,Active,157
+38,Female,119,69,100,0,0,Active,288
+52,Male,139,72,105,0,0,Inactive,141
+63,Female,112,67,100,3,0,Inactive,116
+60,Female,123,66,106,1,0,Active,195
+67,Male,183,71,102,0,0,Active,119
+49,Female,121,70,95,2,0,Active,227
+20,Female,124,63,101,2,12,Active,276
+52,Female,146,69,105,0,0,Active,218
+19,Female,128,63,90,1,0,Active,321
+32,Female,119,62,95,3,36,Inactive,104
+57,Female,116,62,101,0,0,Active,179
+47,Female,151,61,107,1,0,Very Active,232
+27,Female,127,69,93,1,0,Very Active,377
+61,Female,146,66,114,0,10,Active,169
+71,Female,102,62,101,2,0,Inactive,85
+79,Female,138,64,108,0,0,Inactive,97
+80,Male,152,71,101,1,30,Active,81
+63,Female,109,65,93,1,0,Active,168
+21,Female,119,66,108,3,8,Active,258
+42,Male,183,67,98,0,0,Active,156
+33,Male,163,78,91,0,0,Active,232
+19,Female,125,58,110,2,0,Inactive,163
+67,Male,182,66,92,0,34,Inactive,77
+23,Female,118,63,102,0,22,Inactive,121
+28,Female,136,67,98,0,8,Inactive,209
+57,Female,101,69,94,1,29,Active,155
+38,Male,181,70,105,2,0,Inactive,111
+24,Female,143,65,99,2,0,Active,309
+78,Female,138,67,102,0,0,Inactive,120
+65,Male,176,68,85,0,0,Inactive,98
+57,Male,164,71,101,0,0,Inactive,100
+24,Male,180,73,101,1,3,Active,201
+18,Male,171,75,104,0,0,Inactive,229
+51,Female,128,63,104,1,0,Very Active,238
+68,Female,121,66,115,0,0,Very Active,206
+32,Female,154,68,107,0,0,Active,289
+20,Female,105,63,107,1,0,Inactive,197
+62,Female,110,70,99,2,0,Active,196
+59,Female,155,68,101,0,0,Inactive,121
+51,Female,124,69,107,0,0,Inactive,173
+67,Male,160,70,107,2,0,Inactive,102
+31,Female,120,71,92,1,0,Active,282
+71,Male,173,75,96,2,0,Active,109
+52,Female,145,65,102,2,25,Active,133
+66,Male,179,78,94,2,0,Inactive,106
+31,Female,149,64,101,3,0,Inactive,192
+31,Female,154,60,101,1,0,Very Active,285
+51,Female,151,68,85,2,0,Inactive,154
+65,Male,147,74,101,0,0,Inactive,107
+41,Female,141,66,107,1,0,Very Active,274
+73,Male,197,76,104,0,0,Very Active,134
+29,Male,152,76,100,3,0,Active,185
+19,Male,183,71,113,1,5,Active,206
+26,Female,132,69,99,0,0,Inactive,264
+40,Male,190,67,104,1,0,Inactive,136
+73,Male,189,72,99,1,0,Inactive,78
+34,Male,164,72,105,0,0,Inactive,160
+44,Male,148,66,108,2,0,Very Active,171
+48,Female,110,67,100,2,0,Very Active,260
+40,Female,144,64,98,0,0,Active,216
+44,Female,128,67,102,0,0,Active,250
+38,Male,168,83,102,1,16,Very Active,173
+63,Male,164,75,105,1,0,Inactive,103
+72,Female,135,72,107,0,25,Very Active,156
+74,Female,83,66,111,2,0,Very Active,197
+39,Female,137,68,104,0,0,Active,267
+22,Female,106,63,85,2,0,Active,313
+49,Female,114,69,110,0,0,Active,213
+77,Male,174,72,91,1,0,Very Active,124
+60,Female,131,62,97,6,0,Inactive,104
+28,Female,123,61,111,4,20,Inactive,126
+22,Female,101,64,109,1,0,Very Active,436
+46,Female,142,66,95,0,0,Inactive,174
+32,Female,134,64,100,3,0,Inactive,197
+18,Female,126,65,100,0,0,Inactive,257
+29,Male,159,73,99,0,0,Active,240
+62,Female,126,67,107,0,0,Inactive,98
+40,Male,186,79,108,1,0,Inactive,123
+70,Female,115,72,98,1,0,Active,160
+48,Female,156,63,108,1,0,Inactive,103
+27,Female,128,69,101,2,0,Active,321
+63,Female,130,65,98,0,0,Active,189
+44,Male,170,73,99,0,0,Inactive,151
+20,Female,99,64,110,2,0,Inactive,244
+34,Female,120,65,103,2,29,Inactive,138
+32,Female,109,63,101,0,17,Inactive,176
+72,Female,130,65,106,2,39,Inactive,59
+63,Female,117,64,104,1,0,Inactive,141
+47,Female,147,68,92,2,0,Active,218
+19,Female,125,65,97,0,0,Inactive,251
+22,Female,122,65,97,0,34,Active,210
+77,Female,90,68,109,3,0,Active,145
+43,Female,128,63,87,1,0,Very Active,266
+77,Male,157,70,103,0,0,Active,111
+56,Female,133,69,106,0,0,Active,212
+56,Male,178,72,100,3,37,Very Active,101
+25,Male,156,71,99,3,0,Inactive,153
+39,Female,108,67,93,3,0,Active,226
+40,Male,149,70,106,1,10,Inactive,133
+63,Male,152,74,112,0,0,Inactive,97
+42,Female,130,64,95,1,0,Inactive,121
+72,Female,102,67,90,4,37,Very Active,135
+78,Female,106,69,102,0,0,Very Active,192
+63,Male,153,72,99,2,0,Inactive,87
+25,Female,101,62,101,0,0,Very Active,414
+20,Female,126,67,100,1,0,Active,383
+42,Male,190,66,103,2,31,Inactive,81
+37,Female,154,59,98,1,0,Very Active,257
+80,Female,135,69,108,1,0,Inactive,78
+18,Male,181,73,110,3,0,Inactive,167
+25,Female,161,65,108,1,25,Active,178
+31,Female,138,62,99,2,0,Active,266
+69,Male,145,73,97,1,0,Inactive,98
+74,Male,176,70,102,0,0,Active,111
+57,Female,135,64,104,1,0,Active,170
+69,Female,121,69,98,3,16,Inactive,110
+23,Male,142,72,99,2,0,Inactive,159
+21,Female,121,65,103,3,0,Active,297
+23,Male,164,67,101,0,0,Inactive,205
+63,Female,115,68,101,0,0,Active,199
+53,Female,123,65,101,3,0,Inactive,151
+53,Male,172,70,97,0,0,Active,154
+51,Male,174,72,99,1,2,Very Active,161
+59,Female,125,68,109,1,0,Inactive,100
+66,Female,121,64,101,1,0,Inactive,90
+71,Female,124,68,98,1,0,Inactive,131
+58,Female,143,69,120,1,0,Inactive,123
+41,Male,173,73,88,0,0,Inactive,125
+45,Female,94,66,94,2,0,Inactive,125
+27,Male,152,71,99,0,0,Active,228
+60,Female,137,68,100,0,0,Inactive,99
+47,Male,159,67,109,1,0,Inactive,105
+58,Female,121,70,108,1,0,Inactive,103
+62,Female,123,61,107,2,0,Inactive,134
+48,Male,148,76,106,2,0,Active,149
+70,Female,166,63,98,2,0,Inactive,97
+18,Female,135,70,96,0,0,Active,375
+36,Male,157,67,104,0,0,Active,198
+52,Female,89,66,101,4,0,Very Active,242
+47,Female,126,63,98,0,8,Active,181
+35,Male,171,71,96,0,0,Active,204
+70,Female,134,71,98,0,0,Inactive,135
+74,Female,98,67,106,1,0,Active,153
+39,Female,126,67,103,1,0,Very Active,296
+51,Female,110,68,109,2,0,Very Active,251
+33,Female,137,67,96,1,0,Inactive,142
+39,Male,183,72,89,0,0,Active,172
+55,Female,156,62,97,1,0,Active,164
+59,Male,164,74,85,2,0,Inactive,91
+31,Female,110,67,99,0,5,Inactive,150
+73,Male,189,76,98,0,0,Very Active,135
+46,Male,157,72,109,1,0,Inactive,112
+55,Male,183,69,107,1,0,Inactive,116
+71,Male,173,71,99,0,0,Very Active,137
+24,Female,141,64,110,2,0,Active,307
+48,Male,150,66,86,1,0,Inactive,118
+51,Female,120,63,96,2,0,Active,210
+42,Female,132,67,102,0,0,Active,255
+49,Female,144,69,98,2,0,Inactive,162
+34,Female,144,66,101,1,3,Active,225
+33,Male,160,72,101,1,0,Inactive,153
+33,Female,111,67,105,2,0,Inactive,147
+61,Female,129,66,96,1,0,Active,191
+64,Female,119,65,104,1,16,Active,157
+60,Female,133,71,107,1,0,Inactive,124
+47,Female,125,66,107,1,9,Active,205
+37,Female,119,68,96,0,0,Inactive,218
+74,Female,115,66,99,1,0,Inactive,106
+51,Male,169,77,86,1,0,Inactive,107
+77,Female,145,61,97,1,0,Inactive,113
+78,Female,107,67,99,1,0,Active,145
+80,Female,111,67,101,0,0,Inactive,103
+19,Male,155,76,101,1,0,Very Active,310
+40,Female,124,69,102,1,0,Inactive,133
+68,Female,117,67,105,1,22,Inactive,73
+59,Male,160,76,107,0,0,Very Active,166
+18,Male,185,72,97,2,0,Inactive,157
+25,Male,173,76,102,0,0,Active,261
+24,Female,129,65,98,0,8,Very Active,337
+44,Female,102,69,101,1,0,Inactive,131
+72,Female,149,67,105,0,7,Inactive,98
+19,Female,149,68,101,2,25,Inactive,170
+51,Male,159,73,97,0,0,Inactive,139
+20,Female,138,62,105,1,0,Very Active,381
+50,Female,142,69,101,0,0,Inactive,113
+68,Male,157,71,107,1,13,Active,112
+19,Male,168,75,97,1,0,Active,273
+62,Male,168,74,95,1,0,Active,126
+40,Female,106,64,107,3,0,Active,218
+55,Male,169,72,100,0,0,Very Active,167
+20,Female,124,65,101,1,0,Active,375
+64,Female,150,63,97,1,27,Very Active,151
+70,Male,152,73,89,0,0,Active,122
+18,Female,133,59,113,2,0,Active,287
+62,Male,156,76,98,2,0,Inactive,90
+23,Female,147,66,93,1,0,Inactive,164
+54,Male,177,72,117,2,0,Active,128
+47,Female,111,67,104,0,0,Inactive,155
+28,Female,121,63,101,1,0,Inactive,233
+24,Female,119,68,109,1,0,Inactive,227
+26,Female,134,67,115,0,0,Inactive,170
+74,Female,138,63,99,0,0,Active,142
+79,Female,147,68,103,1,0,Active,155
+67,Female,153,65,103,0,0,Very Active,195
+28,Male,158,71,97,2,0,Inactive,155
+42,Male,169,69,99,1,0,Inactive,127
+23,Female,125,66,104,0,0,Inactive,232
+18,Female,126,71,90,0,0,Active,394
+55,Male,170,75,112,2,0,Active,131
+71,Female,128,64,103,1,0,Active,147
+54,Female,97,64,103,2,0,Inactive,161
+48,Female,141,62,91,0,0,Active,190
+18,Female,100,66,103,1,7,Active,371
+47,Male,154,69,97,1,0,Active,163
+78,Female,124,70,95,0,0,Active,146
+64,Male,181,75,101,4,0,Active,117
+27,Male,195,73,109,2,0,Active,181
+22,Male,188,74,92,4,0,Active,193
+53,Female,128,61,100,0,0,Active,181
+29,Female,101,68,90,3,0,Inactive,238
+72,Female,142,70,94,2,0,Inactive,104
+51,Female,129,66,96,2,18,Inactive,107
+46,Male,175,72,103,0,11,Inactive,124
+43,Male,168,71,99,0,0,Inactive,151
+25,Male,177,75,105,1,0,Very Active,254
+73,Male,189,78,93,1,30,Active,93
+26,Female,109,68,88,0,0,Inactive,188
+37,Male,159,70,100,0,24,Inactive,119
+61,Female,117,64,95,3,9,Active,146
+24,Male,146,76,104,0,0,Active,287
+73,Male,173,75,94,0,0,Inactive,106
+55,Female,144,62,98,1,0,Active,168
+21,Male,162,69,92,1,19,Active,177
+37,Female,144,66,106,0,0,Active,266
+70,Male,190,72,103,0,0,Active,125
+77,Female,103,58,86,2,0,Inactive,78
+62,Female,161,68,103,1,0,Very Active,203
+46,Female,109,64,106,1,0,Inactive,180
+58,Female,125,63,106,1,0,Inactive,122
+20,Male,147,77,104,1,0,Inactive,241
+63,Female,110,66,101,0,0,Inactive,124
+22,Female,124,66,93,0,38,Inactive,100
+29,Female,110,65,98,0,22,Active,231
+70,Female,111,71,100,1,0,Very Active,206
+41,Female,133,68,100,1,0,Active,221
+73,Male,163,70,101,1,0,Active,110
+38,Male,180,71,98,0,0,Inactive,158
+50,Female,129,69,97,3,0,Inactive,160
+44,Female,122,68,101,1,0,Inactive,155
+45,Female,131,68,94,1,18,Inactive,94
+71,Male,161,70,99,1,0,Very Active,133
+65,Male,185,75,106,1,0,Active,130
+21,Male,173,78,114,0,0,Active,268
+77,Male,171,72,94,0,0,Very Active,130
+21,Female,111,60,106,1,0,Inactive,179
+77,Female,140,67,106,1,0,Very Active,178
+30,Male,167,73,93,0,1,Inactive,170
+53,Female,170,66,99,1,0,Active,194
+36,Male,171,73,102,0,0,Active,188
+58,Female,147,63,93,3,0,Inactive,133
+66,Female,137,71,99,1,0,Active,184
+22,Male,164,74,105,1,0,Active,255
+78,Female,133,66,87,2,0,Active,135
+58,Female,106,69,101,1,0,Inactive,132
+69,Female,89,67,90,1,0,Very Active,212
+51,Female,119,67,98,1,0,Inactive,168
+23,Female,114,64,103,0,0,Very Active,423
+21,Male,186,72,96,1,0,Inactive,179
+70,Female,118,67,98,1,0,Inactive,111
+60,Male,155,70,95,2,23,Inactive,88
+37,Female,139,69,95,1,0,Inactive,202
+54,Male,163,72,106,1,0,Very Active,162
+26,Female,140,61,98,1,0,Very Active,331
+72,Female,113,67,107,1,0,Inactive,109
+68,Female,127,63,92,2,0,Very Active,190
+69,Male,134,67,102,2,0,Active,122
+72,Female,136,65,91,0,0,Very Active,190
+58,Female,111,68,105,1,0,Inactive,156
+48,Female,108,67,103,0,0,Inactive,123
+40,Male,162,74,97,1,0,Active,185
+29,Female,109,60,98,0,34,Inactive,119
+20,Male,163,75,100,4,0,Inactive,177
+40,Male,170,75,105,1,30,Active,115
+57,Male,172,68,107,2,11,Very Active,127
+20,Female,147,67,97,0,0,Very Active,418
+30,Male,193,73,98,0,0,Inactive,144
+50,Female,136,63,92,1,0,Very Active,237
+31,Female,121,69,98,0,0,Active,327
+77,Male,190,73,102,2,0,Inactive,91
+31,Female,114,66,94,3,33,Active,181
+34,Female,122,65,115,2,0,Inactive,172
+54,Female,142,73,97,2,0,Inactive,104
+36,Female,133,66,113,1,20,Very Active,227
+26,Female,109,63,102,2,0,Active,324
+39,Female,104,66,109,0,6,Very Active,291
+41,Male,193,74,98,3,0,Active,141
+61,Female,144,62,112,0,0,Active,183
+79,Female,108,65,97,3,0,Inactive,97
+48,Female,97,61,102,1,0,Inactive,176
+49,Female,110,70,97,1,13,Active,175
+79,Female,116,66,105,3,0,Inactive,116
+31,Male,177,74,102,2,0,Very Active,211
+19,Female,118,72,103,1,0,Inactive,270
+66,Female,141,68,97,0,0,Very Active,206
+56,Male,181,68,99,1,0,Active,137
+19,Male,183,68,96,3,0,Inactive,136
+29,Female,109,65,99,2,0,Inactive,196
+67,Female,93,68,96,1,0,Inactive,96
+36,Female,135,71,95,2,0,Active,238
+65,Female,149,65,103,0,1,Inactive,88
+56,Male,153,74,102,1,0,Inactive,126
+50,Female,130,70,97,0,0,Very Active,262
+22,Male,188,68,106,0,31,Active,147
+21,Female,105,68,102,2,0,Inactive,195
+75,Female,139,70,105,4,0,Active,155
+27,Female,122,62,90,1,0,Very Active,351
+47,Male,154,75,101,0,0,Inactive,121
+46,Female,135,65,107,0,20,Very Active,203
+65,Female,127,65,93,0,0,Active,186
+18,Female,136,68,102,2,0,Inactive,187
+49,Male,150,75,107,0,0,Active,162
+33,Female,148,67,95,0,0,Inactive,214
+23,Female,119,67,111,1,0,Inactive,183
+43,Female,125,64,117,1,0,Inactive,181
+37,Female,130,69,100,2,0,Active,233
+23,Female,118,67,99,2,0,Inactive,220
+35,Male,167,72,107,1,0,Active,178
+28,Female,117,69,96,0,0,Active,309
+79,Female,133,59,114,1,0,Inactive,111
+71,Male,149,70,99,0,0,Very Active,141
+57,Female,113,62,111,1,20,Inactive,80
+26,Female,129,64,106,2,0,Inactive,192
+50,Male,166,73,104,1,0,Inactive,132
+48,Male,183,75,101,1,31,Inactive,76
+42,Female,139,66,98,0,0,Very Active,279
+23,Female,107,67,97,1,0,Active,383
+76,Male,179,78,100,2,0,Inactive,76
+28,Female,120,68,96,0,0,Inactive,216
+26,Female,141,67,88,2,35,Active,161
+73,Female,135,64,104,0,0,Very Active,187
+67,Female,112,68,99,0,0,Active,190
+79,Male,186,71,93,1,0,Active,110
+48,Female,137,63,113,0,0,Inactive,166
+47,Male,170,69,103,3,0,Active,143
+72,Male,154,76,105,1,0,Inactive,106
+59,Female,123,67,98,0,0,Active,179
+74,Male,146,75,96,2,0,Active,120
+46,Female,120,67,103,1,0,Inactive,150
+78,Male,166,65,90,0,17,Active,90
+26,Female,129,66,100,1,28,Inactive,156
+60,Male,179,71,107,0,10,Active,126
+58,Male,166,74,103,0,0,Active,139
+78,Female,120,66,100,2,22,Very Active,146
+74,Male,175,68,96,1,15,Active,100
+30,Male,177,71,86,1,39,Inactive,92
+78,Female,96,73,101,0,0,Inactive,110
+28,Male,155,67,103,2,0,Inactive,149
+76,Male,152,72,105,2,22,Very Active,103
+45,Male,180,68,102,2,0,Inactive,112
+47,Female,109,64,89,0,0,Active,243
+36,Female,118,63,92,2,0,Inactive,164
+78,Male,133,71,105,0,38,Very Active,97
+34,Male,157,72,86,0,0,Inactive,181
+44,Female,118,67,95,0,0,Active,224
+61,Male,163,68,96,1,24,Inactive,88
+31,Male,153,72,97,1,32,Active,137
+78,Female,122,62,102,1,0,Inactive,98
+73,Female,138,66,102,1,0,Active,164
+32,Female,141,59,98,0,0,Inactive,165
+45,Male,160,69,103,2,35,Very Active,116
+54,Female,101,66,101,1,0,Active,194
+26,Female,130,60,99,2,0,Active,253
+21,Female,126,66,102,3,26,Inactive,109
+36,Male,160,74,94,0,40,Active,114
+44,Female,123,64,85,1,0,Active,238
+24,Male,168,74,98,1,0,Active,222
+80,Female,124,66,99,3,0,Active,132
+69,Male,153,72,90,1,15,Active,101
+49,Female,123,71,98,3,0,Inactive,111
+70,Male,155,67,99,1,0,Very Active,132
+32,Male,132,72,86,1,27,Active,148
+47,Male,201,71,103,0,0,Inactive,120
+70,Female,137,66,99,2,0,Very Active,187
+64,Female,122,71,108,3,8,Very Active,189
+44,Male,181,67,93,0,0,Active,166
+23,Female,135,65,101,1,0,Inactive,211
+46,Female,136,68,94,0,0,Very Active,270
+19,Male,178,69,91,2,0,Very Active,244
+21,Male,203,72,102,1,25,Inactive,103
+43,Female,110,63,99,1,0,Active,217
+49,Female,94,66,93,1,21,Very Active,206
+69,Male,161,75,108,0,0,Inactive,101
+24,Male,165,71,99,0,0,Inactive,213
+73,Male,172,75,98,0,37,Inactive,61
+23,Male,153,72,103,2,27,Active,140
+57,Male,167,68,102,0,5,Very Active,149
+45,Female,136,65,104,3,0,Active,217
+74,Female,116,68,108,1,0,Inactive,128
+38,Female,126,67,105,0,0,Active,243
+77,Male,140,72,104,1,0,Active,110
+80,Male,160,72,95,2,0,Inactive,73
+33,Female,105,64,96,0,0,Very Active,353
+77,Female,126,61,101,0,0,Inactive,119
+20,Female,124,68,109,2,19,Inactive,162
+61,Female,122,60,93,1,0,Inactive,138
+66,Female,132,65,92,1,0,Active,178
+75,Male,173,73,91,0,0,Inactive,92
+19,Male,184,69,105,3,0,Very Active,223
+27,Male,155,70,106,1,0,Active,225
+47,Female,155,69,92,1,18,Inactive,89
+59,Female,108,65,99,1,0,Very Active,228
+60,Female,146,66,107,0,0,Inactive,144
+38,Female,137,65,95,2,0,Active,216
+66,Female,140,67,90,1,6,Inactive,125
+19,Female,137,66,101,1,0,Inactive,186
+51,Female,137,66,105,2,0,Inactive,130
+52,Male,152,72,97,0,3,Active,145
+30,Female,148,66,90,1,0,Very Active,322
+34,Male,154,72,83,0,0,Inactive,182
+22,Female,136,66,98,1,0,Inactive,261
+59,Female,117,68,101,3,0,Active,169
+35,Male,179,71,91,0,0,Active,200
+38,Female,133,73,98,0,0,Very Active,324
+49,Male,174,73,102,0,12,Active,131
+21,Female,132,72,89,0,0,Active,411
+51,Male,166,68,107,1,0,Inactive,100
+52,Female,142,64,106,2,0,Inactive,100
+29,Male,163,72,100,0,0,Inactive,176
+60,Female,126,68,108,1,0,Inactive,99
+75,Female,132,68,112,0,0,Inactive,84
+80,Male,208,75,102,1,0,Active,100
+61,Male,180,77,98,0,0,Inactive,109
+40,Female,125,64,94,1,0,Inactive,126
+32,Female,147,61,106,1,0,Inactive,162
+38,Male,173,68,106,1,16,Active,142
+43,Female,140,67,96,3,33,Active,135
+71,Female,112,65,113,2,0,Inactive,85
+69,Male,172,73,109,0,19,Active,108
+26,Female,127,66,89,1,0,Very Active,371
+37,Female,127,66,101,1,0,Active,235
+47,Female,125,65,98,0,0,Inactive,147
+76,Male,181,79,102,0,39,Active,89
+67,Female,116,59,95,1,0,Active,173
+29,Female,159,66,97,0,0,Inactive,183
+18,Male,182,68,105,1,0,Inactive,181
+36,Male,181,70,98,0,0,Active,194
+29,Male,155,71,99,0,0,Active,237
+52,Female,112,69,94,3,0,Active,215
+60,Female,118,66,99,2,0,Inactive,96
+26,Male,189,70,96,1,0,Inactive,158
+35,Female,131,70,104,0,0,Active,260
+75,Female,145,62,111,3,23,Active,107
+62,Female,120,61,102,0,0,Very Active,213
+19,Female,104,62,97,0,0,Active,421
+77,Female,137,64,92,1,0,Inactive,117
+42,Female,136,67,95,1,0,Inactive,123
+34,Male,155,69,91,2,38,Very Active,126
+50,Male,174,74,91,2,0,Active,137
+43,Male,140,70,97,1,0,Active,179
+76,Male,176,74,104,0,40,Very Active,94
+68,Female,136,61,100,0,0,Inactive,128
+19,Female,97,64,99,2,9,Inactive,247
+75,Female,139,68,93,0,1,Inactive,103
+69,Female,125,59,98,1,0,Very Active,187
+24,Female,126,68,100,2,0,Inactive,254
+28,Male,149,70,93,1,0,Inactive,169
+48,Female,121,68,93,2,0,Very Active,256
+29,Female,134,65,105,1,0,Inactive,188
+27,Male,149,67,105,0,0,Active,238
+52,Male,155,70,101,0,0,Active,148
+71,Female,136,71,104,3,0,Active,146
+26,Female,155,66,105,2,18,Inactive,164
+54,Male,148,68,91,3,0,Active,136
+40,Male,173,75,103,3,0,Inactive,136
+62,Female,125,67,99,0,20,Inactive,98
+35,Female,128,66,110,2,0,Inactive,168
+28,Male,160,73,108,1,0,Inactive,169
+62,Female,123,64,108,3,18,Active,131
+28,Female,128,66,86,3,5,Very Active,302
+71,Female,129,65,98,1,0,Very Active,191
+50,Female,109,63,95,1,0,Active,196
+66,Male,171,68,99,1,0,Active,125
+41,Male,158,73,104,1,3,Very Active,189
+72,Male,176,66,92,0,8,Inactive,92
+44,Female,127,69,107,1,0,Inactive,185
+22,Female,139,66,103,1,29,Very Active,239
+25,Male,150,72,114,1,20,Inactive,115
+28,Female,128,70,103,1,0,Inactive,248
+52,Female,113,74,98,1,0,Inactive,146
+35,Male,149,69,95,1,0,Inactive,164
+31,Male,197,70,98,2,0,Active,178
+53,Female,132,70,102,0,0,Inactive,167
+43,Male,153,73,101,0,0,Inactive,158
+47,Female,109,66,97,2,14,Inactive,145
+20,Female,117,70,104,1,0,Active,361
+63,Female,108,69,105,4,0,Active,161
+79,Female,103,62,99,2,0,Inactive,79
+35,Female,153,68,105,1,0,Very Active,299
+31,Male,166,70,103,1,0,Inactive,170
+37,Female,102,69,103,1,0,Inactive,148
+39,Female,121,60,99,3,0,Inactive,175
+64,Female,124,69,96,0,0,Very Active,219
+62,Female,124,65,101,0,0,Very Active,218
+31,Male,180,71,98,1,0,Inactive,133
+55,Female,119,70,99,2,0,Active,210
+58,Male,155,73,101,1,0,Inactive,121
+44,Female,133,69,95,2,0,Inactive,148
+69,Female,116,64,108,0,10,Active,142
+78,Female,116,60,104,2,0,Very Active,172
+22,Male,176,71,100,4,0,Active,176
+50,Male,179,67,93,1,0,Inactive,122
+26,Male,159,74,95,2,0,Very Active,239
+61,Female,117,71,93,1,0,Inactive,151
+70,Female,128,67,106,0,18,Active,130
+45,Female,147,68,96,4,0,Inactive,159
+43,Female,146,66,90,1,9,Active,206
+20,Male,165,78,104,0,0,Very Active,333
+64,Male,165,78,105,0,0,Very Active,156
+67,Female,142,66,97,3,0,Inactive,125
+25,Female,110,68,92,0,0,Inactive,192
+68,Female,142,66,96,0,0,Active,176
+24,Female,93,63,100,0,0,Active,395
+24,Female,108,66,99,0,0,Active,338
+35,Male,166,73,103,0,0,Active,211
+57,Female,115,68,102,2,3,Inactive,98
+19,Female,143,62,105,0,0,Active,310
+66,Female,108,67,99,3,0,Active,180
+20,Male,168,73,92,0,29,Inactive,141
+23,Male,166,69,95,2,38,Inactive,96
+80,Male,150,70,104,0,0,Active,118
+38,Male,176,73,97,0,16,Inactive,104
+67,Female,113,62,104,2,31,Very Active,147
+52,Male,196,74,108,2,0,Active,129
+73,Male,172,74,103,3,0,Active,103
+63,Male,174,69,101,1,0,Inactive,97
+29,Female,155,60,104,4,0,Inactive,178
+66,Female,143,63,96,0,0,Inactive,88
+53,Female,126,66,90,1,0,Very Active,239
+57,Female,134,65,104,0,0,Active,177
+61,Male,165,73,95,0,0,Inactive,97
+45,Female,120,64,101,0,0,Inactive,183
+58,Male,163,77,102,1,0,Inactive,111
+50,Male,169,71,105,2,0,Inactive,123
+49,Female,129,68,97,2,0,Active,193
+24,Male,168,74,96,0,0,Inactive,197
+76,Female,146,66,81,1,20,Active,115
+24,Male,183,74,95,1,0,Very Active,252
+74,Female,101,64,103,1,0,Inactive,86
+22,Male,168,71,94,1,0,Active,223
+35,Male,187,76,96,1,0,Inactive,130
+42,Male,150,69,97,2,0,Inactive,125
+67,Female,137,66,107,2,0,Very Active,193
+58,Male,162,67,105,0,0,Inactive,96
+39,Female,117,66,90,1,0,Inactive,200
+70,Female,128,60,93,1,20,Inactive,85
+34,Male,162,72,102,0,0,Active,214
+41,Female,127,67,101,3,31,Inactive,102
+20,Male,170,65,94,0,0,Inactive,186
+65,Female,140,64,102,1,0,Active,154
+69,Female,115,70,102,1,0,Inactive,137
+63,Male,170,70,98,1,34,Inactive,72
+43,Female,106,64,108,3,0,Inactive,149
+52,Female,129,67,104,0,0,Active,222
+72,Female,115,65,95,2,0,Active,168
+26,Female,120,67,101,1,0,Inactive,171
+39,Male,151,71,97,2,0,Active,162
+33,Female,115,66,95,4,0,Active,235
+56,Female,145,68,102,0,0,Inactive,154
+31,Female,122,61,91,3,0,Active,266
+71,Female,155,68,96,1,0,Inactive,104
+49,Female,153,66,101,0,0,Inactive,163
+22,Male,152,73,103,2,11,Active,197
+24,Female,124,71,108,1,0,Inactive,277
+20,Male,156,70,95,0,0,Inactive,212
+48,Female,134,72,100,0,0,Active,242
+27,Female,126,64,97,0,0,Very Active,370
+30,Female,95,67,104,0,0,Inactive,223
+64,Female,132,69,95,3,0,Inactive,89
+50,Female,137,67,102,0,0,Very Active,252
+59,Male,185,70,99,0,0,Very Active,152
+26,Female,98,70,107,1,38,Inactive,100
+54,Female,133,68,96,1,0,Active,210
+57,Male,146,71,105,2,30,Inactive,78
+58,Male,168,73,86,2,0,Inactive,113
+68,Female,139,67,107,2,19,Inactive,89
+44,Female,149,65,89,1,0,Inactive,141
+73,Female,147,62,104,1,0,Very Active,177
+42,Male,195,68,96,0,0,Very Active,181
+57,Female,126,62,97,0,0,Inactive,125
+58,Female,113,65,95,2,0,Very Active,223
+44,Male,176,70,100,0,32,Inactive,79
+34,Male,152,72,106,0,0,Inactive,183
+66,Male,192,70,108,2,0,Inactive,89
+48,Female,108,70,100,2,4,Active,196
+23,Female,110,66,89,2,0,Active,313
+56,Female,119,62,95,0,0,Very Active,231
+32,Female,115,70,105,1,0,Active,277
+76,Female,126,62,96,1,19,Active,133
+80,Male,184,71,93,1,0,Active,100
+39,Male,169,71,106,1,0,Very Active,195
+71,Male,200,72,110,1,0,Inactive,98
+51,Female,140,68,90,2,0,Inactive,157
+46,Male,206,70,96,1,0,Inactive,113
+38,Female,120,68,99,0,18,Very Active,242
+23,Female,128,64,92,0,38,Very Active,217
+76,Female,144,68,109,2,0,Inactive,79
+70,Female,132,68,105,1,0,Active,174
+22,Female,147,68,100,0,16,Inactive,133
+37,Female,132,66,98,1,0,Active,265
+58,Female,129,67,103,0,0,Inactive,128
+38,Female,143,65,102,0,19,Active,198
+73,Female,134,63,88,2,0,Inactive,119
+60,Female,141,71,97,0,0,Inactive,151
+68,Male,188,69,107,0,0,Active,125
+46,Female,148,64,100,0,0,Inactive,112
+53,Female,149,69,84,2,0,Inactive,152
+56,Male,180,69,103,0,0,Inactive,97
+68,Female,112,65,109,2,0,Inactive,132
+40,Male,196,74,95,0,0,Inactive,123
+39,Male,168,75,93,2,0,Inactive,118
+42,Female,137,66,104,0,0,Active,250
+18,Female,153,68,94,2,0,Inactive,265
+27,Female,113,67,107,2,33,Very Active,220
+19,Female,137,69,107,0,8,Very Active,381
+64,Female,117,68,101,0,0,Inactive,147
+73,Male,179,76,113,2,0,Very Active,126
+44,Female,133,64,99,0,0,Active,209
+71,Female,130,65,101,1,0,Active,148
+43,Female,135,66,105,5,0,Very Active,241
+21,Male,169,72,98,2,31,Active,145
+43,Female,134,65,105,2,0,Inactive,115
+72,Male,149,74,100,0,0,Active,121
+67,Female,128,65,103,1,0,Active,155
+50,Male,165,72,107,1,0,Active,157
+58,Male,185,72,99,0,0,Active,144
+47,Male,153,70,107,1,0,Active,164
+40,Male,152,74,84,0,0,Active,185
+25,Female,134,68,94,1,0,Inactive,169
+29,Male,171,72,106,1,0,Inactive,178
+79,Female,118,64,93,1,0,Inactive,79
+21,Male,166,72,94,0,0,Inactive,207
+78,Female,112,65,105,0,0,Inactive,103
+40,Male,157,67,96,2,0,Active,152
+32,Female,114,71,104,0,0,Active,334
+56,Female,128,67,104,0,0,Inactive,131
+55,Female,145,66,115,0,2,Active,174
+38,Male,192,73,98,0,0,Very Active,205
+20,Female,139,66,102,1,0,Active,315
+62,Female,134,63,106,0,0,Inactive,93
+48,Female,116,63,88,2,0,Inactive,138
+59,Female,138,66,105,3,0,Very Active,206
+35,Female,140,65,111,1,12,Active,194
+70,Female,117,64,107,0,0,Active,155
+33,Male,181,71,108,2,0,Inactive,121
+73,Male,164,69,98,1,0,Inactive,79
+52,Female,113,68,93,0,0,Inactive,145
+76,Male,158,69,105,2,0,Inactive,84
+78,Female,163,69,108,0,31,Inactive,60
+64,Female,140,67,103,0,0,Inactive,93
+52,Female,162,62,94,1,0,Inactive,96
+55,Female,135,68,102,1,0,Very Active,232
+73,Male,207,73,106,0,23,Inactive,73
+33,Female,144,68,95,0,0,Active,291
+25,Female,110,70,95,0,0,Active,392
+28,Female,133,69,99,1,16,Active,244
+53,Male,179,68,102,1,0,Very Active,154
+39,Male,178,71,92,0,17,Inactive,124
+55,Female,117,66,106,0,0,Active,217
+29,Female,135,75,99,1,25,Inactive,165
+34,Female,128,65,102,1,0,Inactive,175
+26,Female,127,67,98,0,0,Active,349
+39,Female,101,69,107,1,0,Inactive,143
+67,Female,119,64,98,1,0,Inactive,89
+59,Female,118,68,100,1,0,Inactive,101
+44,Male,169,71,101,1,0,Inactive,140
+50,Female,114,65,103,1,0,Active,225
+32,Female,134,62,105,0,0,Inactive,177
+46,Female,123,63,104,2,0,Inactive,139
+71,Female,147,66,106,1,1,Active,143
+22,Male,126,71,105,0,0,Inactive,227
+62,Female,123,60,95,1,0,Inactive,114
+43,Male,169,71,95,0,36,Inactive,88
+62,Male,139,73,109,2,11,Inactive,101
+22,Female,109,64,100,1,20,Inactive,159
+21,Female,125,63,90,1,0,Inactive,177
+41,Male,156,74,102,0,0,Active,197
+80,Male,172,70,105,1,0,Inactive,92
+63,Female,125,62,100,0,0,Active,186
+43,Female,137,63,91,1,0,Inactive,144
+28,Female,144,66,114,0,1,Active,306
+51,Female,124,72,96,2,0,Inactive,167
+49,Male,183,68,100,0,0,Inactive,130
+52,Female,137,65,106,0,0,Very Active,241
+27,Female,95,66,92,1,0,Inactive,226
+31,Male,176,71,105,4,0,Active,168
+53,Male,171,71,104,0,0,Inactive,104
+56,Female,112,69,105,1,40,Inactive,70
+57,Female,125,63,99,1,38,Active,118
+79,Male,178,72,92,1,15,Active,98
+77,Female,127,66,88,2,0,Active,158
+52,Female,129,65,97,1,0,Inactive,159
+68,Female,124,64,115,1,0,Active,153
+46,Male,182,71,93,3,0,Inactive,120
+75,Female,108,61,99,3,0,Inactive,118
+39,Female,107,62,104,1,37,Inactive,123
+38,Female,159,71,108,5,0,Inactive,171
+32,Female,102,65,113,1,0,Active,314
+36,Female,135,65,106,1,0,Inactive,132
+33,Male,160,74,109,1,0,Inactive,174
+64,Female,140,64,96,0,0,Inactive,91
+62,Female,114,71,101,1,0,Very Active,225
+22,Female,141,64,101,1,32,Active,200
+31,Female,121,67,96,2,0,Inactive,148
+21,Female,115,66,112,1,0,Active,385
+40,Female,102,62,106,1,0,Inactive,198
+53,Female,149,61,102,1,0,Active,168
+47,Female,103,65,104,1,0,Inactive,151
+18,Male,170,70,100,2,0,Active,238
+70,Male,176,68,95,0,0,Inactive,83
+22,Male,154,69,108,0,0,Active,268
+61,Female,107,63,109,1,0,Inactive,122
+51,Female,129,71,101,1,0,Inactive,113
+46,Female,112,63,104,3,0,Inactive,167
+45,Female,141,74,101,0,0,Inactive,127
+38,Male,175,71,108,1,0,Inactive,120
+65,Female,151,65,108,4,0,Very Active,183
+63,Female,143,68,96,2,19,Very Active,167
+43,Female,127,63,101,2,0,Inactive,173
+52,Male,162,72,109,0,0,Very Active,176
+19,Female,147,68,99,2,20,Active,245
+56,Female,131,70,109,2,0,Inactive,102
+56,Female,129,70,96,2,0,Inactive,127
+80,Female,132,63,112,1,0,Active,133
+39,Male,151,77,103,1,0,Active,181
+61,Male,165,72,97,0,0,Very Active,156
+74,Male,180,80,104,0,11,Active,115
+20,Female,124,67,107,1,0,Very Active,435
+66,Male,153,73,103,0,7,Inactive,97
+57,Male,177,73,100,0,0,Inactive,124
+50,Female,114,67,109,0,0,Active,206
+34,Female,117,71,100,0,0,Inactive,238
+74,Female,181,66,89,4,0,Inactive,90
+23,Female,139,67,108,2,1,Inactive,201
+65,Female,123,67,97,0,0,Active,190
+35,Male,177,68,105,1,40,Active,104
+78,Female,130,67,94,0,0,Active,142
+54,Female,138,63,102,1,0,Very Active,224
+80,Male,173,73,98,0,0,Inactive,97
+48,Female,145,62,97,2,0,Very Active,229
+75,Female,131,61,90,1,0,Very Active,177
+23,Male,196,78,100,0,0,Inactive,197
+62,Female,116,66,99,1,0,Inactive,97
+31,Male,162,75,105,0,0,Active,234
+44,Male,177,71,103,2,29,Inactive,85
+67,Male,166,71,101,2,0,Inactive,102
+56,Female,112,65,107,0,0,Inactive,161
+40,Female,123,65,107,0,0,Inactive,165
+67,Female,135,64,95,2,0,Inactive,127
+21,Female,136,62,99,3,0,Active,308
+56,Female,131,67,97,0,12,Inactive,113
+60,Male,159,75,95,3,3,Very Active,137
+47,Male,162,73,95,3,0,Inactive,124
+26,Female,121,68,97,0,0,Inactive,180
+53,Female,125,65,94,0,0,Inactive,136
+61,Male,157,76,94,0,0,Very Active,162
+32,Female,142,66,100,0,0,Inactive,218
+23,Male,168,75,98,2,0,Very Active,250
+25,Male,156,67,97,2,0,Inactive,139
+50,Female,124,69,101,2,29,Inactive,99
+42,Female,125,63,99,2,0,Inactive,176
+38,Female,123,65,104,3,0,Inactive,186
+46,Female,123,67,107,1,0,Inactive,119
+36,Female,137,59,101,0,0,Active,220
+49,Female,115,68,104,1,0,Active,234
+78,Male,197,74,97,1,0,Inactive,84
+52,Female,137,67,105,1,0,Inactive,133
+64,Male,164,75,95,1,33,Inactive,66
+66,Male,164,73,103,0,0,Active,137
+45,Male,160,72,111,0,0,Inactive,120
+31,Male,167,72,106,0,0,Inactive,149
+34,Female,124,67,98,1,0,Inactive,217
+50,Female,139,69,88,0,28,Active,162
+80,Female,107,73,109,0,0,Inactive,85
+52,Male,185,72,104,0,0,Active,156
+68,Male,140,71,100,3,0,Inactive,100
+55,Female,135,65,111,0,8,Very Active,211
+36,Male,168,75,90,0,0,Very Active,228
+18,Female,116,67,104,2,0,Active,349
+70,Male,182,73,85,0,32,Active,95
+57,Female,138,68,106,0,0,Active,180
+55,Male,164,71,94,1,0,Inactive,122
+66,Female,133,66,98,2,0,Inactive,109
+78,Male,167,77,102,1,0,Inactive,98
+78,Female,151,67,108,0,0,Active,157
+40,Male,171,66,105,1,0,Very Active,182
+64,Female,108,64,95,0,0,Inactive,97
+62,Male,188,77,104,2,0,Inactive,98
+33,Female,116,66,99,0,0,Inactive,155
+71,Male,143,70,99,0,0,Active,131
+29,Male,192,65,95,1,0,Very Active,200
+26,Female,107,68,89,2,2,Active,290
+32,Female,144,69,110,0,0,Active,263
+63,Female,140,66,96,1,0,Inactive,114
+80,Male,169,79,112,0,0,Active,121
+80,Female,147,62,99,2,0,Very Active,162
+25,Female,128,71,91,2,19,Inactive,182
+68,Female,114,67,94,2,0,Inactive,89
+72,Male,150,74,103,0,0,Inactive,88
+31,Male,177,73,106,3,25,Inactive,88
+79,Male,172,62,97,0,0,Inactive,81
+41,Female,100,62,96,1,0,Inactive,131
+21,Female,139,68,91,0,11,Active,301
+31,Female,145,61,97,0,31,Inactive,134
+61,Female,119,67,100,3,33,Very Active,152
+71,Male,184,71,98,2,0,Very Active,124
+74,Male,179,67,97,0,0,Inactive,78
+31,Male,161,64,96,0,0,Inactive,154
+73,Female,135,67,88,1,28,Inactive,64
+50,Male,174,72,91,1,0,Inactive,103
+20,Female,130,64,89,0,0,Active,331
+46,Male,198,67,106,0,26,Inactive,78
+27,Male,164,74,99,2,30,Active,128
+69,Male,156,68,98,0,0,Inactive,86
+32,Male,173,73,89,2,0,Inactive,159
+36,Female,136,65,88,1,32,Active,173
+59,Male,179,75,96,0,0,Inactive,123
+31,Male,168,67,98,2,30,Very Active,136
+32,Male,165,67,99,1,0,Very Active,210
+42,Female,109,63,114,2,10,Active,212
+29,Male,158,66,88,1,0,Inactive,171
+68,Male,168,70,110,0,0,Inactive,98
+22,Female,140,64,93,2,17,Very Active,269
+52,Female,158,66,97,2,0,Inactive,98
+74,Male,187,71,101,0,0,Inactive,90
+60,Male,153,71,108,3,0,Active,129
+46,Male,168,75,82,0,0,Inactive,149
+57,Female,131,61,103,1,0,Inactive,143
+50,Male,165,74,108,0,0,Inactive,126
+78,Female,143,70,100,2,24,Very Active,142
+79,Female,133,66,98,0,0,Active,159
+29,Female,123,65,98,0,0,Inactive,162
+48,Female,117,66,98,2,0,Active,198
+79,Male,164,75,97,1,0,Inactive,77
+67,Female,106,66,109,1,32,Inactive,102
+76,Male,195,70,101,4,0,Inactive,75
+29,Female,142,65,94,2,0,Inactive,212
+70,Male,162,74,106,0,0,Inactive,99
+57,Female,151,64,99,0,0,Active,169
+37,Male,148,73,91,0,29,Active,140
+31,Female,124,66,91,2,0,Very Active,327
+75,Female,151,65,93,0,0,Active,160
+70,Male,185,76,105,0,0,Inactive,97
+41,Male,168,71,99,0,0,Inactive,155
+68,Male,161,73,101,2,7,Active,106
+64,Female,119,64,105,2,1,Active,157
+49,Female,140,64,101,1,0,Active,213
+20,Male,183,77,89,0,0,Active,288
+40,Male,152,71,102,2,0,Active,173
+34,Female,151,62,93,3,0,Inactive,148
+70,Female,128,67,99,3,0,Active,167
+54,Female,142,66,107,0,0,Inactive,156
+27,Female,139,65,98,1,0,Active,307
+43,Female,133,63,95,2,2,Inactive,165
+50,Male,184,70,105,1,34,Inactive,79
+19,Male,168,69,97,0,0,Very Active,297
+71,Female,143,67,101,0,0,Active,150
+48,Male,179,74,100,0,20,Active,132
+59,Male,153,78,99,0,0,Inactive,117
+36,Male,148,71,105,0,5,Inactive,146
+22,Female,125,67,98,0,0,Inactive,289
+41,Male,156,75,101,1,0,Inactive,140
+54,Female,107,71,103,0,0,Active,203
+69,Female,143,67,101,0,0,Active,153
+29,Female,129,68,95,2,0,Inactive,228
+70,Female,110,64,106,0,0,Inactive,90
+46,Female,135,61,100,2,27,Active,137
+36,Female,103,60,107,0,13,Inactive,116
+56,Female,121,63,107,1,0,Inactive,101
+49,Male,184,73,103,0,0,Active,164
+64,Female,116,67,100,0,0,Very Active,219
+76,Female,132,70,110,0,19,Inactive,105
+26,Male,150,69,103,3,28,Inactive,113
+41,Female,131,65,93,0,0,Inactive,159
+39,Female,123,64,105,0,0,Inactive,166
+19,Male,166,75,99,1,0,Very Active,297
+42,Male,173,71,96,1,0,Very Active,185
+19,Male,185,73,106,3,34,Active,134
+41,Female,116,66,95,2,0,Active,220
+40,Male,133,70,100,1,0,Active,190
+24,Female,103,62,104,1,0,Active,312
+74,Female,125,68,105,0,0,Inactive,86
+18,Female,130,63,108,1,0,Inactive,186
+73,Female,143,66,98,0,2,Inactive,82
+76,Female,122,63,105,1,0,Active,161
+52,Female,139,65,117,1,0,Inactive,156
+80,Male,170,72,105,1,0,Inactive,93
+43,Female,117,64,105,0,0,Active,254
+29,Male,154,73,104,2,6,Inactive,126
+58,Female,144,57,109,0,0,Active,179
+28,Female,110,64,101,2,0,Inactive,157
+26,Male,171,72,96,2,0,Inactive,157
+50,Female,108,61,108,0,0,Very Active,256
+66,Male,202,76,103,1,0,Active,116
+52,Female,142,71,92,0,16,Active,182
+33,Female,107,66,97,1,0,Active,306
+67,Male,167,72,99,0,20,Inactive,91
+49,Male,137,71,102,0,0,Very Active,191
+24,Male,164,75,104,0,0,Very Active,292
+33,Male,178,69,101,0,0,Active,202
+47,Female,144,70,100,0,0,Active,207
+50,Female,114,67,99,1,0,Very Active,258
+37,Female,130,68,104,2,0,Inactive,132
+49,Female,117,67,98,0,0,Very Active,267
+64,Female,150,65,90,2,0,Inactive,86
+64,Female,137,62,92,1,0,Active,176
+49,Female,147,67,108,2,0,Very Active,237
+34,Female,103,65,105,1,0,Inactive,188
+53,Male,169,77,97,0,0,Active,151
+36,Female,118,67,99,1,0,Very Active,319
+32,Female,142,63,91,3,0,Inactive,158
+52,Female,135,69,103,2,24,Inactive,80
+51,Female,122,63,104,0,0,Very Active,248
+61,Female,138,69,105,1,40,Very Active,146
+43,Female,127,69,108,2,0,Inactive,152
+65,Female,96,62,105,0,0,Inactive,97
+46,Female,119,68,106,1,0,Active,242
+67,Male,153,71,94,2,14,Active,109
+32,Female,115,68,94,1,35,Very Active,208
+27,Female,121,65,102,0,0,Inactive,212
+71,Female,123,61,102,0,0,Inactive,127
+74,Male,164,76,103,0,0,Inactive,85
+31,Female,111,66,104,0,0,Inactive,204
+24,Male,168,69,107,1,0,Active,208
+73,Female,115,64,91,1,27,Very Active,148
+35,Male,192,73,93,1,0,Active,187
+73,Female,84,63,87,1,23,Inactive,106
+22,Female,133,68,96,3,0,Very Active,373
+47,Male,146,71,90,1,0,Inactive,126
+54,Male,153,71,98,2,40,Inactive,81
+65,Male,159,70,102,0,37,Inactive,64
+78,Female,153,64,96,1,35,Very Active,127
+39,Male,168,68,103,0,0,Active,170
+79,Female,128,68,109,0,0,Very Active,183
+45,Male,174,73,87,0,0,Active,162
+43,Female,141,68,98,0,0,Very Active,279
+23,Female,116,66,115,1,0,Inactive,229
+49,Male,173,73,92,0,0,Inactive,111
+35,Female,103,67,107,1,0,Very Active,339
+76,Male,163,82,101,0,0,Active,118
+37,Female,92,64,105,0,20,Inactive,165
+38,Female,123,63,101,1,0,Very Active,291
+70,Male,179,73,98,1,0,Inactive,92
+54,Male,178,72,96,2,0,Inactive,116
+27,Male,184,73,96,0,0,Very Active,254
+48,Female,130,65,104,2,0,Very Active,244
+26,Male,159,67,102,0,0,Inactive,196
+26,Male,182,74,102,2,0,Inactive,174
+23,Female,132,65,107,0,0,Inactive,267
+41,Female,157,68,86,0,0,Active,247
+52,Female,100,67,96,0,0,Active,207
+20,Female,125,64,102,2,21,Inactive,181
+25,Female,122,67,91,0,0,Very Active,408
+57,Female,139,67,100,2,0,Inactive,121
+25,Female,119,70,102,0,0,Active,333
+31,Male,166,70,99,1,0,Very Active,221
+62,Female,93,65,98,0,0,Inactive,129
+60,Female,130,65,101,0,0,Active,172
+33,Female,107,69,97,1,32,Very Active,217
+18,Female,126,66,97,0,0,Active,365
+54,Female,97,69,95,0,0,Active,234
+74,Female,129,66,93,1,0,Active,165
+44,Female,121,64,97,2,0,Active,204
+31,Female,136,69,98,1,0,Inactive,188
+66,Female,144,66,115,0,37,Active,111
+29,Female,114,66,98,1,38,Inactive,92
+50,Female,133,68,96,2,35,Active,146
+50,Female,127,66,86,1,0,Inactive,166
+70,Male,153,69,94,2,0,Active,119
+34,Female,154,66,95,1,24,Inactive,118
+78,Male,149,77,91,0,0,Inactive,94
+19,Male,174,67,107,0,0,Very Active,281
+51,Female,130,67,103,1,0,Inactive,164
+74,Male,155,73,104,0,29,Active,97
+68,Male,189,75,94,0,0,Very Active,142
+41,Female,103,60,89,1,0,Very Active,285
+33,Female,140,69,92,0,0,Inactive,224
+69,Female,137,69,96,3,0,Very Active,189
+45,Male,163,70,109,1,0,Inactive,138
+61,Female,137,67,109,2,0,Active,162
+68,Male,185,76,101,0,0,Inactive,99
+48,Female,142,67,90,1,0,Inactive,111
+27,Female,125,64,97,1,0,Very Active,357
+45,Male,170,71,104,1,0,Active,151
+35,Female,122,66,96,0,0,Inactive,183
+41,Female,131,65,94,0,0,Inactive,191
+49,Female,142,66,89,0,0,Inactive,111
+18,Male,166,69,91,0,1,Inactive,184
+23,Male,142,75,100,1,0,Inactive,179
+46,Male,170,72,95,1,0,Very Active,178
+80,Male,201,76,88,1,0,Inactive,74
+70,Male,173,69,113,2,0,Inactive,97
+43,Female,141,64,103,2,32,Inactive,116
+60,Female,129,64,108,0,0,Inactive,122
+56,Female,133,63,100,2,0,Active,191
+65,Male,175,71,99,2,0,Inactive,82
+73,Male,183,73,96,4,0,Inactive,88
+65,Female,114,65,96,4,0,Active,152
+75,Female,149,62,103,2,0,Active,132
+58,Female,102,63,101,0,0,Very Active,237
+23,Female,148,71,95,2,0,Inactive,210
+36,Female,139,64,99,0,0,Inactive,134
+26,Female,121,67,94,1,0,Inactive,170
+34,Female,131,62,95,0,0,Very Active,311
+30,Female,121,68,97,2,0,Inactive,153
+20,Female,119,64,103,1,0,Very Active,424
+61,Female,155,70,101,0,0,Inactive,96
+78,Male,166,76,93,3,16,Active,95
+68,Female,132,65,104,0,0,Active,156
+21,Female,116,62,94,0,0,Inactive,237
+28,Female,94,71,104,0,0,Inactive,195
+47,Female,129,72,101,0,0,Active,217
+57,Female,121,61,89,1,0,Active,171
+64,Female,151,64,112,0,0,Inactive,89
+34,Female,113,66,99,2,0,Inactive,142
+52,Male,158,73,108,2,11,Very Active,142
+51,Male,165,70,109,2,21,Inactive,87
+45,Male,199,70,93,1,0,Inactive,129
+26,Female,122,58,103,2,20,Very Active,238
+56,Female,113,65,101,1,0,Inactive,156
+48,Female,130,64,91,0,34,Very Active,173
+28,Male,187,69,100,0,0,Active,216
+57,Male,208,71,107,1,0,Inactive,100
+52,Female,123,68,98,0,0,Active,198
+73,Female,142,67,107,1,0,Inactive,82
+34,Female,139,65,109,0,0,Active,280
+40,Male,165,69,107,3,0,Inactive,131
+74,Male,159,66,95,2,0,Very Active,121
+49,Female,141,67,103,1,0,Active,192
+68,Female,157,65,99,0,0,Inactive,127
+58,Female,110,65,109,1,15,Very Active,193
+30,Male,151,63,93,1,0,Active,198
+23,Female,134,69,99,2,15,Inactive,162
+68,Male,179,70,98,0,24,Very Active,110
+62,Male,142,69,96,1,0,Inactive,92
+48,Male,178,69,107,1,0,Very Active,166
+66,Male,176,74,102,4,0,Very Active,124
+63,Female,135,62,104,1,11,Active,139
+37,Female,143,61,97,1,4,Active,200
+50,Female,132,65,100,2,0,Inactive,105
+26,Female,133,64,102,2,0,Inactive,151
+34,Female,133,68,99,2,0,Active,275
+18,Female,130,62,108,1,0,Very Active,411
+22,Male,185,73,98,2,18,Active,152
+49,Male,190,73,100,1,0,Inactive,115
+23,Female,142,67,106,3,0,Active,312
+59,Male,194,71,106,1,0,Very Active,144
+64,Male,165,72,99,2,28,Inactive,74
+80,Female,112,69,97,0,0,Very Active,186
+33,Female,125,68,103,0,0,Inactive,154
+34,Female,149,69,107,2,0,Inactive,167
+39,Female,133,71,100,0,25,Inactive,145
+53,Male,165,71,97,0,0,Very Active,171
+40,Female,145,67,98,1,0,Very Active,278
+36,Male,166,70,101,1,0,Inactive,157
+79,Male,139,71,101,3,0,Active,100
+49,Male,154,65,89,2,0,Inactive,121
+74,Male,181,75,93,3,0,Inactive,74
+66,Female,111,72,95,1,0,Inactive,144
+73,Male,161,67,97,4,0,Very Active,114
+39,Male,151,79,101,4,0,Active,167
+44,Female,119,66,92,4,0,Inactive,140
+76,Female,134,60,102,3,25,Active,105
+54,Female,124,64,96,1,0,Inactive,155
+32,Female,114,65,99,1,0,Inactive,189
+26,Female,128,65,103,0,28,Very Active,239
+42,Male,173,67,97,1,0,Very Active,178
+53,Male,156,70,97,1,0,Active,151
+72,Female,111,74,100,3,16,Active,148
+66,Male,156,73,102,2,34,Very Active,101
+51,Female,145,66,92,2,0,Very Active,230
+57,Female,133,68,105,1,15,Very Active,191
+31,Female,112,66,101,2,0,Active,264
+37,Female,119,63,99,0,0,Inactive,207
+32,Female,118,63,97,2,0,Active,281
+45,Female,104,72,107,3,0,Very Active,276
+29,Female,121,62,94,0,0,Inactive,196
+35,Male,168,69,103,1,0,Inactive,141
+34,Male,166,73,98,0,0,Inactive,179
+64,Male,170,76,103,3,0,Inactive,93
+23,Male,194,72,102,2,0,Active,209
+19,Female,120,69,97,1,0,Inactive,258
+40,Female,142,70,97,2,0,Inactive,124
+32,Female,122,63,101,1,0,Inactive,180
+19,Male,175,74,97,1,0,Inactive,198
+55,Female,156,63,101,0,0,Active,169
+58,Female,133,67,101,0,0,Active,178
+34,Female,116,67,107,0,1,Very Active,339
+69,Female,136,68,98,0,0,Active,178
+74,Female,141,62,100,0,0,Inactive,120
+66,Female,132,66,102,0,0,Active,183
+38,Male,169,71,100,2,0,Very Active,187
+61,Male,180,75,103,1,0,Inactive,103
+49,Female,117,68,111,0,0,Inactive,180
+29,Male,183,74,102,0,0,Inactive,171
+80,Female,115,63,99,1,0,Very Active,176
+32,Male,179,74,112,2,0,Active,191
+24,Male,155,68,107,0,0,Active,252
+51,Male,176,73,109,1,0,Inactive,115
+60,Female,130,62,91,2,22,Inactive,91
+20,Male,181,68,90,0,0,Active,253
+25,Female,155,61,91,4,4,Active,211
+51,Male,163,71,100,0,17,Inactive,88
+25,Male,152,71,87,0,0,Very Active,281
+56,Female,126,62,96,3,0,Active,165
+72,Female,114,67,94,1,0,Active,174
+29,Female,135,68,93,0,0,Inactive,202
+58,Female,106,65,97,1,0,Active,206
+29,Female,137,67,89,2,0,Inactive,184
+34,Female,105,64,96,1,0,Active,259
+70,Male,165,73,97,2,0,Inactive,80
+19,Female,133,67,98,1,0,Inactive,287
+68,Male,168,76,102,3,0,Inactive,100
+58,Male,171,83,90,2,0,Inactive,96
+58,Female,131,61,92,0,0,Active,169
+53,Female,132,70,97,1,0,Active,216
+60,Male,167,72,99,2,0,Very Active,143
+54,Female,152,65,102,0,0,Inactive,101
+59,Female,148,64,97,3,0,Active,177
+52,Female,136,65,94,0,0,Inactive,134
+23,Male,175,70,92,2,0,Active,214
+35,Male,174,67,97,2,0,Inactive,142
+27,Female,113,68,95,1,0,Inactive,260
+23,Female,124,70,103,0,0,Inactive,196
+29,Male,167,73,105,1,39,Inactive,85
+37,Female,127,66,109,0,0,Inactive,209
+20,Female,133,71,104,0,0,Active,363
+71,Female,165,65,99,1,0,Inactive,80
+61,Female,92,65,98,1,0,Active,179
+59,Female,134,68,94,3,0,Inactive,117
+20,Male,196,76,104,2,0,Inactive,154
+41,Female,154,68,94,0,0,Active,217
+63,Male,181,72,92,0,0,Inactive,103
+25,Female,125,65,101,1,0,Active,293
+66,Female,116,68,103,1,28,Active,123
+32,Male,165,69,105,1,0,Active,182
+69,Male,173,75,96,0,0,Very Active,143
+77,Female,119,68,101,0,0,Inactive,105
+37,Female,127,70,105,3,0,Inactive,196
+57,Female,130,68,103,0,0,Very Active,234
+48,Male,142,70,106,1,0,Inactive,124
+66,Female,118,68,97,0,0,Inactive,119
+62,Male,217,72,96,0,0,Inactive,87
+32,Male,170,75,95,0,0,Inactive,169
+35,Female,118,63,98,1,0,Active,242
+69,Female,137,73,114,0,0,Inactive,115
+49,Female,127,64,103,1,0,Active,220
+56,Female,154,70,97,0,0,Very Active,231
+45,Female,150,63,97,0,0,Inactive,140
+47,Female,134,62,92,1,0,Inactive,163
+24,Female,117,64,102,1,0,Inactive,260
+56,Male,176,76,88,1,38,Inactive,67
+39,Female,160,64,88,2,0,Active,199
+58,Female,117,67,104,0,4,Active,199
+64,Female,131,70,101,2,0,Inactive,115
+49,Female,141,66,106,0,0,Inactive,111
+32,Female,127,64,115,1,17,Inactive,110
+76,Female,135,64,95,0,27,Active,111
+69,Female,119,69,95,1,0,Active,158
+27,Male,206,78,104,0,0,Inactive,157
+48,Female,102,64,98,1,0,Inactive,119
+38,Female,128,61,92,2,26,Very Active,195
+23,Female,142,71,96,3,0,Very Active,369
+18,Female,131,64,106,0,11,Very Active,350
+42,Male,160,67,106,0,0,Inactive,149
+61,Male,173,73,99,0,0,Inactive,107
+57,Female,134,68,111,2,0,Inactive,98
+41,Female,99,68,99,1,0,Inactive,138
+40,Female,108,63,88,0,0,Inactive,169
+45,Female,135,63,102,0,37,Inactive,76
+77,Male,169,70,110,2,0,Inactive,73
+36,Male,188,70,99,0,0,Very Active,206
+20,Male,167,70,97,0,8,Active,212
+20,Female,123,65,107,1,0,Inactive,188
+79,Female,116,70,96,2,0,Inactive,80
+38,Male,150,69,101,1,23,Inactive,92
+32,Male,134,75,108,2,0,Inactive,176
+49,Male,154,72,97,1,0,Very Active,176
+40,Female,109,66,96,2,0,Inactive,162
+21,Female,135,64,96,1,0,Very Active,390
+50,Male,176,73,95,2,0,Very Active,160
+80,Male,163,73,101,0,0,Inactive,79
+79,Female,112,63,87,1,0,Active,159
+66,Male,161,73,112,1,0,Active,132
+80,Male,168,73,92,0,0,Active,108
+47,Female,135,64,98,1,0,Inactive,111
+72,Female,134,62,102,0,0,Active,166
+19,Female,127,64,102,1,0,Active,327
+29,Female,142,66,101,0,0,Very Active,347
+24,Male,174,69,108,0,0,Very Active,262
+49,Male,187,77,101,1,0,Inactive,106
+69,Female,139,70,97,4,0,Inactive,83
+20,Male,146,71,108,0,0,Very Active,322
+71,Female,106,63,98,0,0,Inactive,134
+60,Female,107,66,102,1,0,Inactive,151
+40,Male,190,72,99,0,0,Inactive,137
+43,Female,133,67,106,3,0,Very Active,258
+18,Female,131,68,97,1,0,Very Active,451
+36,Female,138,66,96,1,0,Inactive,199
+75,Female,132,67,106,0,0,Active,167
+70,Female,141,67,105,0,0,Active,152
+55,Male,148,71,101,0,0,Active,159
+66,Female,101,62,100,2,24,Inactive,71
+77,Male,189,74,99,0,30,Active,84
+65,Male,179,69,98,1,0,Inactive,105
+54,Female,145,69,105,2,0,Active,176
+44,Female,120,66,102,2,0,Active,208
+50,Male,168,73,103,2,0,Inactive,100
+33,Female,115,63,108,0,34,Inactive,92
+35,Female,125,69,92,1,0,Inactive,180
+52,Male,176,67,99,0,0,Active,151
+32,Female,125,65,103,0,0,Active,265
+56,Male,171,70,98,0,0,Inactive,124
+37,Female,160,65,106,3,0,Very Active,259
+28,Male,136,76,97,0,0,Inactive,180
+74,Male,171,71,103,1,0,Inactive,88
+65,Male,146,76,106,0,0,Inactive,121
+49,Female,121,63,100,1,15,Very Active,206
+22,Female,122,64,99,0,19,Active,258
+52,Female,144,65,97,0,0,Inactive,158
+33,Male,177,76,94,0,0,Very Active,238
+63,Female,93,69,96,2,0,Very Active,223
+46,Male,193,68,103,1,0,Very Active,164
+74,Female,90,68,106,0,0,Inactive,91
+69,Male,180,68,98,1,0,Inactive,100
+66,Female,147,68,100,3,0,Very Active,191
+29,Female,103,66,107,0,0,Inactive,175
+53,Female,116,68,95,4,0,Inactive,153
+75,Male,167,76,101,0,0,Active,115
+44,Male,175,73,96,1,0,Active,169
+24,Male,152,74,102,0,0,Inactive,184
+55,Male,194,71,90,1,0,Inactive,93
+66,Female,122,67,98,0,0,Inactive,94
+53,Female,123,69,85,3,0,Active,181
+19,Female,114,63,110,2,31,Inactive,162
+76,Male,172,68,103,0,0,Inactive,98
+48,Female,130,65,97,1,0,Very Active,251
+26,Female,130,67,95,2,0,Inactive,159
+22,Female,111,65,90,0,0,Active,395
+55,Male,188,71,100,0,0,Very Active,160
+29,Male,174,74,97,2,15,Active,161
+38,Female,140,68,97,2,15,Inactive,128
+23,Male,197,73,101,0,0,Inactive,204
+36,Female,96,72,97,0,0,Active,326
+50,Female,141,69,101,0,0,Inactive,141
+61,Female,141,65,99,1,0,Inactive,139
+67,Female,134,67,100,0,19,Inactive,112
+47,Male,160,69,95,1,0,Inactive,107
+31,Male,179,74,100,2,0,Inactive,129
+68,Male,167,73,104,2,0,Inactive,102
+75,Female,116,64,96,1,0,Inactive,124
+58,Female,118,68,102,1,15,Inactive,86
+49,Male,193,71,111,0,0,Very Active,171
+27,Female,143,68,98,1,0,Very Active,355
+33,Male,179,68,101,1,0,Active,171
+51,Female,116,67,93,1,0,Inactive,169
+41,Female,137,62,93,1,0,Very Active,265
+22,Female,103,64,91,1,0,Inactive,192
+32,Male,151,70,105,1,35,Active,130
+20,Female,137,68,107,0,22,Active,223
+40,Female,116,65,109,0,0,Very Active,304
+66,Female,122,62,102,1,0,Inactive,89
+63,Female,119,68,106,2,2,Inactive,115
+45,Female,135,70,109,1,0,Very Active,271
+50,Male,180,70,102,1,0,Inactive,100
+76,Male,176,69,105,0,0,Very Active,127
+30,Male,177,68,103,0,0,Inactive,158
+26,Female,130,67,95,1,0,Inactive,248
+57,Female,108,65,91,0,0,Active,187
+32,Male,184,72,93,1,0,Inactive,131
+77,Female,118,68,88,0,10,Very Active,172
+36,Female,133,67,95,0,0,Inactive,141
+37,Male,167,69,99,0,0,Inactive,162
+63,Male,185,75,94,2,0,Inactive,106
+24,Male,174,73,100,3,0,Active,204
+22,Female,122,73,100,2,0,Active,333
+78,Female,151,65,96,1,0,Very Active,171
+61,Female,129,64,95,2,0,Active,184
+41,Male,154,70,88,0,0,Inactive,159
+75,Female,139,66,110,0,12,Inactive,110
+46,Female,144,68,98,1,0,Inactive,114
+31,Male,201,70,103,0,0,Active,184
+69,Female,122,69,107,3,0,Active,172
+78,Male,146,73,93,1,32,Inactive,60
+39,Male,187,73,116,0,0,Active,173
+67,Female,120,70,93,2,0,Active,159
+33,Male,173,71,104,0,35,Very Active,141
+76,Female,137,62,110,1,0,Inactive,97
+65,Male,146,74,98,1,0,Active,125
+74,Female,130,61,86,0,36,Inactive,89
+61,Female,130,70,100,1,0,Very Active,220
+36,Male,144,66,97,0,11,Inactive,142
+36,Male,166,76,103,2,31,Very Active,137
+34,Male,149,75,99,1,0,Very Active,230
+66,Female,133,72,106,3,0,Inactive,89
+75,Female,156,64,102,2,9,Inactive,70
+20,Female,134,67,95,1,0,Active,326
+63,Female,143,68,99,1,27,Very Active,158
+61,Female,101,66,105,2,0,Active,197
+56,Female,125,65,85,2,0,Inactive,124
+32,Male,175,71,109,0,0,Active,195
+64,Male,160,67,100,1,0,Very Active,140
+18,Male,183,72,94,1,0,Very Active,278
+60,Male,175,75,93,1,0,Active,140
+53,Male,195,65,108,1,9,Inactive,81
+69,Female,137,64,96,0,0,Very Active,195
+54,Male,187,72,100,0,0,Inactive,126
+55,Male,171,76,109,0,0,Active,158
+22,Female,100,65,94,0,0,Inactive,311
+67,Male,164,75,102,1,34,Active,96
+57,Male,153,68,106,1,0,Active,142
+55,Female,125,67,97,0,0,Active,215
+55,Female,121,70,95,1,35,Inactive,91
+33,Female,90,67,94,3,0,Inactive,226
+65,Male,175,71,98,0,0,Inactive,101
+33,Female,119,63,100,1,0,Inactive,143
+26,Female,146,68,103,3,0,Inactive,221
+20,Female,135,66,106,1,0,Very Active,411
+34,Female,127,67,95,1,0,Inactive,179
+28,Female,132,65,92,0,0,Inactive,240
+49,Female,134,64,102,0,0,Inactive,139
+35,Male,171,71,99,1,0,Inactive,143
+60,Female,125,65,103,0,0,Very Active,223
+34,Female,83,66,99,2,0,Inactive,195
+65,Male,161,73,113,1,0,Inactive,111
+24,Male,186,78,100,0,0,Inactive,198
+36,Female,137,69,99,2,0,Inactive,133
+54,Male,192,69,97,2,0,Very Active,144
+62,Female,145,68,101,1,0,Inactive,93
+59,Female,131,66,104,1,0,Very Active,219
+41,Male,178,79,110,1,3,Inactive,118
+43,Female,149,66,94,1,0,Inactive,116
+18,Male,173,73,106,1,0,Very Active,290
+54,Male,183,74,105,1,40,Very Active,107
+75,Female,106,65,105,2,0,Inactive,103
+53,Female,112,71,94,2,0,Very Active,248
+46,Female,137,70,110,0,0,Very Active,274
+40,Male,168,74,102,2,0,Active,158
+48,Female,123,71,105,1,0,Active,238
+40,Female,132,63,96,0,0,Very Active,284
+77,Female,143,63,93,1,0,Active,134
+69,Female,124,72,105,0,0,Inactive,140
+38,Female,127,68,111,2,0,Active,261
+72,Female,108,61,85,0,0,Inactive,130
+65,Male,147,73,98,2,26,Inactive,84
+66,Male,163,75,104,2,0,Inactive,106
+73,Male,155,71,102,1,0,Inactive,101
+73,Female,119,67,111,1,0,Very Active,192
+65,Female,138,61,100,1,0,Inactive,107
+67,Female,123,69,103,2,0,Inactive,112
+66,Female,143,68,100,3,0,Very Active,192
+49,Male,195,71,104,1,0,Inactive,112
+30,Male,165,73,100,0,0,Active,232
+21,Male,176,71,91,1,0,Active,242
+33,Male,142,74,101,2,2,Very Active,212
+51,Male,161,67,107,0,0,Inactive,131
+52,Male,176,69,104,2,0,Inactive,93
+33,Female,138,67,93,1,3,Active,268
+70,Female,129,70,91,0,0,Active,181
+45,Male,155,72,96,3,0,Very Active,167
+50,Female,118,66,109,1,4,Active,213
+41,Female,120,62,95,1,0,Very Active,277
+62,Female,132,69,105,0,0,Active,196
+43,Female,118,63,103,2,18,Active,186
+56,Male,193,76,95,1,1,Inactive,95
+23,Female,132,65,98,2,0,Inactive,163
+21,Female,135,62,96,0,0,Active,350
+22,Female,125,69,97,2,0,Inactive,270
+23,Female,120,68,100,0,0,Very Active,436
+24,Male,193,68,99,0,0,Very Active,244
+37,Female,150,70,97,0,0,Inactive,205
+28,Female,130,71,113,0,9,Active,254
+51,Male,138,71,98,5,0,Active,133
+22,Female,120,62,90,4,5,Very Active,316
+23,Male,164,73,102,1,0,Active,247
+80,Female,138,67,96,1,0,Inactive,97
+76,Female,139,68,102,1,0,Inactive,81
+57,Male,157,71,101,2,0,Very Active,150
+73,Male,182,74,105,1,0,Very Active,130
+40,Female,106,70,104,0,0,Active,254
+39,Female,113,68,95,0,0,Inactive,142
+45,Female,155,66,98,0,0,Very Active,257
+41,Male,187,73,99,0,0,Inactive,122
+74,Male,179,71,102,0,0,Active,121
+23,Female,122,68,90,0,0,Inactive,289
+45,Female,101,65,102,0,7,Inactive,116
+46,Female,119,70,97,0,0,Inactive,190
+55,Female,135,70,98,0,0,Active,188
+69,Female,135,64,97,0,0,Very Active,195
+64,Female,123,67,101,0,0,Inactive,120
+25,Male,158,76,97,0,0,Inactive,181
+19,Female,147,66,101,0,0,Inactive,281
+58,Male,161,77,96,1,0,Inactive,99
+71,Male,161,76,100,1,0,Inactive,85
+72,Male,178,74,99,1,0,Inactive,81
+72,Female,117,64,104,1,0,Active,170
+78,Male,178,70,96,0,33,Inactive,73
+53,Male,164,69,100,0,19,Inactive,94
+31,Female,117,66,105,0,0,Active,321
+56,Male,186,73,102,1,0,Inactive,106
+56,Female,115,67,101,3,0,Inactive,100
+32,Male,188,70,94,1,0,Inactive,143
+76,Male,155,70,94,0,0,Inactive,102
+37,Female,118,64,96,0,0,Inactive,175
+38,Female,134,67,92,0,13,Inactive,167
+51,Female,118,62,102,0,0,Active,193
+62,Female,155,68,98,1,13,Inactive,119
+35,Male,178,68,118,1,0,Inactive,151
+43,Male,129,74,108,1,0,Inactive,142
+49,Female,154,62,90,1,0,Inactive,101
+77,Male,167,79,100,0,0,Inactive,94
+71,Female,139,67,95,1,0,Very Active,190
+29,Female,118,64,104,0,0,Inactive,244
+48,Male,166,76,95,0,0,Active,161
+52,Male,200,69,94,2,0,Very Active,145
+34,Female,106,67,93,0,0,Active,277
+24,Female,119,68,93,1,19,Active,254
+60,Female,167,71,99,3,0,Active,157
+40,Female,131,57,95,2,0,Very Active,249
+19,Male,156,74,101,3,0,Inactive,176
+39,Female,131,64,100,3,0,Inactive,178
+56,Female,142,63,102,0,25,Very Active,170
+60,Male,169,77,103,1,0,Active,143
+28,Female,132,70,114,0,0,Inactive,256
+18,Male,159,70,105,1,0,Active,245
+34,Female,134,64,96,4,0,Active,215
+68,Male,168,72,96,1,0,Active,116
+67,Female,117,61,92,1,0,Inactive,132
+53,Male,163,70,96,2,0,Active,142
+69,Female,116,66,94,0,6,Very Active,192
+22,Female,144,65,95,0,0,Active,305
+18,Female,121,60,102,0,0,Active,384
+28,Female,111,67,101,2,39,Active,181
+27,Male,213,77,109,0,39,Inactive,88
+36,Female,113,71,100,0,0,Inactive,155
+26,Female,134,69,106,0,0,Very Active,393
+55,Female,133,68,96,2,36,Inactive,87
+54,Female,139,62,102,1,17,Active,163
+19,Female,104,69,101,1,0,Active,385
+70,Female,123,62,107,1,0,Very Active,190
+69,Female,127,68,106,1,0,Active,155
+39,Female,124,66,102,4,0,Active,209
+56,Male,166,72,101,1,0,Inactive,97
+19,Female,105,63,100,2,0,Very Active,433
+32,Male,163,75,95,0,0,Inactive,153
+29,Female,128,66,97,1,0,Inactive,194
+48,Female,123,66,97,0,0,Very Active,265
+38,Female,130,65,100,0,0,Very Active,302
+49,Female,82,67,90,1,0,Active,251
+34,Female,136,73,108,3,0,Active,276
+55,Male,165,73,102,1,0,Very Active,161
+26,Female,119,69,103,3,9,Inactive,137
+50,Female,123,67,106,3,0,Inactive,159
+80,Female,141,68,87,1,0,Inactive,97
+42,Male,145,67,98,2,0,Inactive,138
+56,Female,119,67,107,1,4,Inactive,99
+19,Male,176,71,89,0,0,Inactive,184
+22,Female,145,65,92,0,22,Active,205
+34,Female,113,68,101,1,0,Inactive,188
+65,Male,160,77,86,0,0,Inactive,95
+34,Female,143,61,99,4,0,Inactive,145
+29,Female,128,63,98,0,0,Active,310
+73,Female,145,66,107,1,0,Inactive,102
+52,Male,163,75,105,0,0,Active,152
+42,Female,121,63,102,1,0,Inactive,153
+36,Female,109,69,107,3,0,Active,275
+53,Female,111,65,100,0,0,Inactive,168
+41,Female,150,69,106,1,0,Active,246
+19,Male,169,73,98,3,0,Inactive,150
+72,Male,162,75,103,0,0,Inactive,108
+31,Male,171,74,95,0,0,Active,208
+51,Female,125,69,93,0,30,Active,161
+70,Female,140,65,92,0,14,Inactive,112
+72,Female,134,62,101,0,0,Inactive,104
+37,Male,188,69,94,2,0,Inactive,124
+34,Male,186,66,95,1,9,Very Active,169
+22,Female,112,67,100,1,0,Active,337
+29,Female,135,70,115,2,0,Active,306
+54,Female,133,66,105,1,0,Inactive,103
+44,Male,166,69,99,0,5,Very Active,177
+80,Male,148,74,104,2,0,Very Active,121
+45,Female,125,67,91,0,36,Active,139
+28,Female,104,67,107,1,27,Inactive,109
+79,Male,158,69,104,2,0,Inactive,82
+79,Male,163,74,100,0,0,Inactive,100
+43,Female,116,64,98,0,0,Active,223
+40,Female,144,74,111,0,0,Inactive,137
+52,Male,164,73,98,1,0,Inactive,129
+61,Male,158,70,105,0,0,Inactive,108
+54,Female,105,66,88,2,13,Very Active,205
+22,Male,170,70,117,2,0,Inactive,165
+33,Female,155,68,104,1,0,Inactive,137
+78,Female,130,65,110,1,0,Inactive,98
+41,Female,129,61,97,0,0,Inactive,153
+71,Male,159,70,95,0,0,Inactive,85
+28,Female,122,67,102,1,8,Inactive,140
+40,Female,112,65,96,1,0,Very Active,297
+29,Female,129,64,100,0,0,Very Active,352
+50,Male,168,74,98,1,0,Active,159
+80,Female,107,69,90,0,0,Active,146
+55,Female,132,68,96,1,0,Active,182
+77,Male,142,73,96,0,37,Inactive,68
+68,Male,176,72,110,2,0,Inactive,100
+18,Female,132,64,101,2,32,Inactive,130
+39,Female,138,72,104,0,30,Inactive,114
+45,Female,124,69,97,1,0,Inactive,122
+33,Male,173,68,101,0,0,Active,185
+42,Female,120,66,110,0,0,Active,228
+71,Female,114,71,103,1,20,Inactive,92
+78,Female,140,63,97,1,0,Inactive,95
+54,Female,120,64,101,0,0,Inactive,161
+55,Male,154,75,96,1,0,Active,153
+20,Female,120,72,86,2,29,Very Active,260
+58,Male,156,72,107,1,0,Active,144
+46,Female,146,68,96,0,0,Active,235
+53,Male,174,72,95,0,0,Very Active,170
+56,Female,141,61,102,1,0,Inactive,95
+22,Female,131,69,99,1,1,Inactive,271
+22,Male,192,72,108,0,0,Inactive,167
+38,Male,173,74,91,0,0,Active,183
+51,Female,130,67,94,1,20,Very Active,193
+69,Male,176,73,94,0,0,Active,119
+66,Female,128,65,109,1,13,Inactive,98
+21,Female,154,68,101,0,0,Inactive,270
+28,Female,139,68,100,1,0,Very Active,352
+51,Female,115,63,107,3,0,Active,207
+35,Female,123,65,100,0,0,Very Active,324
+41,Female,109,67,103,0,0,Active,241
+20,Female,128,65,110,0,0,Active,339
+60,Female,99,64,108,0,0,Active,208
+30,Female,120,69,103,0,0,Active,293
+55,Male,171,67,100,0,0,Inactive,98
+55,Female,87,65,105,0,23,Active,151
+38,Male,155,78,103,0,0,Very Active,233
+55,Male,136,70,95,2,9,Inactive,109
+45,Male,136,73,91,0,0,Inactive,143
+43,Male,188,72,111,0,0,Active,175
+64,Female,109,72,109,1,5,Active,187
+79,Male,159,69,99,1,0,Inactive,85
+62,Female,117,66,100,0,0,Inactive,99
+78,Female,134,67,107,1,0,Active,158
+58,Male,169,70,103,0,0,Very Active,158
+59,Male,187,73,98,1,0,Active,137
+19,Female,140,70,96,0,0,Very Active,460
+74,Male,153,67,101,0,21,Inactive,84
+21,Male,162,77,114,0,0,Inactive,249
+52,Male,209,72,110,0,23,Very Active,126
+60,Female,140,67,94,0,0,Inactive,98
+34,Male,174,69,105,1,0,Active,188
+80,Female,136,67,102,1,0,Active,155
+37,Female,135,62,107,1,0,Active,220
+31,Male,168,71,93,0,0,Active,202
+53,Female,97,69,105,1,0,Inactive,173
+45,Female,124,70,102,2,0,Inactive,150
+31,Female,90,67,90,0,0,Active,355
+70,Male,149,73,107,2,0,Inactive,102
+43,Male,191,70,106,1,0,Very Active,175
+22,Female,116,70,98,0,0,Very Active,466
+28,Female,126,68,111,2,0,Active,313
+22,Male,155,74,95,0,0,Active,263
+34,Female,135,64,108,2,0,Active,229
+26,Female,129,63,116,1,0,Inactive,236
+25,Female,135,65,106,2,0,Very Active,350
+58,Male,145,68,108,2,0,Active,125
+36,Female,106,63,104,1,0,Active,282
+49,Female,133,71,99,1,0,Inactive,173
+53,Male,163,74,106,2,0,Active,134
+29,Female,131,61,113,0,0,Inactive,223
+29,Male,167,75,98,1,0,Inactive,167
+42,Male,140,70,102,1,0,Inactive,136
+42,Male,168,72,102,2,0,Inactive,110
+28,Male,181,70,100,1,18,Very Active,171
+50,Female,136,67,92,0,0,Very Active,252
+45,Female,115,66,102,1,0,Inactive,153
+63,Male,193,76,108,0,0,Inactive,116
+78,Male,158,73,95,1,0,Very Active,126
+67,Female,145,66,102,0,21,Inactive,72
+39,Female,142,65,105,0,0,Active,224
+49,Female,142,66,93,1,0,Very Active,244
+24,Male,166,79,91,1,0,Inactive,214
+38,Female,134,68,108,3,0,Active,217
+65,Female,127,69,107,1,0,Inactive,117
+57,Male,159,74,101,2,7,Inactive,108
+49,Male,152,69,103,0,0,Active,168
+52,Female,121,69,98,0,0,Very Active,258
+79,Male,186,71,98,1,0,Inactive,73
+67,Female,114,67,105,1,6,Inactive,129
+46,Female,124,66,110,2,38,Inactive,74
+62,Male,178,71,101,1,0,Active,121
+60,Male,150,71,98,3,0,Inactive,86
+38,Female,131,64,104,1,0,Active,224
+72,Female,90,68,100,1,0,Active,160
+21,Female,118,69,97,1,0,Active,396
+25,Female,123,64,95,0,0,Inactive,173
+55,Male,180,75,98,2,0,Active,129
+31,Male,189,71,95,1,0,Inactive,147
+69,Female,130,66,99,1,0,Active,174
+67,Female,137,67,108,0,0,Active,181
+67,Female,130,70,100,0,27,Inactive,71
+62,Female,143,71,108,0,34,Active,121
+55,Female,122,68,105,0,20,Active,171
+61,Male,180,80,96,2,0,Inactive,101
+43,Female,119,67,100,0,0,Active,227
+52,Female,112,66,106,0,0,Inactive,114
+74,Female,114,69,106,1,0,Active,151
+18,Male,152,68,96,0,0,Inactive,243
+46,Male,175,74,110,1,0,Inactive,110
+66,Female,149,68,99,2,0,Inactive,130
+22,Female,114,65,95,0,0,Very Active,439
+55,Female,131,62,104,1,0,Inactive,99
+29,Male,143,68,103,0,0,Active,236
+33,Male,170,72,91,4,5,Inactive,104
+47,Female,134,62,104,1,0,Inactive,136
+22,Female,135,61,94,2,0,Active,272
+26,Female,135,68,98,0,0,Inactive,258
+72,Female,112,69,92,0,20,Inactive,111
+40,Male,156,66,107,0,0,Active,184
+56,Male,181,72,100,2,0,Inactive,90
+38,Female,116,68,112,1,16,Active,190
+38,Female,138,62,95,0,12,Inactive,106
+63,Male,172,64,93,1,0,Active,114
+55,Male,181,71,100,0,0,Inactive,100
+36,Female,135,63,91,0,0,Inactive,200
+63,Male,180,76,96,0,0,Active,130
+79,Male,165,77,88,1,0,Inactive,98
+48,Male,182,72,104,0,0,Inactive,124
+68,Female,129,66,101,0,0,Inactive,113
+37,Male,179,71,94,0,13,Active,147
+71,Female,101,63,106,1,0,Inactive,110
+20,Female,135,70,92,2,5,Inactive,165
+73,Male,164,68,94,0,0,Very Active,133
+80,Female,138,65,104,2,0,Active,131
+31,Female,115,66,99,1,0,Inactive,194
+22,Female,123,66,96,1,0,Active,365
+32,Male,169,71,101,0,0,Very Active,234
+45,Male,178,73,97,1,0,Inactive,110
+19,Male,171,75,104,2,0,Inactive,165
+65,Female,113,61,100,0,0,Active,185
+57,Male,168,72,101,2,0,Inactive,114
+45,Female,129,65,101,4,0,Inactive,134
+70,Female,140,74,87,1,0,Inactive,89
+40,Female,126,73,110,1,0,Inactive,136
+26,Male,181,70,102,3,0,Very Active,203
+23,Female,116,66,94,3,15,Very Active,287
+41,Male,196,67,96,0,0,Active,153
+46,Male,152,71,104,0,0,Active,164
+19,Male,164,71,95,0,31,Active,165
+25,Female,123,67,88,1,29,Inactive,106
+62,Female,132,61,108,2,0,Inactive,110
+46,Male,130,70,104,1,0,Active,160
+36,Female,120,68,98,0,0,Inactive,147
+21,Male,168,72,105,0,0,Very Active,297
+65,Female,129,63,103,1,0,Very Active,200
+52,Female,131,63,108,1,0,Inactive,130
+68,Female,126,69,106,2,36,Inactive,95
+60,Male,157,72,102,1,0,Inactive,94
+18,Female,132,64,95,2,0,Active,358
+35,Female,141,70,103,1,0,Very Active,315
+39,Female,121,65,106,0,0,Very Active,304
+67,Female,128,67,92,2,0,Inactive,88
+42,Male,141,69,99,0,0,Inactive,159
+74,Female,92,68,106,2,0,Very Active,196
+67,Male,173,74,102,0,12,Active,109
+57,Male,169,74,97,1,0,Active,145
+45,Male,176,68,109,0,0,Inactive,139
+28,Male,152,78,105,1,0,Inactive,161
+73,Male,132,71,96,2,0,Active,121
+36,Male,164,70,91,1,0,Inactive,126
+63,Female,144,65,92,2,0,Inactive,110
+23,Female,127,68,90,2,0,Very Active,389
+58,Male,159,73,101,0,3,Active,134
+31,Female,117,66,107,1,0,Active,270
+35,Female,136,63,107,1,0,Inactive,196
+66,Female,145,68,99,0,35,Very Active,146
+69,Male,154,65,101,0,0,Inactive,85
+63,Male,184,82,101,0,0,Active,146
+28,Female,140,66,97,1,0,Active,304
+25,Male,196,71,103,1,0,Inactive,142
+70,Male,138,74,97,1,24,Inactive,69
+59,Female,131,66,104,0,14,Inactive,85
+76,Female,125,68,115,0,3,Inactive,122
+22,Female,108,61,96,0,0,Active,330
+77,Male,150,72,94,0,0,Inactive,103
+32,Male,164,62,103,1,0,Inactive,121
+63,Female,132,67,96,0,22,Inactive,76
+56,Female,116,65,97,1,0,Inactive,103
+49,Male,184,67,93,0,0,Inactive,103
+79,Male,179,75,100,2,0,Inactive,82
+62,Female,126,67,98,1,0,Inactive,96
+42,Male,175,78,96,1,0,Active,181
+56,Female,129,62,95,1,0,Inactive,123
+55,Female,129,67,109,2,0,Inactive,152
+68,Female,143,61,96,1,0,Inactive,124
+36,Female,111,65,104,2,0,Inactive,205
+61,Male,178,66,99,0,11,Active,109
+60,Male,190,72,97,0,0,Inactive,93
+33,Female,157,66,105,3,5,Very Active,260
+54,Female,139,75,98,0,0,Inactive,140
+53,Female,122,63,106,1,0,Active,183
+36,Female,134,60,101,1,0,Active,218
+42,Male,164,64,101,0,0,Inactive,114
+32,Female,123,67,96,0,19,Active,199
+40,Male,169,72,102,2,0,Very Active,183
+44,Female,128,64,98,0,0,Inactive,182
+77,Male,162,75,105,2,0,Active,114
+70,Female,152,65,106,1,0,Very Active,185
+74,Female,98,61,94,0,0,Inactive,130
+40,Male,169,69,93,1,0,Inactive,131
+29,Male,154,67,97,1,0,Active,210
+35,Male,167,68,95,1,0,Inactive,140
+54,Female,130,65,106,1,26,Active,154
+64,Male,162,69,107,4,0,Inactive,96
+31,Female,130,65,105,0,0,Active,266
+18,Female,135,64,104,2,0,Inactive,221
+46,Female,130,65,102,0,12,Very Active,226
+21,Male,148,66,89,0,0,Active,267
+66,Female,114,65,92,1,0,Active,161
+75,Female,138,68,97,2,0,Inactive,80
+31,Female,144,67,98,1,23,Active,178
+45,Female,116,61,100,2,0,Inactive,113
+50,Female,102,63,94,2,0,Inactive,139
+60,Female,109,64,104,1,0,Inactive,99
+58,Male,184,73,98,1,0,Inactive,104
+74,Female,113,66,99,3,0,Active,163
+53,Male,158,68,107,0,0,Inactive,130
+80,Male,126,68,98,1,0,Inactive,87
+24,Male,163,64,106,0,0,Inactive,154
+76,Female,136,67,104,2,0,Inactive,99
+49,Female,112,69,99,0,35,Active,139
+55,Male,155,75,106,2,0,Very Active,158
+43,Female,169,67,91,0,5,Inactive,161
+22,Male,158,73,95,1,0,Inactive,213
+51,Male,167,69,86,1,0,Active,151
+29,Male,169,77,94,0,0,Inactive,184
+45,Female,121,66,101,1,0,Active,210
+80,Male,145,71,97,0,0,Active,120
+65,Female,112,66,104,1,32,Very Active,154
+48,Male,168,71,97,1,0,Active,146
+19,Female,113,61,102,2,0,Inactive,271
+69,Male,162,72,100,0,0,Very Active,143
+39,Male,156,71,99,1,20,Inactive,106
+78,Female,121,70,99,1,0,Active,164
+70,Female,144,70,97,1,0,Active,173
+54,Female,141,70,97,1,0,Inactive,157
+55,Female,110,65,92,1,0,Inactive,159
+37,Male,161,76,101,1,0,Inactive,132
+73,Female,134,64,95,2,0,Inactive,80
+29,Female,133,64,102,1,0,Active,297
+38,Female,131,63,96,0,0,Active,261
+21,Female,103,67,100,1,0,Inactive,307
+32,Female,112,65,97,0,0,Active,316
+46,Female,102,66,92,0,16,Very Active,229
+77,Male,194,69,94,0,0,Inactive,85
+74,Female,138,73,94,1,21,Inactive,69
+19,Male,190,75,99,1,0,Active,257
+34,Female,100,68,98,1,0,Inactive,195
+34,Female,126,69,90,0,32,Active,189
+42,Male,143,76,90,1,0,Inactive,158
+20,Female,82,67,109,0,0,Inactive,365
+41,Female,108,67,97,0,12,Inactive,172
+54,Female,119,64,101,0,0,Very Active,242
+77,Female,115,67,91,4,0,Inactive,78
+77,Male,172,68,90,2,0,Active,108
+30,Male,147,72,104,2,0,Inactive,173
+60,Female,115,66,107,3,0,Active,166
+50,Male,145,71,106,0,0,Inactive,114
+79,Female,97,64,97,0,0,Active,167
+67,Female,113,67,86,1,0,Inactive,138
+43,Female,122,61,100,2,34,Inactive,115
+45,Male,142,70,99,2,0,Very Active,177
+68,Female,118,68,98,1,0,Active,159
+29,Male,157,72,97,0,0,Inactive,159
+70,Male,181,78,93,1,0,Active,126
+70,Female,148,66,100,2,10,Inactive,111
+29,Female,125,66,109,0,0,Inactive,244
+70,Female,109,64,94,1,22,Inactive,89
+38,Male,137,73,107,1,0,Very Active,216
+78,Female,124,64,112,1,0,Very Active,178
+45,Female,129,66,115,0,0,Inactive,152
+62,Female,105,66,106,0,23,Inactive,98
+70,Male,163,68,105,1,0,Inactive,91
+72,Female,132,62,99,3,0,Very Active,176
+63,Male,158,69,95,2,0,Active,127
+24,Female,120,67,107,0,0,Active,327
+30,Female,160,66,100,0,0,Inactive,179
+77,Male,154,73,103,2,0,Active,114
+21,Male,178,72,97,2,0,Active,226
+43,Female,133,72,97,0,0,Inactive,131
+42,Male,192,71,84,0,0,Active,174
+71,Male,150,73,93,0,0,Active,132
+66,Female,131,65,91,1,0,Very Active,200
+19,Male,173,73,94,0,0,Inactive,191
+46,Male,188,68,101,2,2,Inactive,106
+33,Male,150,79,103,1,0,Very Active,241
+73,Female,140,65,89,3,0,Inactive,78
+62,Male,185,74,89,1,0,Inactive,89
+67,Male,172,78,103,1,0,Inactive,99
+24,Male,156,66,107,0,0,Active,244
+24,Male,179,68,99,1,0,Active,217
+26,Female,123,67,104,2,22,Active,225
+65,Female,139,62,94,0,29,Inactive,100
+40,Female,124,64,100,0,0,Very Active,294
+29,Male,174,78,98,0,0,Inactive,204
+46,Female,113,73,98,0,0,Very Active,296
+56,Male,188,76,102,0,0,Very Active,165
+27,Female,99,60,105,1,0,Active,331
+71,Male,164,71,107,1,0,Active,123
+36,Female,123,65,108,0,0,Active,248
+22,Male,172,74,84,3,0,Inactive,160
+56,Female,116,61,96,1,33,Inactive,71
+56,Female,132,67,95,1,0,Very Active,229
+30,Female,121,69,92,0,0,Inactive,251
+22,Male,159,71,94,3,0,Inactive,142
+29,Male,199,75,104,1,0,Very Active,225
+55,Male,174,74,109,0,0,Very Active,168
+34,Female,132,73,101,0,29,Inactive,99
+64,Female,135,66,98,1,0,Very Active,205
+58,Female,108,68,101,2,0,Very Active,230
+53,Female,102,65,101,1,0,Inactive,139
+55,Female,131,61,99,0,0,Active,176
+31,Female,125,66,98,2,15,Inactive,114
+40,Male,182,72,99,0,0,Very Active,201
+25,Male,157,75,105,4,0,Inactive,165
+69,Male,199,69,110,2,39,Inactive,69
+71,Male,144,75,105,0,7,Inactive,94
+33,Female,109,67,109,0,0,Active,280
+51,Female,103,59,94,4,0,Active,175
+68,Female,137,69,101,1,0,Active,155
+21,Female,147,65,99,1,0,Inactive,253
+26,Male,165,68,86,1,0,Inactive,163
+69,Male,195,70,90,0,0,Inactive,93
+20,Female,127,69,99,3,0,Active,313
+63,Female,120,64,93,1,0,Very Active,210
+77,Female,161,65,100,0,8,Active,143
+38,Female,139,68,100,0,0,Active,271
+78,Female,102,60,107,0,32,Inactive,77
+59,Female,119,67,102,2,10,Active,153
+62,Male,152,74,102,1,10,Inactive,94
+71,Female,129,66,98,0,0,Inactive,131
+20,Female,115,63,105,2,0,Inactive,225
+32,Male,194,72,97,2,0,Very Active,196
+72,Male,170,71,103,2,32,Inactive,66
+29,Male,173,69,96,0,14,Active,160
+55,Male,180,76,103,0,0,Very Active,169
+66,Female,131,63,100,2,0,Inactive,107
+34,Male,179,69,94,2,0,Inactive,146
+72,Male,148,72,96,1,0,Active,125
+77,Female,113,67,106,2,0,Very Active,182
+30,Female,143,69,97,1,0,Active,264
+23,Male,165,76,103,1,19,Active,182
+71,Male,181,72,98,0,0,Very Active,136
+37,Male,179,74,109,1,0,Very Active,203
+50,Female,155,63,106,0,0,Active,207
+38,Male,164,73,98,0,0,Inactive,151
+59,Female,89,71,96,0,0,Active,224
+54,Male,173,68,95,1,40,Very Active,105
+72,Female,120,61,114,1,0,Inactive,83
+20,Male,155,75,102,0,12,Inactive,175
+47,Male,174,71,92,2,0,Inactive,101
+27,Female,144,66,95,3,0,Inactive,178
+80,Female,134,66,101,2,0,Inactive,95
+34,Male,186,71,112,0,8,Inactive,132
+23,Female,137,70,97,2,11,Inactive,173
+23,Female,97,64,104,0,0,Active,353
+49,Male,182,74,98,0,0,Very Active,180
+71,Female,118,64,97,3,0,Active,144
+49,Male,165,75,106,0,0,Inactive,115
+72,Female,136,67,88,0,0,Active,171
+36,Female,145,66,102,0,0,Inactive,135
+34,Male,163,71,102,1,6,Very Active,195
+54,Female,144,68,95,0,0,Inactive,158
+54,Female,132,63,97,2,37,Very Active,152
+50,Male,136,75,108,1,0,Active,169
+73,Female,126,68,102,1,0,Inactive,106
+59,Female,129,68,94,2,0,Active,194
+38,Male,143,70,110,0,22,Active,137
+37,Female,117,67,99,0,0,Active,253
+73,Male,159,78,99,3,0,Inactive,87
+28,Male,170,70,107,1,0,Active,195
+55,Female,126,70,108,2,13,Inactive,133
+23,Female,122,64,88,1,0,Inactive,261
+29,Male,165,73,113,2,0,Inactive,153
+29,Female,141,68,101,1,0,Inactive,153
+57,Female,143,71,97,2,0,Active,173
+28,Female,145,66,99,1,0,Very Active,337
+38,Male,137,66,92,0,0,Inactive,150
+20,Female,111,62,104,0,24,Inactive,156
+40,Female,107,67,91,2,0,Inactive,132
+34,Female,131,65,98,0,0,Very Active,323
+32,Female,135,65,100,0,0,Inactive,220
+32,Male,162,77,92,0,30,Active,148
+41,Male,173,71,107,1,0,Active,159
+22,Male,139,77,112,0,0,Inactive,234
+71,Male,167,70,104,0,0,Inactive,95
+48,Female,134,68,98,0,0,Inactive,117
+62,Female,140,67,96,0,0,Inactive,119
+22,Male,180,72,105,1,39,Active,134
+24,Female,132,64,96,1,0,Inactive,247
+69,Male,178,71,98,0,0,Active,128
+64,Female,112,64,103,0,0,Active,192
+48,Male,149,73,99,2,0,Very Active,172
+68,Female,113,63,86,1,0,Active,156
+71,Female,115,66,99,2,0,Inactive,128
+39,Male,174,71,101,1,0,Active,164
+25,Male,179,67,110,3,0,Very Active,200
+69,Male,193,71,92,1,0,Inactive,80
+66,Female,154,63,100,0,20,Active,124
+68,Male,158,72,100,3,14,Inactive,87
+28,Female,149,65,102,1,0,Inactive,146
+50,Female,94,67,94,1,0,Very Active,270
+48,Male,161,74,91,2,0,Inactive,104
+79,Male,158,69,107,0,0,Active,107
+78,Male,169,75,109,0,0,Active,121
+44,Female,106,70,99,0,19,Inactive,102
+25,Female,154,63,108,0,0,Inactive,230
+77,Female,146,72,96,3,0,Active,136
+23,Female,109,69,101,2,0,Very Active,418
+21,Female,110,67,102,1,0,Inactive,298
+19,Male,167,64,105,0,0,Inactive,168
+75,Female,110,69,94,0,0,Very Active,197
+24,Female,125,64,93,1,0,Inactive,169
+77,Female,127,64,101,1,0,Inactive,119
+68,Female,112,64,98,0,0,Inactive,115
+25,Female,140,66,99,1,0,Inactive,202
+24,Male,189,74,97,0,40,Active,136
+56,Female,105,62,96,0,0,Very Active,239
+46,Male,155,73,101,0,0,Active,166
+61,Female,116,62,97,1,0,Inactive,143
+66,Female,137,67,99,0,0,Active,183
+37,Female,106,65,106,0,0,Active,256
+53,Female,118,70,110,0,0,Inactive,172
+44,Female,114,67,110,1,0,Inactive,157
+30,Female,145,67,100,2,0,Active,282
+44,Male,152,70,103,0,0,Active,182
+79,Male,156,70,105,1,0,Inactive,85
+78,Male,157,72,95,0,0,Inactive,101
+68,Female,135,65,96,2,19,Inactive,88
+36,Female,132,67,108,0,0,Inactive,212
+18,Female,104,66,93,0,0,Inactive,288
+79,Female,117,69,104,0,0,Active,145
+25,Female,118,65,98,1,3,Inactive,201
+70,Female,130,72,97,1,2,Inactive,131
+42,Female,124,63,110,0,0,Inactive,156
+42,Female,138,67,100,0,0,Inactive,157
+27,Male,157,73,96,0,0,Active,231
+22,Female,123,63,99,3,0,Inactive,161
+69,Female,132,62,102,1,19,Inactive,105
+70,Male,136,70,104,0,0,Active,123
+68,Female,132,63,102,0,0,Inactive,131
+48,Male,178,69,88,1,0,Inactive,128
+45,Female,125,66,88,1,0,Inactive,119
+64,Female,126,63,100,3,0,Inactive,87
+38,Male,175,74,91,1,4,Very Active,190
+52,Female,111,67,104,0,0,Active,231
+20,Female,124,67,99,1,0,Inactive,193
+29,Female,129,64,114,2,0,Very Active,326
+71,Male,168,74,104,0,14,Active,103
+59,Female,136,63,99,0,0,Very Active,217
+46,Female,131,65,106,3,12,Inactive,93
+38,Male,174,73,111,0,0,Active,197
+28,Male,160,78,103,1,0,Active,218
+52,Male,178,70,103,0,0,Very Active,168
+69,Female,130,67,94,0,0,Inactive,112
+78,Male,185,71,99,4,3,Inactive,81
+79,Female,131,66,97,0,0,Inactive,100
+69,Male,166,73,91,1,0,Active,116
+28,Female,135,59,94,1,0,Inactive,140
+68,Female,121,62,105,0,0,Inactive,89
+76,Female,145,66,105,0,0,Inactive,80
+33,Female,140,68,109,1,0,Very Active,320
+76,Female,141,69,106,2,29,Active,123
+77,Female,125,67,95,0,0,Active,166
+42,Female,126,71,107,0,0,Inactive,168
+41,Male,187,71,106,1,0,Inactive,113
+32,Female,144,65,104,2,0,Active,267
+80,Male,162,74,96,1,0,Active,115
+62,Female,118,60,100,2,0,Inactive,90
+64,Male,176,70,107,2,0,Very Active,134
+73,Female,134,60,95,1,0,Very Active,178
+63,Female,135,70,102,1,26,Inactive,72
+74,Male,147,70,110,0,28,Very Active,106
+75,Female,119,64,105,3,0,Active,158
+52,Female,113,59,101,0,0,Inactive,160
+45,Female,136,68,94,1,5,Inactive,110
+52,Male,171,67,101,2,0,Inactive,115
+44,Female,128,66,96,1,0,Inactive,120
+64,Female,127,60,98,1,0,Active,154
+78,Female,138,62,90,0,20,Active,114
+31,Male,150,77,96,2,38,Very Active,137
+61,Male,147,68,96,0,0,Active,132
+61,Female,132,70,98,3,0,Active,163
+66,Female,144,67,110,2,3,Inactive,84
+45,Female,144,67,93,2,25,Inactive,83
+80,Male,167,71,107,1,0,Very Active,121
+70,Male,183,71,104,4,0,Inactive,72
+77,Male,163,71,100,1,0,Inactive,77
+59,Female,125,64,105,0,0,Inactive,149
+37,Female,124,60,96,0,0,Inactive,196
+61,Female,136,65,106,0,24,Inactive,93
+56,Male,176,74,101,1,0,Very Active,157
+62,Female,160,68,98,2,0,Active,155
+77,Female,148,63,105,2,0,Active,131
+54,Female,128,68,98,1,0,Inactive,106
+31,Female,157,69,100,0,0,Inactive,221
+74,Female,116,69,81,3,0,Inactive,103
+18,Female,98,68,105,3,0,Very Active,463
+67,Male,178,67,81,0,0,Inactive,95
+62,Female,140,66,93,1,0,Inactive,139
+20,Male,163,76,101,1,0,Inactive,205
+36,Male,168,67,99,1,0,Inactive,136
+79,Male,147,69,106,3,0,Very Active,115
+48,Female,104,65,97,0,0,Active,214
+68,Female,141,65,101,1,14,Inactive,112
+44,Female,118,67,94,1,18,Inactive,145
+71,Female,134,64,89,0,31,Inactive,96
+77,Male,149,71,100,1,0,Very Active,128
+47,Male,179,77,102,2,0,Very Active,171
+51,Male,162,70,93,0,0,Inactive,121
+20,Female,119,65,81,0,0,Inactive,302
+72,Female,108,65,104,0,0,Inactive,89
+67,Female,124,61,108,2,13,Active,130
+70,Male,153,72,106,0,0,Active,132
+48,Male,147,74,98,2,0,Inactive,120
+74,Female,123,67,103,2,0,Active,144
+40,Female,128,70,101,1,0,Active,232
+79,Male,168,74,102,0,0,Active,109
+72,Male,183,68,103,0,0,Inactive,80
+44,Female,120,67,93,0,0,Active,223
+45,Female,130,69,88,1,0,Active,242
+24,Male,167,72,91,0,0,Active,236
+50,Male,181,64,100,1,0,Active,129
+64,Male,157,74,112,1,29,Inactive,77
+25,Female,119,67,106,1,0,Inactive,175
+21,Female,132,67,97,2,0,Active,350
+69,Male,166,69,102,1,0,Active,113
+54,Male,166,76,94,1,0,Very Active,166
+57,Female,153,63,99,1,23,Active,147
+68,Female,111,66,97,1,0,Inactive,114
+21,Male,187,75,104,1,0,Inactive,186
+55,Female,132,66,112,0,0,Very Active,236
+72,Female,131,65,96,0,0,Active,149
+23,Female,122,68,103,0,22,Very Active,283
+51,Female,118,63,108,1,0,Active,189
+41,Female,100,72,104,1,0,Active,248
+18,Male,178,67,103,0,0,Inactive,174
+71,Male,172,66,110,4,0,Very Active,113
+56,Female,117,69,98,2,0,Inactive,155
+37,Female,107,70,110,1,0,Active,294
+29,Female,130,68,91,1,0,Inactive,236
+71,Female,115,68,103,0,0,Very Active,203
+65,Female,117,64,97,1,20,Inactive,93
+72,Male,171,72,109,0,0,Active,116
+65,Male,170,73,102,1,20,Very Active,117
+74,Female,98,66,113,0,0,Inactive,134
+77,Female,100,68,104,0,24,Active,138
+47,Female,141,67,105,0,0,Active,232
+35,Female,143,69,89,2,0,Active,233
+30,Female,129,60,98,0,0,Active,290
+21,Male,161,70,115,0,34,Active,154
+56,Female,123,69,102,1,0,Inactive,105
+51,Male,172,73,111,1,0,Active,142
+51,Female,121,62,103,3,0,Inactive,152
+34,Male,150,71,104,0,0,Inactive,146
+69,Male,193,69,100,1,0,Active,108
+55,Male,167,72,107,1,0,Inactive,110
+18,Male,154,74,94,0,0,Very Active,344
+35,Female,118,63,91,1,0,Active,276
+79,Male,155,67,99,0,0,Inactive,77
+30,Male,197,70,101,2,0,Active,181
+72,Male,163,71,98,1,0,Very Active,132
+52,Male,192,68,105,0,0,Active,148
+70,Female,137,67,105,1,40,Inactive,60
+43,Female,119,62,98,0,0,Inactive,124
+22,Female,114,67,83,1,0,Inactive,287
+50,Male,158,70,100,0,21,Active,117
+46,Female,126,67,96,4,0,Inactive,136
+75,Male,201,72,99,0,8,Inactive,91
+76,Female,127,68,106,2,24,Inactive,65
+24,Female,118,67,92,1,0,Active,315
+44,Female,134,63,98,0,0,Very Active,266
+79,Female,133,63,104,1,0,Active,153
+67,Male,196,72,95,0,0,Very Active,139
+34,Female,123,69,106,0,0,Active,268
+69,Male,168,76,105,1,32,Inactive,80
+35,Female,118,68,104,2,0,Very Active,316
+30,Male,175,70,103,0,0,Inactive,181
+30,Female,123,58,105,2,0,Inactive,201
+73,Female,103,63,99,3,0,Very Active,185
+49,Female,139,63,97,0,0,Inactive,109
+49,Male,174,71,96,0,0,Very Active,177
+41,Female,117,66,93,3,0,Active,243
+38,Female,138,63,92,1,0,Inactive,186
+51,Male,161,74,111,1,0,Very Active,172
+65,Female,141,73,95,2,0,Active,183
+58,Male,158,72,110,0,0,Active,151
+31,Female,151,60,98,3,0,Very Active,271
+29,Female,114,63,95,0,4,Active,263
+66,Male,161,74,99,2,0,Inactive,106
+48,Female,124,69,104,0,0,Very Active,271
+54,Female,119,65,103,0,0,Very Active,244
+23,Male,198,72,111,2,0,Active,207
+61,Male,168,73,100,0,0,Active,144
+26,Female,135,61,99,2,0,Active,288
+47,Male,170,75,97,0,0,Inactive,132
+51,Female,137,68,98,2,0,Very Active,237
+68,Male,172,68,90,2,0,Inactive,88
+32,Female,132,61,104,1,0,Active,238
+24,Female,134,65,97,1,0,Active,331
+23,Female,118,62,102,2,0,Inactive,247
+74,Male,163,73,102,2,0,Active,116
+74,Female,152,64,102,4,0,Very Active,167
+62,Female,123,67,97,1,0,Active,168
+62,Male,172,68,97,1,32,Very Active,105
+47,Male,166,72,103,2,0,Active,155
+80,Female,101,63,103,0,0,Active,143
+70,Female,119,60,101,1,0,Very Active,189
+35,Female,128,65,114,0,0,Active,284
+21,Female,128,66,102,2,0,Inactive,219
+56,Female,130,68,104,0,0,Active,211
+58,Male,174,74,102,2,0,Active,136
+20,Female,97,68,96,1,27,Inactive,188
+28,Female,112,67,91,0,20,Inactive,153
+51,Male,174,69,96,1,0,Inactive,124
+55,Female,133,68,90,2,0,Inactive,126
+33,Female,111,64,101,0,0,Active,307
+58,Female,127,63,98,1,25,Active,149
+60,Male,161,73,110,1,0,Inactive,106
+33,Female,136,67,98,0,0,Very Active,331
+70,Male,164,73,105,0,0,Inactive,98
+24,Female,117,64,106,3,0,Inactive,160
+72,Female,132,67,106,0,0,Inactive,108
+47,Female,127,69,114,1,0,Inactive,177
+69,Male,177,73,97,0,0,Very Active,141
+29,Female,108,70,101,0,0,Very Active,405
+26,Female,97,68,103,2,0,Active,313
+74,Female,105,67,101,0,20,Inactive,72
+73,Female,125,65,96,0,0,Inactive,85
+39,Male,155,71,103,0,0,Inactive,148
+77,Female,122,68,101,1,18,Active,121
+59,Male,188,72,101,0,0,Active,130
+77,Female,104,64,108,0,3,Inactive,82
+25,Female,143,73,98,0,21,Inactive,185
+33,Female,132,63,108,1,0,Active,274
+20,Female,122,67,97,2,29,Active,194
+62,Male,166,71,111,0,11,Inactive,83
+40,Male,190,72,102,0,0,Inactive,152
+70,Male,175,69,103,0,0,Active,125
+30,Female,90,65,105,2,0,Inactive,245
+29,Male,175,72,105,1,0,Active,194
+22,Female,112,66,96,1,0,Active,380
+73,Female,150,72,108,2,0,Very Active,185
+39,Female,143,63,103,0,0,Inactive,187
+33,Male,164,74,99,1,0,Active,207
+56,Female,140,70,104,1,0,Inactive,154
+48,Male,169,78,98,0,0,Inactive,148
+18,Female,133,69,98,1,6,Active,351
+38,Female,102,69,97,0,0,Very Active,339
+36,Female,138,68,104,1,0,Active,271
+58,Female,137,61,101,1,21,Inactive,75
+20,Female,143,61,104,0,0,Inactive,213
+48,Female,118,67,91,0,12,Inactive,127
+65,Male,159,74,99,3,0,Inactive,103
+79,Male,182,72,104,0,0,Inactive,77
+55,Male,145,73,95,1,0,Inactive,115
+35,Male,169,78,90,1,0,Inactive,137
+19,Male,174,74,102,0,0,Very Active,314
+59,Female,103,68,98,0,0,Inactive,161
+73,Female,135,64,104,3,0,Active,157
+23,Male,138,65,106,2,0,Very Active,241
+61,Male,169,76,100,0,0,Very Active,159
+74,Male,147,75,98,1,40,Inactive,73
+32,Male,169,75,110,0,0,Inactive,169
+60,Female,113,67,89,2,0,Very Active,220
+63,Male,179,75,105,1,0,Active,123
+49,Male,183,70,106,0,0,Inactive,106
+62,Female,145,69,101,1,32,Very Active,153
+75,Female,134,66,100,2,0,Active,159
+46,Male,171,69,111,2,0,Inactive,101
+38,Female,107,65,100,0,0,Inactive,143
+74,Female,99,69,96,0,20,Active,147
+63,Female,126,68,107,0,0,Active,195
+63,Male,171,69,106,1,0,Inactive,108
+58,Male,176,74,102,1,0,Very Active,154
+68,Female,135,68,98,0,0,Very Active,203
+42,Male,180,72,95,1,8,Inactive,115
+37,Male,189,74,96,0,12,Very Active,177
+31,Female,111,69,96,1,0,Inactive,162
+51,Male,180,73,100,2,21,Inactive,77
+75,Female,88,64,106,2,0,Inactive,128
+65,Female,108,67,99,1,36,Inactive,67
+80,Female,107,66,109,1,0,Active,161
+42,Male,160,73,97,0,0,Inactive,127
+40,Female,128,69,101,2,0,Active,223
+42,Male,166,71,101,1,16,Inactive,94
+53,Male,163,74,106,0,0,Very Active,176
+36,Male,152,72,109,0,0,Active,212
+65,Female,126,65,106,1,0,Active,159
+24,Female,128,62,105,0,0,Inactive,169
+60,Female,131,66,92,1,0,Inactive,120
+38,Female,129,71,102,1,17,Very Active,240
+23,Female,129,65,106,1,0,Active,344
+42,Female,128,66,100,0,0,Inactive,160
+75,Male,131,71,91,0,0,Inactive,96
+53,Female,126,68,93,1,0,Inactive,135
+63,Male,165,67,92,1,0,Active,129
+27,Male,175,69,104,3,0,Very Active,200
+18,Female,106,69,96,1,0,Inactive,224
+59,Male,177,72,100,1,0,Inactive,103
+59,Female,134,67,103,1,17,Inactive,121
+46,Female,99,65,99,2,0,Very Active,271
+42,Male,159,74,96,1,0,Active,166
+23,Male,172,68,102,1,0,Very Active,245
+71,Male,165,70,105,1,0,Very Active,132
+26,Female,114,65,97,2,0,Very Active,368
+53,Male,198,72,95,0,0,Active,150
+70,Male,191,73,92,1,0,Inactive,91
+21,Male,174,72,109,1,0,Inactive,165
+54,Male,191,77,102,0,25,Inactive,79
+79,Female,114,63,103,0,0,Very Active,181
+70,Male,167,71,101,3,0,Inactive,76
+44,Female,124,62,101,0,29,Very Active,188
+52,Female,126,64,109,0,0,Active,190
+25,Female,122,71,97,2,39,Very Active,212
+29,Female,128,64,94,1,0,Active,302
+39,Female,125,69,92,1,9,Active,234
+41,Female,130,71,103,1,0,Very Active,294
+43,Female,141,65,97,2,0,Inactive,170
+20,Female,114,67,101,1,0,Inactive,201
+77,Male,156,72,98,0,12,Very Active,118
+61,Female,131,65,98,2,0,Inactive,92
+77,Female,112,68,96,0,0,Inactive,85
+74,Female,135,68,98,1,0,Very Active,186
+43,Male,190,70,96,1,28,Inactive,88
+75,Female,136,66,98,1,0,Very Active,182
+55,Male,189,68,102,1,40,Inactive,63
+66,Female,152,60,102,0,6,Inactive,79
+52,Female,123,66,100,0,0,Very Active,251
+34,Male,151,75,105,1,0,Inactive,141
+42,Male,165,74,99,1,11,Active,141
+23,Female,121,62,103,2,0,Very Active,366
+80,Male,166,72,97,2,0,Active,100
+79,Female,135,64,93,0,36,Inactive,87
+50,Female,133,66,95,1,25,Active,163
+45,Female,145,67,107,0,0,Active,236
+46,Female,147,59,91,1,0,Inactive,129
+75,Female,138,65,98,0,16,Inactive,105
+40,Female,121,64,102,0,0,Active,263
+41,Female,143,69,109,0,0,Inactive,193
+66,Male,170,74,107,1,8,Inactive,90
+35,Male,189,74,106,0,0,Inactive,135
+71,Male,172,69,94,2,0,Inactive,77
+39,Male,163,75,102,1,0,Inactive,158
+25,Male,145,75,93,0,0,Very Active,301
+53,Female,106,66,106,2,39,Very Active,159
+45,Female,139,64,95,1,33,Inactive,116
+39,Female,133,63,106,0,0,Active,256
+48,Female,122,64,110,3,0,Inactive,160
+69,Female,128,64,99,1,0,Inactive,108
+64,Male,199,73,104,0,0,Inactive,89
+47,Male,153,74,100,1,24,Very Active,137
+31,Female,143,65,93,2,0,Inactive,136
+63,Female,120,66,99,0,24,Active,150
+18,Male,177,67,102,1,0,Active,221
+65,Male,178,70,100,2,0,Very Active,132
+59,Male,170,71,92,0,0,Active,145
+69,Female,127,70,96,0,0,Active,183
+30,Female,125,72,102,1,0,Very Active,368
+30,Female,145,68,98,3,0,Inactive,138
+35,Female,138,62,100,2,31,Active,147
+46,Female,118,64,110,2,0,Very Active,256
+71,Male,150,72,112,1,0,Inactive,105
+32,Female,108,68,100,1,0,Inactive,198
+72,Female,121,68,109,1,0,Inactive,130
+53,Male,159,72,89,2,0,Inactive,109
+60,Female,116,70,100,3,0,Inactive,121
+34,Male,178,70,96,3,0,Active,168
+28,Female,163,60,93,2,0,Very Active,282
+55,Female,131,66,102,1,0,Inactive,102
+79,Female,113,69,108,2,0,Active,160
+47,Female,114,65,110,1,0,Inactive,147
+42,Female,120,65,92,1,0,Very Active,281
+38,Female,126,64,105,2,0,Inactive,126
+42,Female,131,65,93,1,11,Very Active,234
+38,Female,148,66,92,1,0,Active,250
+34,Female,163,68,113,1,0,Active,263
+46,Female,135,63,106,2,3,Active,208
+59,Female,147,66,107,0,0,Inactive,97
+28,Female,136,67,102,0,0,Inactive,203
+56,Female,153,62,100,2,0,Inactive,91
+34,Female,150,66,101,1,0,Very Active,299
+45,Female,114,59,106,0,0,Inactive,118
+26,Female,156,64,94,1,31,Inactive,117
+48,Female,131,64,98,2,0,Active,188
+27,Female,114,64,112,3,4,Inactive,177
+30,Male,160,73,94,3,0,Active,174
+43,Female,129,64,102,0,0,Inactive,123
+49,Male,199,73,107,0,0,Active,146
+66,Male,177,67,99,1,0,Active,123
+39,Female,140,66,99,1,0,Inactive,157
+20,Female,125,69,98,2,0,Inactive,188
+29,Female,141,63,93,1,0,Inactive,143
+33,Female,132,66,93,0,9,Very Active,284
+53,Female,119,64,94,0,0,Very Active,245
+76,Female,114,64,103,0,0,Active,167
+56,Female,132,66,107,1,0,Inactive,151
+66,Female,141,68,102,0,0,Inactive,137
+58,Male,169,73,95,1,0,Active,131
+27,Female,98,64,114,1,30,Very Active,237
+37,Male,164,73,109,0,18,Very Active,170
+33,Female,149,64,98,1,0,Inactive,198
+79,Male,158,74,98,0,0,Inactive,101
+28,Male,163,74,100,1,0,Inactive,170
+29,Female,120,66,106,0,40,Inactive,91
+23,Male,215,69,99,1,0,Inactive,136
+37,Female,101,62,104,0,0,Inactive,144
+22,Female,118,67,105,2,0,Active,360
+45,Male,134,71,99,2,0,Active,167
+50,Male,176,73,99,0,28,Active,109
+39,Female,129,65,100,0,0,Inactive,132
+29,Male,173,70,94,0,0,Active,223
+19,Female,152,69,100,1,0,Inactive,184
+41,Male,161,74,104,1,0,Inactive,122
+79,Female,113,63,100,1,0,Inactive,119
+62,Male,157,69,103,1,0,Very Active,146
+39,Female,100,65,102,0,0,Active,288
+47,Female,100,66,94,1,0,Inactive,154
+37,Female,138,69,99,1,0,Active,236
+73,Female,127,66,109,1,15,Active,127
+50,Female,132,63,90,1,0,Active,212
+29,Male,180,72,101,1,24,Active,147
+59,Male,172,69,105,1,0,Active,136
+33,Female,129,68,95,1,0,Inactive,220
+69,Female,124,65,109,3,0,Active,167
+70,Female,146,74,105,2,0,Inactive,129
+55,Female,121,68,106,0,0,Active,191
+25,Male,173,67,100,0,0,Inactive,173
+67,Male,148,71,98,0,0,Inactive,114
+40,Male,176,72,99,0,4,Active,162
+24,Female,157,65,94,1,0,Active,269
+55,Female,131,71,109,1,0,Active,213
+18,Female,135,65,102,2,11,Active,252
+21,Female,117,65,96,0,0,Inactive,247
+43,Female,120,72,102,1,0,Active,261
+57,Male,192,75,86,1,24,Very Active,119
+41,Female,117,64,95,0,0,Active,262
+73,Female,86,66,112,0,0,Active,184
+44,Female,111,69,96,1,39,Very Active,178
+69,Female,109,66,101,3,0,Active,151
+76,Female,107,68,97,1,0,Active,149
+36,Male,175,72,101,1,0,Very Active,204
+70,Female,120,62,108,0,0,Inactive,87
+47,Female,136,69,95,0,24,Active,154
+71,Female,110,63,115,1,0,Inactive,130
+35,Male,157,76,95,1,0,Inactive,138
+21,Male,178,75,110,2,0,Active,215
+37,Male,181,70,96,2,0,Inactive,113
+45,Male,154,68,93,2,0,Active,144
+54,Male,177,67,106,2,0,Inactive,89
+63,Female,105,67,92,0,0,Inactive,101
+60,Female,119,63,107,2,0,Inactive,141
+70,Female,102,70,96,0,0,Active,165
+46,Female,114,67,87,1,0,Active,213
+64,Female,137,64,94,0,0,Active,160
+43,Male,176,76,103,1,0,Inactive,117
+32,Female,104,63,102,0,0,Active,278
+30,Male,165,74,107,3,0,Inactive,127
+48,Female,128,65,112,0,0,Active,231
+37,Female,117,65,98,0,25,Active,172
+63,Female,139,63,97,1,3,Active,173
+35,Female,114,65,101,0,0,Inactive,148
+36,Female,103,66,105,0,0,Inactive,190
+79,Female,134,64,99,1,0,Inactive,96
+52,Male,176,73,115,0,0,Inactive,133
+69,Female,127,67,97,3,0,Inactive,84
+43,Female,97,67,110,1,0,Active,233
+79,Male,167,71,104,2,0,Inactive,73
+31,Male,142,75,95,1,0,Inactive,171
+40,Female,138,66,103,0,0,Inactive,161
+57,Female,108,68,100,3,0,Inactive,151
+77,Female,131,63,96,1,0,Inactive,78
+24,Female,133,63,102,0,0,Inactive,168
+23,Female,120,70,105,1,0,Inactive,284
+32,Male,167,76,100,1,0,Inactive,160
+66,Female,114,68,112,0,0,Inactive,144
+69,Female,150,67,100,0,0,Inactive,108
+59,Female,148,67,103,0,0,Inactive,146
+61,Female,118,66,102,0,0,Inactive,150
+42,Female,127,69,94,0,33,Very Active,192
+30,Male,191,69,100,1,0,Inactive,129
+72,Female,139,63,94,0,0,Active,166
+79,Female,127,68,101,2,38,Inactive,86
+63,Male,163,73,110,2,0,Inactive,97
+37,Female,128,70,102,1,0,Very Active,314
+35,Female,133,63,91,1,0,Inactive,132
+75,Male,178,69,96,2,0,Inactive,82
+38,Female,116,65,95,0,27,Inactive,119
+23,Female,118,66,92,2,0,Active,348
+52,Female,137,67,97,1,0,Very Active,239
+77,Male,178,72,97,0,0,Inactive,89
+59,Female,140,68,92,0,0,Inactive,125
+72,Male,148,72,110,1,0,Inactive,94
+70,Male,172,69,87,1,0,Active,111
+60,Female,120,62,92,0,0,Inactive,98
+38,Male,159,73,99,1,0,Active,191
+29,Female,150,66,92,1,0,Active,254
+50,Male,170,74,100,2,13,Inactive,97
+59,Female,147,63,94,0,0,Active,188
+31,Female,124,61,96,1,30,Inactive,139
+45,Male,173,71,109,2,0,Inactive,117
+48,Female,120,68,102,1,0,Inactive,147
+34,Female,140,65,95,0,0,Active,279
+40,Female,113,66,101,1,10,Active,199
+56,Female,129,61,97,0,3,Inactive,96
+48,Female,137,65,105,1,0,Active,192
+76,Female,128,65,98,2,26,Active,110
+42,Female,142,63,104,1,23,Inactive,109
+36,Female,120,63,103,1,0,Active,236
+56,Male,188,69,102,1,0,Very Active,148
+55,Male,201,80,109,1,26,Active,112
+77,Female,146,66,101,0,0,Active,139
+43,Male,168,77,107,0,0,Very Active,207
+71,Male,176,71,100,2,0,Inactive,77
+24,Female,116,67,105,1,0,Very Active,408
+46,Female,122,66,113,0,13,Inactive,102
+41,Female,135,66,98,2,0,Inactive,120
+34,Female,148,64,105,1,16,Active,181
+28,Male,159,72,106,2,0,Inactive,174
+31,Female,143,72,97,2,0,Active,294
+72,Male,172,65,98,0,0,Inactive,80
+30,Female,134,61,98,2,0,Inactive,169
+60,Female,133,62,109,0,0,Inactive,95
+68,Male,168,70,106,2,0,Inactive,90
+53,Female,149,64,94,2,0,Inactive,97
+49,Male,188,76,95,3,0,Active,143
+23,Male,204,69,104,1,0,Very Active,228
+53,Female,124,69,96,1,0,Inactive,136
+73,Male,175,74,110,0,0,Inactive,84
+22,Male,166,76,100,1,0,Inactive,195
+42,Female,153,66,99,3,0,Active,193
+60,Male,174,70,99,3,0,Active,124
+59,Male,188,70,109,0,0,Inactive,105
+47,Male,158,75,104,1,0,Active,155
+45,Male,180,71,101,0,0,Inactive,143
+52,Female,138,62,94,0,0,Very Active,233
+75,Female,130,63,105,0,0,Active,143
+80,Female,126,61,97,0,0,Active,135
+21,Male,143,71,106,0,0,Inactive,195
+52,Male,187,77,106,0,0,Inactive,108
+64,Male,155,76,97,1,0,Inactive,92
+23,Male,194,69,103,1,29,Inactive,106
+27,Male,171,71,101,1,30,Very Active,153
+58,Female,118,67,98,2,21,Inactive,79
+63,Female,99,65,98,0,7,Inactive,139
+59,Female,122,66,91,0,0,Inactive,127
+19,Male,168,72,98,1,26,Inactive,125
+61,Female,124,62,102,1,0,Active,163
+52,Male,167,72,93,1,0,Very Active,165
+39,Female,107,64,106,1,0,Very Active,303
+67,Female,136,66,110,1,0,Inactive,88
+41,Female,118,62,98,1,0,Inactive,186
+71,Female,131,63,95,0,0,Inactive,85
+54,Female,97,70,100,1,4,Inactive,162
+51,Female,114,67,95,1,0,Inactive,169
+69,Female,123,65,99,2,0,Inactive,107
+67,Female,125,60,94,0,0,Inactive,131
+37,Female,117,64,99,1,0,Very Active,305
+27,Male,174,65,104,1,0,Inactive,150
+54,Female,109,64,105,0,22,Inactive,106
+34,Male,169,76,103,2,0,Active,192
+45,Female,146,66,98,0,0,Active,233
+20,Male,208,75,92,0,0,Active,239
+65,Female,145,66,101,1,0,Inactive,111
+52,Male,181,74,103,4,27,Inactive,76
+34,Male,147,74,101,1,27,Inactive,119
+60,Female,126,70,97,0,18,Active,146
+27,Female,107,68,109,0,0,Active,324
+60,Female,129,67,90,0,0,Very Active,224
+52,Male,168,71,109,2,0,Active,144
+62,Female,140,66,103,0,0,Inactive,118
+31,Female,109,65,95,0,0,Inactive,244
+73,Male,155,77,104,1,0,Inactive,84
+57,Female,129,63,99,0,0,Inactive,150
+22,Male,165,73,95,1,0,Inactive,188
+63,Male,170,69,88,1,38,Inactive,69
+54,Male,161,72,100,1,0,Inactive,125
+31,Male,155,77,101,0,0,Active,223
+73,Male,167,72,97,2,0,Active,106
+43,Male,149,72,99,1,0,Active,179
+56,Female,104,68,109,0,0,Inactive,167
+56,Male,158,75,88,1,0,Inactive,113
+59,Male,175,72,112,0,0,Inactive,109
+65,Female,101,64,101,0,0,Active,194
+68,Male,179,72,99,1,19,Very Active,113
+24,Male,154,73,98,0,0,Very Active,293
+55,Female,123,62,98,2,37,Inactive,84
+31,Female,112,66,97,0,0,Active,326
+52,Female,125,74,98,0,0,Inactive,118
+40,Female,120,70,93,1,0,Active,236
+23,Male,156,75,100,0,0,Inactive,212
+40,Female,114,69,100,1,9,Active,236
+30,Female,125,64,96,0,0,Inactive,233
+60,Female,126,69,103,1,0,Very Active,223
+38,Female,105,70,104,1,14,Very Active,261
+37,Female,125,67,90,2,11,Active,196
+37,Female,132,67,107,0,0,Active,277
+64,Male,146,76,96,0,0,Active,135
+26,Male,156,74,99,3,7,Inactive,154
+76,Male,175,72,102,2,36,Inactive,63
+47,Male,154,73,91,1,0,Active,154
+61,Female,166,59,103,1,0,Very Active,186
+27,Male,156,72,108,0,0,Active,228
+22,Female,153,63,99,1,0,Inactive,235
+29,Female,130,69,109,0,0,Inactive,166
+48,Female,132,64,100,4,0,Inactive,102
+52,Female,129,66,99,2,0,Active,208
+77,Female,141,62,94,0,0,Inactive,117
+40,Male,149,73,99,1,8,Inactive,112
+34,Female,117,62,97,0,0,Inactive,181
+54,Female,122,65,99,1,25,Active,138
+40,Female,133,69,90,0,0,Active,235
+41,Female,128,64,106,1,0,Inactive,185
+57,Male,163,64,90,1,0,Inactive,101
+80,Female,110,65,96,0,0,Active,142
+79,Female,139,66,98,2,0,Inactive,95
+79,Female,98,65,86,0,0,Active,168
+18,Female,124,64,93,1,0,Active,339
+61,Male,151,69,112,2,0,Active,120
+53,Male,145,73,96,1,27,Very Active,126
+30,Male,174,76,100,0,40,Active,121
+67,Female,133,68,112,1,0,Inactive,90
+68,Female,118,69,111,1,38,Active,128
+47,Female,129,68,98,1,0,Very Active,262
+80,Female,121,65,99,0,34,Active,119
+72,Female,118,65,102,3,0,Inactive,82
+64,Male,192,70,105,2,0,Active,121
+31,Male,180,77,103,2,0,Very Active,215
+23,Male,160,70,101,0,0,Inactive,218
+78,Female,126,64,94,2,0,Inactive,77
+80,Male,159,72,107,0,0,Inactive,89
+57,Female,125,68,95,1,0,Very Active,231
+24,Female,126,64,92,0,0,Inactive,175
+75,Female,113,61,112,1,16,Inactive,87
+75,Male,149,74,90,5,0,Inactive,79
+45,Male,186,80,96,1,0,Inactive,115
+23,Male,184,70,111,1,0,Inactive,187
+65,Female,105,67,103,0,0,Active,196
+26,Female,116,64,95,1,0,Inactive,209
+69,Male,165,73,101,1,0,Inactive,84
+23,Female,115,66,97,1,0,Active,367
+80,Female,154,66,99,2,0,Very Active,165
+39,Female,119,68,95,1,0,Active,237
+59,Female,132,65,101,0,0,Active,198
+27,Male,170,75,99,2,0,Active,213
+21,Female,125,59,103,1,0,Active,290
+58,Male,164,72,106,0,0,Active,150
+36,Female,118,69,101,0,38,Active,153
+27,Male,142,73,105,1,0,Inactive,161
+63,Female,125,63,110,0,0,Inactive,94
+65,Female,94,66,99,1,0,Very Active,219
+64,Male,190,72,94,0,0,Inactive,89
+33,Female,134,70,95,0,0,Inactive,153
+23,Female,113,67,104,0,0,Very Active,442
+40,Female,132,60,96,2,0,Active,201
+75,Male,191,72,91,0,0,Active,109
+40,Female,130,65,110,3,0,Inactive,118
+55,Male,181,69,89,2,0,Active,123
+63,Male,171,73,89,3,0,Inactive,92
+41,Male,184,68,95,2,0,Inactive,117
+49,Female,133,73,92,0,0,Very Active,270
+34,Female,121,63,96,2,0,Very Active,303
+52,Female,116,62,103,1,0,Inactive,160
+52,Female,137,70,111,1,0,Very Active,244
+66,Male,180,74,97,0,0,Inactive,90
+37,Female,128,70,90,0,0,Inactive,145
+20,Female,113,65,102,3,0,Inactive,179
+23,Female,140,63,101,1,21,Inactive,169
+64,Female,141,67,98,0,0,Inactive,93
+58,Female,116,73,91,0,0,Inactive,164
+23,Female,105,58,95,2,0,Very Active,368
+31,Female,126,64,104,2,39,Inactive,84
+58,Female,127,64,109,1,0,Very Active,220
+24,Female,119,64,98,0,0,Inactive,225
+65,Female,124,67,111,0,0,Inactive,142
+79,Female,122,62,97,2,0,Inactive,95
+27,Female,131,62,103,1,0,Inactive,227
+75,Female,134,70,106,0,0,Inactive,106
+54,Male,160,72,106,2,0,Active,131
+48,Female,113,74,104,1,0,Active,217
+41,Female,133,70,110,0,29,Inactive,135
+21,Female,126,65,95,1,0,Inactive,182
+74,Male,160,67,101,1,38,Inactive,64
+36,Male,183,67,104,2,15,Inactive,114
+29,Male,161,73,106,0,29,Active,151
+72,Male,156,68,97,3,0,Inactive,84
+76,Male,174,76,95,1,15,Inactive,86
+23,Male,179,70,102,0,0,Inactive,164
+54,Female,145,64,99,2,0,Inactive,145
+38,Female,118,65,96,0,0,Inactive,139
+23,Female,131,67,99,1,0,Inactive,220
+42,Male,158,75,104,2,0,Inactive,143
+41,Female,114,64,102,0,0,Active,264
+42,Male,193,70,97,0,0,Active,172
+63,Female,91,71,101,0,0,Active,185
+55,Female,101,68,100,0,0,Active,227
+41,Male,193,72,88,0,40,Active,103
+62,Male,184,81,115,0,0,Very Active,159
+50,Female,144,62,101,1,0,Inactive,102
+32,Male,177,74,92,2,0,Very Active,207
+35,Male,154,74,98,2,0,Inactive,159
+52,Male,178,66,94,1,0,Active,142
+20,Female,122,67,91,1,0,Active,341
+33,Male,174,66,100,0,0,Inactive,131
+27,Female,133,67,103,1,0,Active,321
+39,Female,169,69,96,1,0,Active,212
+67,Female,124,66,104,0,0,Very Active,207
+67,Female,122,67,96,1,0,Inactive,113
+63,Female,132,68,103,1,0,Active,165
+79,Male,168,70,96,1,0,Inactive,84
+75,Male,167,75,106,1,0,Active,120
+69,Female,121,62,99,0,4,Inactive,126
+64,Female,126,69,86,2,10,Inactive,104
+57,Female,144,71,103,0,0,Active,182
+71,Female,130,61,105,1,0,Inactive,103
+78,Female,127,61,97,1,0,Active,135
+64,Male,169,73,90,1,0,Inactive,89
+48,Female,127,69,100,1,0,Active,233
+44,Female,135,62,93,1,0,Active,226
+30,Male,166,74,98,2,0,Very Active,219
+64,Female,128,65,96,0,0,Inactive,94
+67,Female,123,67,102,1,0,Inactive,113
+65,Male,162,77,95,0,0,Inactive,95
+49,Male,163,73,105,1,0,Active,161
+37,Female,119,69,94,0,0,Inactive,220
+77,Female,120,66,95,0,0,Inactive,83
+42,Female,135,68,89,1,0,Inactive,155
+78,Male,153,76,108,0,0,Active,124
+64,Male,161,65,105,2,0,Active,121
+40,Female,115,68,97,0,0,Very Active,313
+73,Female,129,70,97,1,0,Active,150
+19,Male,164,75,94,1,0,Active,276
+48,Male,149,79,104,0,0,Active,185
+51,Male,168,74,109,2,0,Inactive,99
+68,Female,104,61,103,1,0,Inactive,112
+59,Male,140,71,111,2,0,Inactive,104
+76,Female,129,68,90,1,26,Inactive,97
+65,Male,146,70,101,1,0,Active,133
+36,Male,173,69,103,0,0,Active,179
+28,Female,135,68,103,2,0,Inactive,152
+65,Female,111,66,108,2,0,Inactive,92
+54,Female,141,66,81,1,5,Inactive,143
+60,Male,182,73,98,1,0,Inactive,114
+58,Male,166,72,100,0,0,Inactive,99
+56,Male,155,74,102,0,6,Inactive,122
+20,Female,96,64,105,2,10,Inactive,158
+80,Female,117,73,98,0,0,Active,168
+56,Male,152,75,101,0,0,Inactive,133
+32,Female,159,66,97,1,0,Inactive,201
+48,Female,101,68,106,0,0,Very Active,284
+35,Male,181,66,96,2,0,Active,166
+45,Male,165,67,111,0,0,Inactive,113
+79,Male,179,71,106,2,0,Active,107
+58,Female,119,68,112,0,0,Active,184
+54,Female,137,73,84,2,16,Active,152
+20,Female,126,65,97,2,0,Inactive,222
+23,Female,111,67,107,1,16,Inactive,137
+77,Female,156,65,102,1,0,Inactive,114
+80,Female,121,65,110,0,13,Active,141
+49,Female,119,71,96,2,0,Active,230
+32,Female,133,69,90,1,0,Inactive,149
+43,Male,170,70,95,1,0,Very Active,182
+34,Female,111,71,91,0,0,Very Active,364
+59,Female,143,63,95,2,0,Inactive,113
+30,Male,174,72,101,0,0,Inactive,187
+34,Female,128,62,96,0,0,Inactive,174
+47,Male,207,68,102,0,0,Active,153
+64,Female,128,64,99,0,0,Inactive,93
+62,Female,149,63,97,2,0,Inactive,108
+72,Female,125,72,103,0,36,Inactive,64
+26,Female,135,62,97,1,0,Active,266
+65,Female,113,66,106,1,0,Active,188
+56,Female,126,67,97,0,30,Active,132
+76,Male,186,70,109,0,5,Inactive,74
+40,Female,145,64,103,0,0,Inactive,185
+21,Female,131,65,99,2,0,Inactive,171
+75,Male,181,72,107,1,0,Active,106
+59,Female,133,67,97,0,0,Inactive,150
+28,Male,176,78,109,0,0,Inactive,165
+58,Female,146,65,91,1,0,Very Active,214
+34,Male,163,68,101,2,0,Inactive,150
+76,Male,183,73,99,1,0,Active,106
+46,Female,140,72,108,1,0,Active,239
+77,Female,125,63,103,0,0,Inactive,101
+69,Female,117,67,99,0,28,Inactive,69
+37,Male,158,70,94,1,0,Inactive,126
+27,Female,126,66,106,0,37,Active,190
+71,Male,159,74,87,1,0,Inactive,94
+70,Female,135,67,115,0,0,Active,176
+46,Female,146,64,101,1,0,Active,219
+65,Male,183,74,92,2,0,Active,114
+53,Female,136,68,108,3,0,Inactive,100
+24,Female,87,68,92,1,5,Very Active,407
+67,Male,170,72,92,2,19,Active,94
+65,Male,172,66,101,0,0,Inactive,97
+64,Female,148,67,103,0,0,Inactive,138
+19,Male,180,67,96,2,0,Inactive,145
+30,Female,113,62,94,1,0,Inactive,152
+69,Female,94,70,95,2,0,Inactive,116
+31,Male,179,73,103,1,35,Inactive,107
+37,Male,166,75,96,1,0,Inactive,162
+21,Male,173,69,97,2,0,Inactive,165
+60,Male,190,64,98,1,0,Active,124
+80,Female,122,64,91,1,0,Inactive,78
+52,Male,179,75,112,1,6,Inactive,119
+26,Male,161,68,94,1,32,Active,139
+33,Female,145,68,96,3,0,Very Active,295
+46,Female,123,68,95,1,0,Inactive,120
+80,Female,114,57,98,2,0,Active,129
+55,Female,131,69,101,1,0,Inactive,105
+47,Female,112,64,98,1,0,Inactive,147
+51,Female,165,67,97,0,0,Active,182
+21,Male,180,74,95,0,0,Active,272
+76,Female,93,68,108,0,0,Active,178
+40,Male,160,68,100,0,0,Very Active,202
+66,Female,129,71,112,1,0,Inactive,93
+79,Female,127,67,93,0,0,Active,142
+66,Male,164,73,93,1,0,Inactive,109
+47,Female,120,75,92,2,0,Active,242
+28,Female,114,69,106,3,0,Very Active,354
+43,Female,132,61,87,0,0,Inactive,118
+57,Female,132,70,107,0,0,Active,184
+51,Female,129,72,98,1,0,Active,227
+47,Female,154,68,100,2,0,Active,188
+55,Male,163,68,93,1,0,Active,131
+60,Male,182,70,101,1,0,Active,122
+61,Female,120,63,101,1,33,Active,119
+30,Female,126,67,95,0,0,Active,282
+29,Male,157,70,110,0,0,Active,214
+35,Female,102,65,100,2,0,Inactive,143
+80,Female,144,72,105,1,27,Inactive,78
+36,Female,113,69,109,0,0,Very Active,342
+18,Male,175,69,96,0,0,Inactive,182
+79,Male,165,73,97,0,0,Very Active,129
+63,Female,113,64,104,0,0,Inactive,121
+74,Female,119,59,98,2,28,Inactive,77
+68,Male,184,75,107,2,10,Inactive,83
+79,Female,139,70,104,2,0,Inactive,117
+37,Male,176,74,92,0,32,Inactive,98
+22,Female,122,60,100,2,0,Very Active,361
+40,Female,118,68,100,2,0,Active,258
+25,Male,129,74,100,3,0,Active,205
+36,Female,148,66,90,1,0,Active,259
+43,Female,111,65,100,0,0,Active,228
+44,Male,134,75,109,0,0,Active,181
+51,Female,133,66,104,0,2,Active,188
+19,Male,194,72,96,1,0,Active,223
+64,Female,129,67,90,1,0,Very Active,209
+50,Male,153,74,101,0,29,Inactive,101
+18,Male,171,76,92,1,0,Very Active,304
+42,Female,122,71,90,0,0,Inactive,169
+71,Female,151,69,100,0,21,Inactive,70
+24,Male,171,69,104,1,0,Active,225
+54,Female,146,65,99,0,0,Inactive,153
+57,Male,162,79,91,0,0,Active,159
+52,Male,189,77,107,1,0,Inactive,115
+80,Female,136,63,93,2,0,Very Active,167
+22,Male,162,73,114,1,0,Inactive,169
+79,Female,104,65,96,2,0,Active,140
+58,Male,145,68,103,3,0,Active,130
+59,Female,124,71,92,0,0,Active,210
+79,Male,176,73,93,1,19,Inactive,72
+59,Female,117,65,100,2,0,Inactive,121
+50,Female,118,66,99,0,0,Very Active,261
+26,Female,113,69,100,2,14,Inactive,132
+38,Female,133,60,90,0,0,Active,250
+71,Female,132,65,104,1,0,Inactive,126
+77,Female,114,63,90,1,0,Very Active,181
+50,Male,172,68,88,0,0,Very Active,171
+46,Female,128,67,93,0,0,Inactive,151
+38,Male,177,72,82,1,0,Inactive,136
+55,Male,167,71,102,0,0,Inactive,102
+50,Female,147,66,103,0,0,Inactive,109
+20,Male,162,70,93,0,24,Very Active,193
+37,Female,114,64,97,3,0,Very Active,288
+69,Female,116,63,96,1,0,Active,153
+31,Female,117,69,109,0,0,Active,331
+39,Male,161,70,92,0,0,Active,193
+53,Male,151,71,107,1,39,Inactive,77
+66,Female,125,64,99,1,0,Inactive,89
+52,Male,193,69,108,5,0,Inactive,100
+18,Female,109,70,85,1,0,Very Active,505
+65,Female,118,67,102,1,0,Inactive,117
+33,Male,171,74,103,1,0,Inactive,170
+75,Female,152,65,101,2,0,Very Active,173
+31,Female,118,67,101,0,0,Inactive,243
+32,Male,174,66,87,0,0,Inactive,133
+44,Female,125,69,92,2,0,Active,211
+43,Female,124,67,109,0,0,Active,256
+29,Male,146,71,109,0,0,Active,223
+57,Female,131,70,117,4,0,Active,191
+26,Male,195,77,114,1,0,Inactive,188
+44,Male,171,68,102,4,0,Inactive,116
+78,Male,181,69,109,3,0,Active,94
+60,Female,146,65,99,1,0,Very Active,209
+41,Male,160,69,98,0,0,Active,186
+76,Female,143,62,100,0,0,Inactive,98
+29,Female,110,67,104,2,23,Active,191
+78,Female,152,64,94,0,0,Active,134
+68,Female,125,66,104,1,0,Very Active,200
+41,Male,170,70,94,0,37,Very Active,127
+22,Female,122,67,104,0,0,Inactive,195
+55,Male,167,73,108,0,0,Active,143
+42,Male,180,71,104,1,0,Inactive,113
+19,Female,116,65,96,2,0,Inactive,236
+56,Female,113,70,98,1,35,Inactive,110
+59,Female,109,65,97,1,0,Very Active,227
+59,Female,131,65,107,0,0,Very Active,223
+64,Female,136,67,104,0,0,Inactive,141
+70,Male,163,75,109,1,0,Inactive,106
+65,Female,119,66,90,1,0,Active,186
+73,Male,173,75,94,1,0,Active,122
+70,Female,129,69,99,0,0,Very Active,202
+37,Male,137,74,110,0,0,Inactive,165
+46,Female,131,70,93,1,0,Inactive,150
+61,Male,148,72,94,0,0,Active,136
+28,Female,122,67,104,0,0,Inactive,255
+51,Male,161,76,106,2,0,Inactive,102
+53,Male,157,73,103,1,0,Active,154
+54,Male,151,73,107,0,34,Inactive,83
+50,Female,122,65,97,1,39,Active,126
+38,Female,149,67,108,1,0,Active,253
+46,Female,120,67,96,0,30,Active,148
+80,Male,150,72,95,1,0,Inactive,77
+78,Female,123,67,92,1,0,Active,141
+65,Male,163,78,92,1,0,Inactive,91
+51,Female,127,60,100,1,0,Very Active,231
+47,Female,114,68,101,1,0,Inactive,151
+48,Male,183,72,95,0,0,Inactive,124
+47,Female,108,70,102,1,0,Inactive,124
+26,Male,179,69,101,0,0,Active,229
+33,Female,136,67,109,1,0,Active,284
+50,Female,142,71,105,1,0,Active,195
+27,Female,156,65,100,2,0,Active,246
+49,Female,134,69,100,1,0,Inactive,170
+78,Female,118,68,93,4,0,Very Active,173
+76,Female,135,65,96,3,11,Inactive,87
+47,Female,94,66,102,1,0,Inactive,156
+31,Female,133,63,102,0,28,Very Active,218
+30,Female,149,63,106,1,0,Very Active,308
+39,Female,116,67,105,0,0,Active,280
+33,Male,186,70,96,0,0,Active,184
+45,Female,120,67,99,1,0,Active,213
+48,Female,133,68,99,0,0,Inactive,147
+77,Female,148,69,99,0,0,Active,162
+46,Male,163,70,96,2,0,Inactive,116
+50,Female,135,67,110,2,0,Very Active,240
+63,Male,187,74,111,0,0,Inactive,92
+18,Female,104,72,105,1,0,Inactive,235
+53,Male,167,73,95,0,0,Active,160
+27,Female,131,70,89,1,0,Active,293
+45,Male,157,70,102,1,39,Inactive,81
+28,Male,167,72,99,1,0,Active,220
+38,Male,164,69,99,2,0,Active,157
+20,Female,146,66,102,1,1,Active,301
+49,Female,123,59,90,0,0,Active,190
+25,Male,168,74,106,0,0,Inactive,215
+28,Female,119,69,106,0,0,Active,307
+45,Female,118,63,103,1,0,Active,236
+31,Female,138,67,101,1,13,Active,207
+59,Female,136,67,102,0,0,Very Active,224
+48,Female,122,64,97,1,0,Active,226
+67,Female,139,66,101,2,0,Active,171
+41,Male,141,67,100,1,0,Active,164
+74,Female,124,69,107,1,0,Very Active,191
+66,Female,99,60,101,2,30,Active,134
+36,Female,126,61,100,2,0,Active,251
+33,Male,166,75,98,2,36,Inactive,92
+32,Female,124,70,102,1,0,Inactive,232
+63,Female,154,70,95,0,0,Active,165
+47,Female,131,70,112,1,0,Inactive,177
+67,Male,178,72,99,1,0,Inactive,105
+34,Female,123,72,104,7,12,Inactive,104
+18,Female,106,66,109,0,11,Active,347
+28,Female,113,64,83,1,0,Active,283
+35,Male,191,74,110,0,36,Very Active,136
+35,Male,137,68,92,1,0,Inactive,134
+70,Female,105,77,101,0,23,Active,133
+44,Male,177,80,99,0,0,Inactive,158
+41,Female,97,65,102,2,0,Active,229
+80,Female,163,64,108,1,0,Inactive,73
+43,Female,125,71,96,0,0,Active,232
+70,Female,108,63,105,0,0,Very Active,202
+79,Male,155,74,100,0,0,Inactive,101
+79,Male,173,71,93,3,0,Active,96
+35,Male,152,72,108,0,1,Inactive,141
+60,Male,162,69,92,0,0,Active,131
+56,Male,137,74,104,0,0,Inactive,136
+38,Female,100,65,90,0,0,Inactive,220
+79,Male,163,72,99,1,0,Inactive,86
+52,Male,160,70,101,2,0,Inactive,121
+33,Female,156,65,99,1,0,Inactive,131
+63,Female,124,72,107,2,0,Inactive,95
+53,Female,151,63,112,0,0,Active,201
+68,Male,161,72,98,2,21,Inactive,76
+45,Male,132,75,97,1,26,Inactive,109
+72,Female,123,62,98,5,0,Inactive,115
+58,Male,139,74,91,2,24,Inactive,93
+37,Female,137,64,90,0,0,Active,264
+20,Female,118,63,103,1,0,Active,373
+22,Male,175,73,91,5,0,Very Active,200
+60,Male,170,69,104,0,0,Active,129
+42,Male,156,71,100,0,0,Inactive,125
+64,Female,148,65,107,0,0,Very Active,203
+50,Female,137,71,101,1,0,Active,197
+71,Female,89,64,96,0,0,Very Active,209
+42,Female,132,65,100,1,0,Active,243
+42,Male,172,74,103,0,0,Inactive,156
+39,Female,149,65,104,1,0,Inactive,152
+58,Male,183,72,108,1,0,Very Active,150
+51,Female,128,63,112,2,4,Inactive,147
+23,Female,118,64,98,1,0,Active,354
+53,Female,115,66,95,1,0,Very Active,245
+60,Female,116,70,97,0,0,Very Active,235
+39,Female,133,60,110,0,0,Active,215
+46,Female,120,65,92,1,0,Active,235
+71,Female,150,72,102,0,0,Active,175
+35,Male,149,72,105,2,0,Inactive,127
+68,Female,110,66,103,0,0,Inactive,117
+39,Female,129,63,103,1,0,Active,219
+45,Female,128,68,111,1,0,Active,211
+79,Female,100,58,104,0,0,Inactive,100
+22,Female,112,64,102,1,0,Inactive,231
+43,Male,156,73,90,1,0,Active,163
+22,Female,140,64,96,0,0,Inactive,261
+46,Male,152,71,94,2,0,Active,160
+40,Male,185,65,105,3,0,Inactive,109
+75,Male,150,77,99,2,19,Inactive,83
+47,Female,116,70,101,0,0,Inactive,157
+35,Female,117,66,101,3,0,Active,267
+53,Female,145,69,99,0,0,Active,215
+25,Female,122,68,92,1,0,Inactive,263
+37,Male,179,73,98,3,16,Inactive,90
+61,Female,120,69,96,4,0,Active,185
+39,Female,102,67,102,3,0,Inactive,131
+49,Female,149,66,104,0,0,Very Active,246
+36,Male,173,76,106,0,0,Inactive,175
+54,Female,125,72,102,0,0,Inactive,141
+80,Male,186,75,98,1,0,Active,112
+49,Female,133,67,97,0,32,Active,137
+30,Female,119,67,99,2,0,Inactive,190
+72,Female,122,67,101,1,0,Inactive,86
+65,Female,136,65,96,0,7,Very Active,190
+19,Male,163,78,107,2,13,Active,204
+54,Female,122,66,98,1,0,Inactive,106
+71,Female,119,64,112,0,0,Inactive,109
+70,Male,164,75,93,0,0,Inactive,88
+49,Female,170,67,97,1,0,Active,180
+63,Male,156,78,104,0,16,Inactive,82
+56,Female,134,63,92,0,39,Inactive,84
+40,Female,98,69,88,5,0,Inactive,186
+25,Female,150,63,101,2,0,Very Active,324
+68,Male,145,73,111,2,0,Inactive,95
+31,Female,126,70,104,0,0,Active,326
+75,Male,184,65,100,1,0,Active,100
+42,Female,132,64,106,1,40,Active,131
+27,Male,171,76,99,1,0,Very Active,251
+21,Female,122,71,91,1,0,Active,350
+58,Female,146,60,100,1,0,Active,181
+18,Female,152,65,94,1,0,Inactive,221
+69,Female,123,64,102,0,0,Inactive,133
+77,Female,92,66,93,0,0,Inactive,109
+25,Male,157,72,104,1,0,Inactive,179
+25,Female,118,65,101,1,0,Active,300
+59,Female,135,66,95,1,30,Inactive,71
+46,Female,123,64,107,2,16,Inactive,92
+62,Female,111,64,98,1,0,Active,193
+43,Male,165,73,92,3,0,Very Active,169
+53,Female,138,62,101,0,0,Inactive,153
+73,Male,134,76,92,1,0,Inactive,96
+66,Male,160,71,102,2,19,Inactive,87
+25,Male,173,67,107,2,2,Active,193
+27,Female,99,69,97,1,0,Inactive,183
+78,Female,130,62,93,2,0,Active,132
+47,Male,192,72,112,1,0,Inactive,130
+26,Male,134,68,105,1,0,Very Active,258
+68,Male,170,78,104,3,32,Active,91
+72,Male,191,67,103,2,0,Very Active,118
+52,Male,180,71,103,3,0,Inactive,112
+79,Male,137,69,112,0,0,Inactive,91
+48,Female,137,70,108,1,0,Inactive,144
+34,Female,130,68,109,0,0,Very Active,335
+24,Female,134,63,94,0,10,Inactive,139
+69,Female,137,70,101,0,0,Inactive,135
+28,Male,175,71,103,1,0,Active,195
+53,Male,156,75,97,1,0,Inactive,105
+59,Male,171,69,104,1,0,Inactive,91
+62,Female,125,68,97,1,0,Active,169
+67,Female,139,66,103,0,18,Very Active,168
+21,Male,202,73,95,1,0,Active,213
+64,Female,152,60,105,2,0,Very Active,184
+65,Male,141,73,100,0,0,Active,144
+28,Male,166,71,94,1,0,Inactive,145
+28,Male,151,66,97,2,29,Inactive,112
+18,Male,176,70,100,1,26,Very Active,177
+53,Female,132,65,105,0,0,Very Active,240
+45,Male,153,69,90,2,30,Inactive,95
+25,Female,129,67,108,2,0,Active,285
+22,Female,99,70,106,1,0,Inactive,314
+22,Female,126,65,109,0,0,Inactive,186
+50,Female,121,75,104,0,0,Very Active,276
+56,Male,145,77,91,3,22,Very Active,121
+79,Female,123,69,94,2,0,Active,158
+40,Female,152,68,98,4,0,Active,197
+34,Female,121,69,98,0,0,Active,270
+55,Female,128,69,101,2,0,Inactive,154
+41,Male,174,67,94,1,0,Inactive,138
+60,Female,114,62,97,2,0,Inactive,94
+46,Male,161,77,87,1,0,Inactive,130
+80,Female,132,69,97,1,0,Inactive,99
+80,Male,161,73,109,2,0,Active,101
+27,Male,164,68,100,2,0,Inactive,150
+40,Female,152,73,101,0,0,Inactive,133
+67,Female,153,64,101,2,36,Inactive,90
+55,Female,120,65,90,0,0,Active,187
+32,Female,98,60,104,1,0,Active,301
+51,Female,148,68,101,3,0,Inactive,151
+36,Male,146,66,98,0,0,Inactive,168
+43,Female,115,67,104,0,0,Active,262
+59,Female,136,65,91,0,0,Very Active,221
+60,Female,125,72,99,1,0,Active,177
+46,Female,124,69,91,2,0,Inactive,117
+75,Female,116,62,98,2,0,Inactive,100
+27,Female,119,61,100,2,0,Inactive,187
+22,Male,183,71,106,1,35,Inactive,116
+27,Female,131,68,105,1,0,Inactive,164
+42,Male,153,69,96,1,0,Very Active,190
+41,Female,124,65,99,1,0,Active,220
+52,Female,126,68,101,0,0,Very Active,253
+36,Male,175,74,100,0,5,Active,189
+27,Male,202,71,107,0,0,Inactive,181
+78,Male,185,72,97,1,0,Inactive,75
+29,Female,109,68,113,1,18,Inactive,183
+42,Female,147,72,103,0,14,Inactive,132
+44,Male,162,77,103,1,31,Inactive,92
+18,Female,133,65,94,1,0,Inactive,285
+31,Female,119,61,91,1,0,Inactive,216
+45,Male,176,70,105,1,0,Inactive,121
+20,Male,180,79,99,1,0,Inactive,203
+65,Female,135,68,96,1,0,Inactive,137
+61,Male,158,76,109,0,38,Active,93
+63,Female,149,60,96,1,0,Very Active,191
+36,Female,148,64,108,1,20,Inactive,120
+43,Female,127,69,104,1,0,Inactive,188
+41,Male,187,67,101,0,0,Inactive,114
+39,Male,168,79,102,2,22,Active,125
+22,Male,171,80,93,2,0,Inactive,164
+32,Female,150,64,100,2,0,Inactive,162
+78,Female,127,74,97,0,0,Inactive,106
+49,Female,134,65,92,1,0,Very Active,246
+44,Male,176,75,104,0,0,Very Active,197
+55,Female,114,65,97,1,0,Inactive,105
+65,Female,132,71,101,1,9,Very Active,191
+39,Female,132,64,93,1,0,Active,220
+32,Male,157,71,106,1,0,Inactive,173
+46,Female,137,69,104,1,38,Active,151
+35,Female,148,66,98,1,0,Active,263
+33,Female,127,64,103,0,0,Active,292
+59,Male,188,75,106,0,0,Active,133
+25,Female,136,72,88,0,0,Very Active,414
+69,Female,129,66,94,2,0,Active,171
+22,Female,132,63,104,1,0,Inactive,253
+39,Male,177,74,103,3,32,Active,104
+19,Female,126,67,107,3,0,Active,313
+80,Female,110,67,93,0,0,Active,144
+26,Male,165,70,106,0,0,Inactive,161
+29,Male,143,73,106,0,0,Active,230
+30,Female,144,61,102,0,0,Inactive,175
+64,Male,187,72,102,0,0,Active,134
+53,Female,120,67,98,1,0,Inactive,108
+61,Female,137,71,91,2,0,Active,166
+61,Female,110,67,96,2,0,Active,195
+54,Male,159,74,90,0,0,Inactive,134
+59,Female,121,64,94,0,0,Inactive,150
+56,Male,165,69,100,0,0,Very Active,162
+77,Female,157,71,95,1,0,Very Active,178
+23,Female,149,70,92,0,0,Inactive,180
+78,Female,97,68,100,1,0,Active,148
+24,Female,114,65,103,0,0,Active,372
+45,Male,173,72,102,1,0,Inactive,124
+34,Female,125,71,103,2,0,Active,253
+24,Male,177,71,95,2,0,Inactive,176
+35,Female,103,70,97,2,0,Inactive,149
+75,Male,170,72,101,1,0,Inactive,78
+49,Male,179,76,92,0,6,Active,156
+74,Male,160,67,104,1,0,Inactive,87
+44,Female,114,69,100,0,0,Inactive,197
+68,Female,145,66,97,1,0,Active,171
+40,Female,119,67,103,1,0,Very Active,297
+50,Male,153,70,99,0,0,Very Active,181
+36,Male,160,68,102,0,0,Inactive,166
+49,Female,133,70,94,0,0,Inactive,118
+52,Male,169,75,99,2,0,Inactive,111
+68,Male,148,65,102,0,35,Inactive,78
+39,Female,152,72,92,1,0,Inactive,162
+49,Male,148,74,101,2,0,Inactive,105
+45,Male,153,72,106,0,0,Active,183
+55,Male,179,73,102,1,0,Inactive,121
+46,Female,118,71,104,1,31,Active,168
+24,Female,121,62,97,0,39,Inactive,141
+76,Male,173,74,98,0,0,Active,112
+47,Male,180,74,97,0,0,Very Active,185
+29,Female,134,68,96,0,0,Inactive,243
+19,Male,197,70,96,0,26,Active,164
+64,Female,120,70,107,4,0,Inactive,90
+33,Female,140,66,105,0,0,Very Active,324
+79,Female,101,66,90,1,0,Inactive,103
+60,Female,106,56,99,2,11,Inactive,122
+22,Female,134,67,102,2,10,Active,281
+75,Male,180,74,93,0,0,Inactive,92
+38,Male,151,69,95,0,37,Active,123
+74,Female,116,71,90,1,0,Active,174
+51,Female,102,61,93,1,0,Inactive,166
+24,Female,128,63,99,0,0,Very Active,386
+69,Female,157,68,107,2,0,Inactive,83
+34,Female,134,65,99,1,0,Active,274
+21,Female,120,64,104,1,0,Inactive,183
+48,Male,167,71,110,1,0,Inactive,106
+20,Female,126,59,95,0,0,Very Active,396
+68,Female,135,70,101,0,0,Inactive,114
+54,Female,141,60,105,0,0,Inactive,98
+37,Female,141,68,105,0,39,Inactive,103
+55,Female,90,71,112,3,0,Inactive,109
+53,Male,171,70,103,1,0,Active,135
+44,Female,149,65,96,0,0,Active,233
+63,Female,150,65,103,4,0,Inactive,125
+62,Female,146,66,96,1,0,Active,183
+52,Female,149,68,102,1,0,Active,183
+49,Female,135,67,108,0,0,Active,228
+21,Female,127,66,106,0,0,Inactive,241
+74,Male,162,75,101,0,0,Inactive,85
+66,Female,120,67,102,0,0,Inactive,94
+66,Female,153,72,103,1,0,Active,180
+33,Male,186,68,94,1,0,Active,184
+37,Female,117,65,96,1,0,Inactive,137
+67,Male,173,71,105,0,0,Very Active,143
+39,Female,109,65,97,0,25,Inactive,97
+78,Female,78,71,90,1,11,Very Active,177
+37,Female,119,64,97,1,0,Inactive,135
+29,Female,107,69,101,3,5,Inactive,179
+31,Female,116,69,98,0,3,Inactive,156
+57,Male,132,71,101,2,0,Active,132
+66,Female,118,62,108,0,12,Inactive,121
+71,Male,183,72,114,1,0,Very Active,130
+28,Female,131,64,93,1,0,Active,267
+23,Male,150,71,98,0,0,Active,273
+72,Female,110,61,101,1,0,Very Active,190
+45,Male,153,72,98,2,0,Very Active,176
+28,Male,163,75,106,2,28,Active,130
+76,Male,139,69,99,0,4,Active,109
+46,Female,136,63,90,2,0,Inactive,162
+58,Male,169,72,104,2,0,Inactive,101
+56,Female,77,64,98,3,0,Inactive,133
+38,Male,151,70,103,5,0,Inactive,100
+45,Female,135,62,99,0,0,Very Active,258
+72,Female,130,62,102,0,0,Inactive,125
+26,Female,142,68,99,0,0,Very Active,378

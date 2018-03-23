@@ -1,0 +1,21 @@
+Person Id,Age,Sex,Weight  in lbs,Height in Inch,IQ,Units of alcohol per day,Cigarettes per day,Active,Health Score (high is good)
+1,65,Male,191,69,104,0,0,Active,??
+2,46,Female,99,66,103,0,0,Active,??
+3,51,Female,135,71,105,1,0,Inactive,??
+4,37,Female,126,66,96,1,0,Active,??
+5,77,Female,114,67,99,0,0,Active,??
+6,79,Female,100,69,97,1,0,Inactive,??
+7,51,Female,119,67,103,1,0,Active,??
+8,41,Male,177,70,103,5,0,Active,??
+9,33,Male,185,68,94,0,0,Active,??
+10,56,Female,105,64,95,0,0,Very Active,??
+11,54,Male,157,75,88,1,14,Inactive,??
+12,18,Male,172,72,106,2,0,Inactive,??
+13,59,Female,132,64,97,2,0,Inactive,??
+14,19,Female,126,70,95,1,0,Active,??
+15,44,Female,134,70,91,0,0,Very Active,??
+16,76,Female,143,64,97,2,0,Active,??
+17,79,Female,98,65,99,3,0,Active,??
+18,71,Male,162,71,107,1,20,Inactive,??
+19,60,Male,188,70,104,0,17,Very Active,??
+20,27,Female,134,67,100,1,0,Active,??
